@@ -109,7 +109,7 @@ df = pd.read_csv(df_path)
 batches = produce_batches(df['text'].tolist(), batch_size)
 p = mp.Pool(processes = os.cpu_count() - 1)
 results = list(p.imap_unordered(extract_emb, tqdm.tqdm(batches)))
-arrays = [(b, np.concatenate(l)) for b, l in sorted(results)]
+arrays = [(b, np.stack(l)) for b, l in sorted(results)]
 for b, a in arrays:
     np.save('{}/embeddings/{}.npy'.format(output_folder, b), a)
     
