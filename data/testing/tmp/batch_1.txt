@@ -1,0 +1,800 @@
+BACKGROUND/AIMS: The purpose of the present article is a systematic review of the proposed medical or surgical treatments in patients in chronic vegetative state (VS) or minimally conscious state (MCS), as well as of their mechanisms of action and limitations. 
+METHODS: For this review, we have agreed to include patients in VS or MCS having  persisted for over 6 months in posttraumatic cases, and over 3 months in nontraumatic cases, before the time of intervention. 
+Searches were independently  conducted by 2 investigators between May 2009 and September 2009 in the following databases: Medline, Web of Science and the Cochrane Library. 
+The electronic search was complemented by cross-checking the references of all relevant articles. 
+Overall, 16 papers were eligible for this systematic review. 
+RESULTS: According to the 16 eligible studies, medical management by dopaminergic agents (levodopa, amantadine), zolpidem and median nerve stimulation, or surgical management by deep brain stimulation, extradural cortical stimulation, spinal cord stimulation and intrathecal baclofen have shown to improve the level of consciousness in certain cases. 
+CONCLUSION: The treatments proposed for disorders of consciousness have not yet gained the level of 'evidence-based treatments'; moreover, the studies to date have led to inconclusiveness. 
+The published therapeutic responses must be substantiated by further clinical studies of sound methodology. 
+Pharmacological modulation of the state of awareness in patients with disorders of consciousness: an overview.  
+The neurobiological approach to consciousness moves from the assumption that all  phenomenal experiences are based on neuronal activity in the brain. 
+Consciousness has two main components: wakefulness and awareness. 
+While it may be relatively easy to determine the neuronal correlates of wakefulness, it is not the same for  awareness, of which the neural correlates are poorly understood. 
+Knowledge of the circuitry and the neurochemistry of the sleep/wake condition is necessary but not sufficient to understand the circuitry and neurochemistry of consciousness. 
+Disorders of consciousness (DOCs) include coma, vegetative state and minimally conscious state. 
+The study of DOCs and of the electrophysiological changes underlying general anaesthesia-induced loss of consciousness may help in understanding the neuronal correlates of consciousness. 
+In turn, the understanding of the neural bases of consciousness may help in designing interventions aimed at restoring consciousness in DOC patients. 
+Sporadic cases of recovery from a DOC have been reported after the administration of various pharmacological agents (baclofen, zolpidem, amantadine etc.). 
+This review provides an overview of such drugs, which are from various and diverging classes  but can be grouped into two main categories: CNS stimulants and CNS depressants. 
+ The available data seem to suggest an awakening effect obtained with CNS depressants rather than stimulants, the latter being more effective at improving  functional cognitive and behavioral recovery in patients who have spontaneously regained an appreciable level of consciousness. 
+There is a need for more rigorous systematic trials and further investigation of the above treatments, with particular attention paid to their mechanisms of action and the neurotransmitters involved. 
+Amantadine, apomorphine and zolpidem in the treatment of disorders of consciousness.  
+Survivors of severe brain injuries may end up in a state of 'wakeful unresponsiveness' or in a minimally conscious state. 
+Pharmacological treatments of patients with disorders of consciousness aim to improve arousal levels and recovery of consciousness. 
+We here provide a systematic overview of the therapeutic effects of amantadine, apomorphine and zolpidem in patients recovering from coma. 
+Evidence from clinical trials using these commonly prescribed pharmacological agents suggests positive changes of the patients' neurological status, leading sometimes to dramatic improvements. 
+These findings are discussed in the context of current hypotheses of these agents' therapeutic mechanisms on cerebral function. 
+In order to improve our understanding of the underlying pathophysiological mechanisms of these drugs, we suggest combining sensitive and specific behavioral tools with neuroimaging and electrophysiological measures in large randomized, double-blind, placebo-controlled experimental designs. 
+We conclude that the pharmacokinetics and pharmacodynamics of amantadine, apomorphine and zolpidem need further exploration to determine which treatment would provide a better neurological outcome regarding the patient's etiology, diagnosis, time since injury and overall condition. 
+Disorders of consciousness and pharmaceuticals that act on oxygen based amino acid and monoamine neurotransmitter pathways of the brain.  
+Oxygen based neurotransmitters in the synapses of the brain are proposed to play  an important role in the generation of consciousness. 
+They include the amino acids glutamate and GABA which use Krebs cycle precursors for their synthesis, and the monoamines dopamine, noradrenalin, adrenalin and serotonin, which are derived from tyrosine and tryptophan. 
+During ischemia after an acute brain injury, a GABA surge often initiates brain suppression. 
+It has been proposed that with chronic ischemia, a secondary, possibly epigenetic response occurs when neurotransmitters deplete, a glucose and oxygen saving mechanism termed neurodormancy that may invoke alternative long term low energy metabolic pathways in the brain, encountered in Disorders of Consciousness. 
+Some medications can reverse Disorders of Consciousness in some patients. 
+Virtually all of them act on neurotransmitter systems that use oxygen as a building block or as an energy source within the brain. 
+Pharmaceuticals that act in the oxygen based amino acid  systems of the brain include the GABAergic medications zolpidem and baclofen, while those that act in the monoamine axes include the dopaminergic medications L Dopa, amantadine, bromocriptine, apomorphine and methylphenidate, and the noradrenergic and serotonergic medications desipramine, amitriptyline, protriptyline and fluoxetine. 
+Another group are the cholinesterase inhibitors, responsible for increasing acetylcholine, which is synthesized from the Krebs cycle initiator, acetyl CoA. 
+It appears that pharmaceuticals that are active in the oxygen based neurotransmitter pathways of the brain are successful to arouse  to consciousness patients that suffer from its disorders. 
+Research needs to be supported as foundation to understand the biochemical mechanisms that are involved in consciousness disorders and to explore further the pharmacological treatment possibilities for these devastating neurological conditions. 
+Effects of amantadine in children with impaired consciousness caused by acquired  brain injury: a pilot study.  
+OBJECTIVE: To conduct a pilot study of amantadine in children with impaired consciousness caused by acquired brain injury, to establish design feasibility, and to assess the effect on level of arousal and consciousness. 
+DESIGN: Randomized, double-blind, placebo-controlled crossover trial. 
+Seven subjects (mean age, 12.7 yrs) with an acquired brain injury (mean duration, 6 wks) were randomized to receive either 3 wks of placebo or amantadine, followed by a 1-wk washout period and then 3 wks of the other agent. 
+Main outcome measures were the Coma/Near-Coma Scale and Coma Recovery Scale-Revised, each done three times per week. 
+Subjective evaluations of change in arousal and consciousness by  the parent and physician were done weekly. 
+RESULTS: Five subjects completed the study. 
+There was no significant difference in the slopes of recovery during either arm for the Coma/Near-Coma Scale (P = 0.24) or the Coma Recovery Scale-Revised (P = 0.28), although improvements in consciousness were noted by the physician during weeks when amantadine was given  (P = 0.02). 
+CONCLUSIONS: This study suggests that amantadine facilitates recovery of consciousness in pediatric acquired brain injury and provides important information necessary to design future more definitive studies. 
+Review of awakening agents.  
+Brain injuries are a serious burden of illness to Canada and the US. 
+Advances in  managing head trauma have allowed more patients to emerge from decreased levels of consciousness and helped them cope with neurocognitive, neurobehavioural, and  neuropsychiatric deficits. 
+In this article, we review the current (1986-2002) evidence surrounding the pharmacological management of arousal states and the aforementioned neurological sequelae of head injury in either acute or chronic conditions. 
+This article will review the evidence for the use of psychostimulants (methylphenidate), antidepressants (amitriptyline, selective serotonin reuptake inhibitors, and buproprion), Parkinson's medications (amantadine, bromocriptine,  carbidopa/levodopa), anticonvulsants (valproic acid), modafinil (Provigil), lactate, hyperbaric oxygen chamber, electroconvulsive therapy, and transmagnetic  stimulation, in patients following a head injury. 
+The review did not include all  anticonvulsants, neuroleptics, beta-blockers, benzodiazepines, azospirones or cognitive enhancers. 
+Unfortunately, the quality of the evidence is generally poor, and sometimes conflicting, which in turn results in indecisive guidelines for treating patients. 
+Accepting the inherent flaws in the evidence we feel that  this paper may serve as a stepping-stone for future researchers to improve data gathering that targets neurocognitive, neurobehavioural and neuropsychiatric symptoms following a head injury. 
+Safety, efficacy and pharmacodynamics of vesatolimod (GS-9620) in virally suppressed patients with chronic hepatitis B.  
+BACKGROUND & AIMS: Vesatolimod (GS-9620) is an oral agonist of toll-like receptor 7, an activator of innate and adaptive immune responses. 
+Herein the safety and efficacy of vesatolimod is assessed after once-weekly treatment in patients with  chronic hepatitis B (CHB) infection suppressed on oral antiviral treatment. 
+METHODS: In a phase II, double-blind, randomized, placebo (PBO)-controlled study, 162 patients stratified by hepatitis B surface antigen (HBsAg) levels and serum hepatitis B e antigen (HBeAg) status were randomized 1:3:3:3 to once-weekly oral  PBO or vesatolimod (1-, 2-, or 4-mg doses) for 4, 8 or 12 weeks per cohort. 
+Efficacy was assessed by change in baseline HBsAg (log10 IU/ml) at the primary endpoint (Week 24). 
+Safety assessments included adverse events (AE) and laboratory abnormality monitoring. 
+Pharmacodynamic assessments included peripheral cytokine level quantification and interferon-stimulated gene (ISG) mRNA expression evaluation. 
+RESULTS: The majority of patients were male (76%) and HBeAg-negative (79%) at baseline. 
+Most (41-80%) experienced ≥1 AE during the study with the majority of AEs mild or moderate in severity. 
+No significant declines in HBsAg were observed  at the primary (Week 24) or secondary endpoints (Weeks 4, 8, 12, and 48). 
+ISG15 induction was dose-dependent and consistent after repeat dosing, returning closer to baseline by one week after treatment at all dose levels; no patient demonstrated significant serum interferon alpha (IFNα) expression at any timepoint evaluated. 
+Multivariate analyses showed that ≥2-fold ISG15 induction is associated with 2- or 4-mg vesatolimod dose and female sex. 
+CONCLUSIONS: Vesatolimod was safe and well-tolerated in patients with CHB, demonstrating consistent dose-dependent pharmacodynamic induction of ISG15 without significant systemic induction of IFNα expression or related symptoms. 
+However, no significant HBsAg declines were observed. 
+LAY SUMMARY: In a phase II study, vesatolimod, an oral, once-weekly, experimental immune-activating drug for the treatment of hepatitis B virus (HBV), is safe and  well-tolerated in chronic HBV patients who are virally suppressed on oral antiviral treatment. 
+Despite demonstrating on-target biomarker responses in patients, no significant declines in hepatitis B surface antigen were observed. 
+Clinical Trial Number: GS-US-283-1059; NCT 02166047. 
+RIblast: an ultrafast RNA-RNA interaction prediction system based on a seed-and-extension approach.  
+Motivation: LncRNAs play important roles in various biological processes. 
+Although more than 58 000 human lncRNA genes have been discovered, most known lncRNAs are still poorly characterized. 
+One approach to understanding the functions of lncRNAs is the detection of the interacting RNA target of each lncRNA. 
+Because experimental detections of comprehensive lncRNA-RNA interactions  are difficult, computational prediction of lncRNA-RNA interactions is an indispensable technique. 
+However, the high computational costs of existing RNA-RNA interaction prediction tools prevent their application to large-scale lncRNA datasets. 
+Results: Here, we present 'RIblast', an ultrafast RNA-RNA interaction prediction  method based on the seed-and-extension approach. 
+RIblast discovers seed regions using suffix arrays and subsequently extends seed regions based on an RNA secondary structure energy model. 
+Computational experiments indicate that RIblast achieves a level of prediction accuracy similar to those of existing programs, but at speeds over 64 times faster than existing programs. 
+Availability and implementation: The source code of RIblast is freely available at https://github.com/fukunagatsu/RIblast . 
+Contact: t.fukunaga@kurenai.waseda.jp or mhamada@waseda.jp. 
+Supplementary information: Supplementary data are available at Bioinformatics online. 
+Standards of care for Duchenne muscular dystrophy: brief TREAT-NMD recommendations.  
+The TREAT-NMD care and trial site registry: an online registry to facilitate clinical research for neuromuscular diseases.  
+BACKGROUND: Rare diseases pose many research challenges specific to their scarcity. 
+Advances in potential therapies have made it more important than ever to be able to adequately identify not only patients with particular genotypes (via patient registries) but also the medical professionals who provide care for  them at particular specialist centres of expertise and who may be competent to participate in trials. 
+Work within the neuromuscular field provides an example of how this may be achieved. 
+METHODS: This paper describes the development of the TREAT-NMD Care and Trial Site Registry (CTSR), an initiative of an EU-funded Network of Excellence, and its utility in providing an infrastructure for clinical trial feasibility, recruitment, and other studies. 
+RESULTS: 285 CTSR-registered centres, reporting 35,495 neuromuscular patients, are described alongside an analysis of their provision for DMD. 
+Site characteristics vary by country: the average number of DMD patients seen per site in the United States (96) is more than in Germany (25), and paediatric/adult breakdown is also markedly distinct. 
+Over 70% of sites have previous trial experience, with a majority including a Clinical Trials Unit. 
+Most sites also have MLPA diagnostic capability and access to a range of medical specialists. 
+However, in the three countries reporting most sites (US, the UK and Germany), few had access to all core DMD specialists internally. 
+Over 60% of sites did not  report any form of transition arrangement. 
+CONCLUSIONS: Registries of care and trial sites have significant utility for research into rare conditions such as neuromuscular diseases, demonstrated by the significant engagement by industry and other researchers with the CTSR. 
+We suggest that this approach may be applicable to other fields needing to identify  centres of expertise with the potential to carry out clinical research and engage in clinical trials. 
+Such registries also lend themselves to the developing context of European Reference Networks (ERNs), which seek to build networks of centres of expertise which fit specific criteria, and which may themselves aid the sustainability of such registries. 
+This is particularly the case given the utility of registries such as the CTSR in enabling networks of best-practice care centres. 
+The TREAT-NMD Duchenne muscular dystrophy registries: conception, design, and utilization by industry and academia.  
+Duchenne muscular dystrophy (DMD) is an X-linked genetic disease, caused by the absence of the dystrophin protein. 
+Although many novel therapies are under development for DMD, there is currently no cure and affected individuals are often confined to a wheelchair by their teens and die in their twenties/thirties. 
+DMD is a rare disease (prevalence <5/10,000). 
+Even the largest countries do not have enough affected patients to rigorously assess novel therapies, unravel genetic complexities, and determine patient outcomes. 
+TREAT-NMD is a worldwide network for neuromuscular diseases that provides an infrastructure to support the delivery of promising new therapies for patients. 
+The harmonized implementation of national and ultimately global patient registries has been central to the success of TREAT-NMD. 
+For the DMD registries within TREAT-NMD, individual countries have chosen to collect patient information in the form of standardized  patient registries to increase the overall patient population on which clinical outcomes and new technologies can be assessed. 
+The registries comprise more than  13,500 patients from 31 different countries. 
+Here, we describe how the TREAT-NMD  national patient registries for DMD were established. 
+We look at their continued  growth and assess how successful they have been at fostering collaboration between academia, patient organizations, and industry. 
+Infrastructure for new drug development to treat muscular dystrophy: current status of patient registration (remudy).  
+Clinical trials for new therapeutic strategies are now being planned for Duchenne and Becker muscular dystrophies (DMD/BMD); however, many challenges exist in the  planning and conduction of a clinical trial for rare diseases. 
+The epidemiological data, total number of patients, natural history, and clinical outcome measures are unclear. 
+Adequate numbers of patients are needed to achieve  significant results in clinical trials. 
+As solutions to these problems, patient registries are an important infrastructure worldwide, especially in the case of rare diseases such as DMD/BMD. 
+In Europe, TREAT-NMD, a clinical research network  for neuromuscular disorders, developeda global database for dystrophinopathy patients. 
+We developed a national registry of Japanese DMD/BMD patients in collaboration with TREAT-NMD. 
+The database includes clinical and molecular genetic data as well as all required items for the TREAT-NMD global patient registry. 
+As of July 2011, 750 patients were registered in the database. 
+The purpose of this registry is the effective recruitment of eligible patients for clinical trials, and it may also provide timely information to individual patients about upcoming trials. 
+This registry data also provides more detailed knowledge about natural history, epidemiology, and clinical care. 
+In recent years, drug development has become dramatically globalized, and global clinical trials (GCTs) are being conducted in Japan. 
+It is appropriate, particularly with  regard to orphan diseases, to include Japanese patients in GCTs to increase evidence for evaluation, because such large-scale trials would be difficult to conduct solely within Japan. 
+GCTs enable the synchronization of clinical drug development in Japan with that in Western countries, minimizing drug approval delays. 
+Late onset spinal motor neuronopathy is caused by mutation in CHCHD10.  
+Comment in     Ann Neurol. 
+2015 Nov;78(5):831. 
+    Ann Neurol. 
+2015 Nov;78(5):831-2. 
+A mitochondrial origin for frontotemporal dementia and amyotrophic lateral sclerosis through CHCHD10 involvement.  
+Comment in     Brain. 
+2014 Dec;137(Pt 12):e309. 
+    Brain. 
+2014 Dec;137(Pt 12):e310. 
+    Brain. 
+2014 Dec;137(Pt 12):e312. 
+    Brain. 
+2014 Dec;137(Pt 12):e311. 
+    Brain. 
+2014 Dec;137(Pt 12):e313. 
+    Brain. 
+2014 Dec;137(Pt 12):e314. 
+    Brain. 
+2015 Aug;138(Pt 8):e372. 
+    Brain. 
+2015 Aug;138(Pt 8):e373. 
+    Brain. 
+2015 Sep;138(Pt 9):e377. 
+    Brain. 
+2015 Sep;138(Pt 9):e376. 
+    Brain. 
+2015 Sep;138(Pt 9):e380. 
+    Brain. 
+2015 Oct;138(Pt 10):e386. 
+    Brain. 
+2015 Oct;138(Pt 10):e385. 
+    Brain. 
+2016 Feb;139(Pt 2):e8. 
+    Brain. 
+2016 Apr;139(Pt 4):e22. 
+    Brain. 
+2016 Apr;139(Pt 4):e21. 
+Mutation in the novel nuclear-encoded mitochondrial protein CHCHD10 in a family with autosomal dominant mitochondrial myopathy.  
+Mitochondrial myopathies belong to a larger group of systemic diseases caused by  morphological or biochemical abnormalities of mitochondria. 
+Mitochondrial disorders can be caused by mutations in either the mitochondrial or nuclear genome. 
+Only 5% of all mitochondrial disorders are autosomal dominant. 
+We analyzed DNA from members of the previously reported Puerto Rican kindred with an autosomal dominant mitochondrial myopathy (Heimann-Patterson et al. 
+1997). 
+Linkage analysis suggested a putative locus on the pericentric region of the long arm of chromosome 22 (22q11). 
+Using the tools of integrative genomics, we established chromosome 22 open reading frame 16 (C22orf16) (later designated as CHCHD10) as the only high-scoring mitochondrial candidate gene in our minimal candidate region. 
+Sequence analysis revealed a double-missense mutation (R15S and G58R) in cis in CHCHD10 which encodes a coiled coil-helix-coiled coil-helix protein of unknown function. 
+These two mutations completely co-segregated with the disease phenotype and were absent in 1,481 Caucasian and 80 Hispanic (including 32 Puerto Rican) controls. 
+Expression profiling showed that CHCHD10 is enriched in skeletal muscle. 
+Mitochondrial localization of the CHCHD10 protein was confirmed using immunofluorescence in cells expressing either wild-type or mutant CHCHD10. 
+We found that the expression of the G58R, but not the R15S, mutation induced mitochondrial fragmentation. 
+Our findings identify a novel gene  causing mitochondrial myopathy, thereby expanding the spectrum of mitochondrial myopathies caused by nuclear genes. 
+Our findings also suggest a role for CHCHD10  in the morphologic remodeling of the mitochondria. 
+Screening of CHCHD10 in a French cohort confirms the involvement of this gene in  frontotemporal dementia with amyotrophic lateral sclerosis patients.  
+Mutations in the CHCHD10 gene have been recently identified in a large family with a complex phenotype variably associating frontotemporal dementia (FTD) with  amyotrophic lateral sclerosis (ALS), cerebellar ataxia, myopathy, and hearing impairment. 
+CHCHD10 encodes a protein located in the mitochondrial intermembrane  space and is likely involved in mitochondrial genome stability and maintenance of cristae junctions. 
+However, the exact contribution of CHCHD10 in FTD and ALS diseases spectrum remains unknown. 
+In this study, we evaluated the frequency of CHCHD10 mutations in 115 patients with FTD and FTD-ALS phenotypes. 
+We identified  2 heterozygous variants in 3 unrelated probands presenting FTD and ALS, characterized by early and predominant bulbar symptoms. 
+This study demonstrates the implication of CHCHD10 in FTD and ALS spectrum. 
+Although the frequency of mutations is low in this series (2.6%), our work suggests that CHCHD10 mutations  should be searched particularly when bulbar symptoms are present at onset. 
+De novo genesis of enhancers in vertebrates.  
+Evolutionary innovation relies partially on changes in gene regulation. 
+While a growing body of evidence demonstrates that such innovation is generated by functional changes or translocation of regulatory elements via mobile genetic elements, the de novo generation of enhancers from non-regulatory/non-mobile sequences has, to our knowledge, not previously been demonstrated. 
+Here we show evidence for the de novo genesis of enhancers in vertebrates. 
+For this, we took advantage of the massive gene loss following the last whole genome duplication in teleosts to systematically identify regions that have lost their coding capacity  but retain sequence conservation with mammals. 
+We found that these regions show enhancer activity while the orthologous coding regions have no regulatory activity. 
+These results demonstrate that these enhancers have been de novo generated in fish. 
+By revealing that minor changes in non-regulatory sequences are sufficient to generate new enhancers, our study highlights an important playground for creating new regulatory variability and evolutionary innovation. 
+The mechanism of DNA replication termination in vertebrates.  
+Eukaryotic DNA replication terminates when replisomes from adjacent replication origins converge. 
+Termination involves local completion of DNA synthesis, decatenation of daughter molecules and replisome disassembly. 
+Termination has been difficult to study because termination events are generally asynchronous and sequence nonspecific. 
+To overcome these challenges, we paused converging replisomes with a site-specific barrier in Xenopus egg extracts. 
+Upon removal of  the barrier, forks underwent synchronous and site-specific termination, allowing  mechanistic dissection of this process. 
+We show that DNA synthesis does not slow  detectably as forks approach each other, and that leading strands pass each other unhindered before undergoing ligation to downstream lagging strands. 
+Dissociation of the replicative CMG helicase (comprising CDC45, MCM2-7 and GINS) occurs only after the final ligation step, and is not required for completion of DNA synthesis, strongly suggesting that converging CMGs pass one another and dissociate from double-stranded DNA. 
+This termination mechanism allows rapid completion of DNA synthesis while avoiding premature replisome disassembly. 
+TNFα and Radioresistant Stromal Cells Are Essential for Therapeutic Efficacy of Cyclic Dinucleotide STING Agonists in Nonimmunogenic Tumors.  
+The cGAS-STING cytosolic DNA sensing pathway may play an integral role in the initiation of antitumor immune responses. 
+Studies evaluating the immunogenicity of various cyclic dinucleotide (CDN) STING agonists administered by intratumoral  (i.t.) injection showed potent induction of inflammation, tumor necrosis, and, in some cases, durable tumor-specific adaptive immunity. 
+However, the specific immune mechanisms underlying these responses remain incompletely defined. 
+The majority of these studies have focused on the effect of CDNs on immune cells but  have not conclusively interrogated the role of stromal cells in the acute rejection of the CDN-injected tumor. 
+Here, we revealed a mechanism of STING agonist-mediated tumor response that relied on both stromal and immune cells to achieve tumor regression and clearance. 
+Using knockout and bone marrow chimeric mice, we showed that although bone marrow-derived TNFα was necessary for CDN-induced necrosis, STING signaling in radioresistant stromal cells was also essential for CDN-mediated tumor rejection. 
+These results provide evidence for crosstalk between stromal and hematopoietic cells during CDN-mediated tumor collapse after i.t. 
+administration. 
+These mechanistic insights may prove critical in the clinical development of STING agonists. 
+Cancer Immunol Res; 6(4); 422-33. 
+ ©2018 AACR. 
+A robust microparticle platform for a STING-targeted adjuvant that enhances both  humoral and cellular immunity during vaccination.  
+Most FDA-approved adjuvants for infectious agents boost humoral but not cellular  immunity, and have poorly-understood mechanisms. 
+Stimulator of interferon genes (STING, also known as MITA, MPYS, or ERIS) is an exciting adjuvant target due to  its role in cyclic dinucleotide (CDN)-driven anti-viral immunity; however, a major hindrance is STING's cytosolic localization which requires intracellular delivery of its agonists. 
+As a result, STING agonists administered in a soluble form have elicited suboptimal immune responses. 
+Delivery of STING agonists via particle platforms has proven a more successful strategy, but the opportunity for improved formulations and bioactivity remains. 
+In this study we evaluated the adjuvant activity of the potent STING agonist, CDN 3'3'-cGAMP (cGAMP), encapsulated in acid-sensitive acetalated dextran (Ace-DEX) polymeric microparticles (MPs) which passively target antigen-presenting cells for intracellular release. 
+This formulation was superior to all particle delivery systems evaluated and maintained its bioactivity following a sterilizing dose of  gamma irradiation. 
+Compared to soluble cGAMP, the Ace-DEX cGAMP MPs enhanced type-I interferon responses nearly 1000-fold in vitro and 50-fold in vivo, caused up to a 104-fold boost in antibody titers, increased Th1-associated responses, and expanded germinal center B cells and memory T cells. 
+Furthermore, the encapsulated cGAMP elicited no observable toxicity in animals and achieved protective immunity against a lethal influenza challenge seven months post-immunization when using CDN adjuvant doses up to 100-fold lower than previous reports. 
+For these reasons, Ace-DEX MP-encapsulated cGAMP represents a potent vaccine adjuvant of humoral and cellular immunity. 
+Identification of α-Mangostin as an Agonist of Human STING.  
+The xanthone derivate 5',6'-dimethylxanthenone-4-acetic acid (DMXAA, also known as ASA404 or vadimezan) is a potent agonist of murine STING (stimulator of interferon genes), but cannot activate human STING. 
+Herein we report that α-mangostin, which bears the xanthone skeleton, is an agonist of human STING, but activates murine STING to a lesser extent. 
+Biochemical and cell-based assays indicate that α-mangostin binds to and activates human STING, leading to activation of the downstream interferon regulatory factor (IRF) pathway and production of type I interferons. 
+Furthermore, our studies show that α-mangostin  has the potential to repolarize human monocyte-derived M2 macrophages to the M1 phenotype. 
+The agonist effect of α-mangostin in the STING pathway might account for its antitumor and antiviral activities. 
+Biodegradable STING agonist nanoparticles for enhanced cancer immunotherapy.  
+Therapeutic cancer vaccines require adjuvants leading to robust type I interferon and proinflammatory cytokine responses in the tumor microenvironment to induce an anti-tumor response. 
+Cyclic dinucleotides (CDNs), a potent Stimulator of Interferon Receptor (STING) agonist, are currently in phase I trials. 
+However, their efficacy may be limited to micromolar concentrations due to the cytosolic residence of STING in the ER membrane. 
+Here we utilized biodegradable, poly(beta-amino ester) (PBAE) nanoparticles to deliver CDNs to the cytosol leading to robust immune response at >100-fold lower extracellular CDN concentrations in vitro. 
+The leading CDN PBAE nanoparticle formulation induced a  log-fold improvement in potency in treating established B16 melanoma tumors in vivo when combined with PD-1 blocking antibody in comparison to free CDN without  nanoparticles. 
+This nanoparticle-mediated cytosolic delivery method for STING agonists synergizes with checkpoint inhibitors and has strong potential for enhanced cancer immunotherapy. 
+Activation of Stimulator of Interferon Genes (STING) and Sjögren Syndrome.  
+Sjögren syndrome (SS), a chronic autoimmune disorder causing dry mouth, adversely affects the overall oral health in patients. 
+Activation of innate immune responses and excessive production of type I interferons (IFNs) play a critical role in the pathogenesis of this disorder. 
+Recognition of nucleic acids by cytosolic nucleic acid sensors is a major trigger for the induction of type I IFNs. 
+Upon activation, cytosolic DNA sensors can interact with the stimulator of  interferon genes (STING) protein, and activation of STING causes increased expression of type I IFNs. 
+The role of STING activation in SS is not known. 
+In this study, to investigate whether the cytosolic DNA sensing pathway influences SS development, female C57BL/6 mice were injected with a STING agonist, dimethylxanthenone-4-acetic acid (DMXAA). 
+Salivary glands (SGs) were studied for  gene expression and inflammatory cell infiltration. 
+SG function was evaluated by  measuring pilocarpine-induced salivation. 
+Sera were analyzed for cytokines and autoantibodies. 
+Primary SG cells were used to study the expression and activation of STING. 
+Our data show that systemic DMXAA treatment rapidly induced the expression of Ifnb1, Il6, and Tnfa in the SGs, and these cytokines were also elevated in circulation. 
+In contrast, increased Ifng gene expression was dominantly detected in the SGs. 
+The type I innate lymphoid cells present within the SGs were the major source of IFN-γ, and their numbers increased significantly within 3 d of treatment. 
+STING expression in SGs was mainly observed in ductal and interstitial cells. 
+In primary SG cells, DMXAA activated STING and induced IFN-β production. 
+The DMXAA-treated mice developed autoantibodies, sialoadenitis, and glandular hypofunction. 
+Our study demonstrates that activation of the STING pathway holds the potential to initiate SS. 
+Thus, apart from viral infections, conditions that cause cellular perturbations and accumulation of host DNA within  the cytosol should also be considered as possible triggers for SS. 
+Pain-mediated affect regulation is reduced after dialectical behavior therapy in  borderline personality disorder: a longitudinal fMRI study.  
+Borderline Personality Disorder (BPD) is characterized by affective instability,  but self-injurious behavior appears to have an emotion-regulating effect. 
+We investigated whether pain-mediated affect regulation can be altered at the neural level by residential Dialectical Behavior Therapy (DBT), providing adaptive emotion regulation techniques. 
+Likewise, we investigated whether pain thresholds  or the appraisal of pain change after psychotherapy. 
+We investigated 28 patients  with BPD undergoing DBT (self-referral), 15 patients with treatment as usual and  23 healthy control subjects at two time points 12 weeks apart. 
+We conducted an fMRI experiment eliciting negative emotions with picture stimuli and induced heat pain to investigate the role of pain in emotion regulation. 
+Additionally, we assessed heat and cold pain thresholds.At first measurement, patients with BPD showed amygdala deactivation in response to painful stimulation, as well as altered connectivity between left amygdala and dorsal anterior cingulate cortex. 
+ These effects were reduced after DBT, as compared with patients with treatment as usual. 
+Pain thresholds did not differ between the patient groups. 
+We replicated the role of pain as a means of affect regulation in BPD, indicated by increased amygdala coupling. 
+For the first time, we could demonstrate that pain-mediated affect regulation can be changed by DBT. 
+Influence and Change of Self-Directedness in Dialectical Behavior Therapy.  
+Objective Investigate influence and change of self-directedness (SD) in Dialectical-Behavior Therapy (DBT) for 26 female outpatients with borderline personality disorder (BPS). 
+Method Variance analyses are used to evaluate psychopathology and interpersonal problems in 2 subgroups (low vs. 
+high SD) with  questionnaires at 3 measuring times over the period of 1 year. 
+Results Low SD was associated with higher psychopathology, more interpersonal problems and lower symptomreduction. 
+Over time of intervention the SD of all patients improved significantly. 
+Conclusion DBT strengthens the SD of patients with BPD. 
+A screening of SD before intervention, and systematic support should be considered. 
+Exploring the effectiveness of combined mentalization-based group therapy and dialectical behaviour therapy for inpatients with borderline personality disorder - A pilot study.  
+OBJECTIVES: Borderline personality disorder (BPD) is characterized by emotional instability, interpersonal dysfunction, and other features that typically develop before a background of insecure attachment and traumatic experiences. 
+Dialectical behaviour therapy (DBT) has proven highly effective in reducing self-harm and improving emotion regulation, whereby problems concerning social cognition, which are also characteristic of BPD, may need additional approaches such as mentalization-based treatment (MBT). 
+METHODS: Here, we examined, in a pilot study, the effectiveness of MBT given adjunct to DBT, compared to DBT alone, in an inpatient sample with BPD, whereby mentalization was measured using a novel cartoon-based task. 
+RESULTS: Both treatments were highly effective in reducing symptom severity. 
+The  combination of DBT and MBT was superior in reducing fearful attachment and in improving affective mentalizing. 
+CONCLUSIONS: Mentalization-based treatment in combination with DBT may improve certain aspects of social cognitive skills and attachment security, as compared to DBT alone, although the exact mechanisms that led to these changes need to be  studied further. 
+PRACTITIONER POINTS: Clinical implications Dialectical behaviour therapy (DBT) can usefully be combined with mentalization-based treatment (MBT). 
+The combination of DBT and MBT reduces self-harm more than DBT alone. 
+DBT plus MBT may lead to a reduction in fearful attachment and improvement of affective mentalizing. 
+Short-term combinations of evidence-based borderline treatments may  enrich psychiatric inpatient care. 
+Therefore, such approaches deserve further research. 
+Limitations The treatment condition was therapeutically more intense than the control condition. 
+The study lacked a follow-up assessment. 
+The impact of comorbid conditions on treatment response was not taken into account. 
+Adherence to the manualized approach was not measured. 
+Dialectical behavior therapy approaches with disruptive behavior disorders.  
+Disruptive behaviour disorders comprise the diagnosis conduct disorder (CD) and in adults the diagnosis antisocial personality disorder (APD). 
+CD is seen as a difficult-to-treat disorder with a high risk for persistent behavioral problems. 
+ In addition, CD is seen as the precursor to antisocial personality disorder (Kretschmer et al., 2014). 
+Dialectical behavior therapy (DBT) was originally developed by Marsha Linehan (1991) for the treatment of borderline personality disorder, but because of the core deficits in emotion regulation in disruptive behavior disorders, DBT is also increasingly being recommended for the treatment  of CD and APD. 
+This review presents DBT adaptions for the forensic setting and for the treatment of CD/APD. 
+Clinical implications are discussed. 
+Dialectical behavior therapy for comorbid personality disorders.  
+Dialectical behavior therapy (DBT) was originally designed as a treatment of emotionally dysregulated, impulsive, and dramatic disorders (e.g., borderline personality disorder) and populations (e.g., parasuicidal women). 
+However, a number of complex disorders represent the dialectical opposite of BPD and related disorders; these disorders are characterized by being overcontrolled, emotionally constricted, perfectionistic, and highly risk-averse. 
+In this article, the authors introduce a recent adaptation of DBT that targets cognitive-behavioral rigidity and emotional constriction and illustrates its application through the case of a man suffering from both paranoid personality disorder and obsessive-compulsive personality disorder. 
+Use of dialectical behavior therapy in inpatient treatment of borderline personality disorder: a systematic review.  
+OBJECTIVE: Dialectical behavior therapy (DBT) is an empirically supported treatment for outpatients with borderline personality disorder. 
+However, the utility of DBT strategies for inpatients with the disorder is unclear. 
+This review summarizes and synthesizes findings from trials of DBT in inpatient settings. 
+METHODS: Multiple research databases were searched for articles published through June 2011 that reported on any implementation of DBT in an inpatient setting to address symptoms related to borderline personality disorder, including suicidal and self-injurious behavior. 
+RESULTS: Eleven studies that reported pre- and posttreatment symptoms related to  borderline personality disorder were evaluated. 
+Studies indicated that many variations of standard DBT have been used in inpatient settings, including approaches that do not include phone consultation, that include group therapy only, and that vary in treatment duration (from two weeks to three months). 
+Most  studies reported reductions in suicidal ideation, self-injurious behaviors, and symptoms of depression and anxiety, whereas results for reducing anger and violent behaviors were mixed. 
+Follow-up data indicated that symptom reduction was often maintained between one and 21 months posttreatment. 
+On the basis of the evidence, the authors identify essential components of an inpatient DBT package and discuss its potential function as an "intensive orientation" to outpatient DBT services. 
+CONCLUSIONS: There is considerable variation in the configuration and duration of DBT implementation for inpatients with borderline personality disorder. 
+However,  findings suggest that DBT may be effective in reducing symptoms related to borderline personality disorder in inpatient settings. 
+Future research should standardize and systematically test inpatient DBT. 
+(Psychiatric Services 63:881-888, 2012; doi: 10.1176/appi.ps.201100311). 
+M. Linehan dialectic behavioral psychotherapy. A new concept in the treatment of borderline personality disorders.  
+M. 
+Linehan developed "dialectical behavioral therapy" specifically to treat chronically suicidal borderline patients. 
+It rests on a biosocial model that assumes a disorder in the regulation of emotions and in tolerance of stress. 
+The  numerous dysfunctional patterns of behavior such as self-destructive behavior, inability to govern impulses or severe dissociative phenomena are regarded as attempts at problem-solving. 
+This concept of therapy focuses on the continuing balance between the necessity of accepting maladaptive behavior patterns in both  an intrapsychic and an interactional context while still working to change them. 
+ A comprehensive manual outlines the clearly structured therapy and integrates a wide choice of therapeutic strategies. 
+Parallel to development of the therapy itself, a method also was developed for testing therapist adherence to the manual's guidelines, thus providing a basis for empirical evaluation. 
+An initial  controlled, randomized study demonstrated the significant superiority of this method to methods of unspecific psychotherapy at various levels. 
+In the current endeavor to develop disorder-specific approaches to the treatment of personality  disorders, "dialectical behavioral therapy" is a noteworthy model. 
+Interpersonal outcome of cognitive behavioral treatment for chronically suicidal  borderline patients.  
+OBJECTIVE: This study reports the efficacy of a cognitive behavioral outpatient treatment on interpersonal outcome variables for patients diagnosed with borderline personality disorder. 
+METHOD: In a 1-year clinical trial, 26 female patients with borderline personality disorder were randomly assigned to either dialectical behavior therapy or a treatment-as-usual comparison condition. 
+All subjects met criteria of DSM-III-R and Diagnostic Interview for Borderline Patients for borderline personality disorder and were chronically suicidal. 
+RESULTS: In both the intent-to-treat and treatment completion groups, dialectical behavior therapy subjects had significantly better scores on measures of anger, interviewer-rated global social adjustment, and the Global Assessment Scale and tended to rate themselves better on overall social adjustment than treatment-as-usual subjects. 
+CONCLUSIONS: These results suggest that dialectical behavior therapy is a promising psychosocial intervention for improving interpersonal functioning among severely dysfunctional patients with borderline personality disorder. 
+Use of dialectical behavior therapy in a partial hospital program for women with  borderline personality disorder.  
+Dialectical behavior therapy, an outpatient psychosocial treatment for chronically suicidal women with borderline personality disorder, has been adapted for use in a partial hospital program for women. 
+Patients attend the program for  a minimum of five days of individual and group therapy, and full census is 12 women. 
+About 65 percent of participants meet at least three criteria for borderline personality disorder, and most have suicidal and self-injurious behavior. 
+Their comorbid diagnoses include trauma-related diagnoses and anxiety disorders, severe eating disorders, substance abuse, and depression. 
+The partial  hospital program is linked to an aftercare program offering six months of outpatient skills training based on dialectical behavior therapy. 
+Both programs focus on teaching patients four skills: mindfulness (attention to one's experience), interpersonal effectiveness, emotional regulation, and distress tolerance. 
+Two years of operation of the women's partial hospital program provides promising anecdotal evidence that dialectical behavioral therapy, an outpatient approach, can be effectively modified for partial hospital settings and a more diverse population. 
+Use of dialectical behavior therapy in borderline personality disorder: a view from residency.  
+OBJECTIVE: The authors describe the use of dialectical behavior therapy (DBT) in  treating borderline personality disorder during psychiatry residency, and assess  the status of DBT education within psychiatry residencies in the United States. 
+METHOD: The authors present a patient with borderline personality disorder treated by a resident using DBT, along with perspectives from the resident's supervisors. 
+Additionally, self-report surveys inquiring about the attitudes and  experiences of residency directors and PGY-4 residents regarding DBT were sent to program directors with available e-mail addresses on FREIDA online. 
+RESULTS: The DBT method employed by the resident had to be modified to fit the constraints of a residency program. 
+The patient in therapy had a tumultuous course, ultimately resulting in the discontinuation of treatment. 
+Survey results  suggested an underemphasis on the education and use of DBT during residency, though the strength of this conclusion is limited by the small proportion of surveys returned. 
+CONCLUSIONS: Achieving the efficacy of DBT-based treatment of borderline personality disorder reported in the literature in the setting of a residency program is challenging. 
+Greater exposure to DBT during residency may increase residents' skills in using the technique and the likelihood that they will use it after residency. 
+Teaching Dialectical Behavior Therapy to Psychiatry Residents: The Columbia Psychiatry Residency DBT Curriculum.  
+OBJECTIVE: Dialectical behavior therapy (DBT) is an evidence-based psychosocial treatment with efficacy in reducing self-harm behaviors in borderline personality disorder (BPD). 
+This study describes and evaluates a clinical curriculum to teach DBT to psychiatry residents, developed at a large urban university hospital. 
+The  curriculum objectives are to (1) have psychiatry residents achieve basic understanding of DBT theory and clinical skill, (2) increase residents' ability and confidence in treating self-harm behaviors (both suicidal behavior and non-suicidal self-injury), and (3) enhance residents' willingness to treat individuals with BPD. 
+METHODS: In addition to a 6-week didactic course on DBT offered to all residents  (n = 62), 25 elected to enroll in a year-long DBT clinical training curriculum over the course of a 5-year period. 
+The DBT clinical training consisted of 15 h of additional didactics, ongoing conduct of individual therapy and group DBT skills training, videotaping of individual therapy sessions, and weekly supervision meetings utilizing videotape to provide feedback. 
+Residents participating in the clinical training program videotaped baseline and later sessions, which were rated for DBT adherence. 
+All 62 graduates of the program were surveyed regarding the impact of the training on their practice of psychiatry. 
+RESULTS: Upon graduation, a high percentage (87 % in the curriculum and 70 % in the didactic course only) reported incorporating DBT into their psychiatry practice, as well as willingness and confidence in treating BPD and self-harm behaviors. 
+Residents participating in the clinical training demonstrated significant improvement in their ability to utilize DBT interventions, particularly in structuring sessions, problem assessment, problem solving, and using validation and dialectical strategies. 
+CONCLUSION: This DBT curriculum was effective in preparing psychiatrists-in-training to incorporate evidence-based practices for effective treatment of BPD and self-harm behaviors and can serve as a model for teaching DBT during psychiatry residency training. 
+Limitations include a small sample size and lack of baseline survey measurement of attitudes for pre- and post-curriculum comparison. 
+Psychological Treatments for Borderline Personality Disorder: A Review of Cognitive-Behavioral Oriented Therapies.  
+INTRODUCTION: Borderline personality disorder is the most common personality disorder, with a global prevalence rate between 1.6% and 6%. 
+It is characterized  by affective disturbance and impulsivity, which lead to a high number of self-harm behaviors and great amount of health services use. 
+International guidelines recommend psychotherapy as the primary treatment for borderline personality disorder. 
+This paper reviews evidence about the effects and efficacy  of cognitive-behavioral oriented psychological treatments for borderline personality disorder. 
+MATERIAL AND METHODS: A literature review was conducted in Medline and PubMed databases, using the following keywords: borderline personality disorder, cognitive-behavioral psychotherapy and efficacy. 
+RESULTS: Sixteen randomized clinical trials were evaluate in this review, which analyzed the effects of several cognitive-behavioral oriented psychotherapeutic interventions, namely dialectical behavioral therapy, cognitive behavioral therapy, schema-focused therapy and manual-assisted cognitive therapy. 
+All above  stated treatments showed clinical beneficial effects, by reducing borderline personality disorder core pathology and associated general psychopathology, as well as by reducing the severity and frequency of self-harm behaviors, and by improving the overall social, interpersonal and global adjustment. 
+Dialectical behavioral therapy and schema-focused therapy also caused a soaring remission rate of diagnostic borderline personality disorder criteria of 57% and 94%, respectively. 
+DISCUSSION: Although there were differences between the psychotherapeutic interventions analysed in this review, all showed clinical benefits in the treatment of borderline personality disorder. 
+Dialectical behavioral therapy and  schema-focused therapy presented the strongest scientific data documenting their  efficacy, but both interventions are integrative cognitive-behavioral therapies which deviate from the traditional cognitive-behavioral model. 
+CONCLUSION: In summary, the available studies support cognitive-behavioral psychological treatments as an efficacious intervention in borderline personality disorder. 
+However, the existing scientific literature on this topic is still scarce and there is need for more studies, with higher methodological rigor, that should validate these results. 
+Treatment of suicidal and deliberate self-harming patients with borderline personality disorder using dialectical behavioral therapy: the patients' and the  therapists' perceptions.  
+The aim was to investigate patients and therapists perception of receiving and giving dialectical behavioral therapy (DBT). 
+Ten deliberate self-harm patients with borderline personality disorder and four DBT-therapists were interviewed. 
+The interviews were analyzed with qualitative content analysis. 
+The patients unanimously regard the DBT-therapy as life saving and something that has given them a bearable life situation. 
+The patients and the therapists are concordant on the effective components of the therapy: the understanding, respect, and confirmation in combination with the cognitive and behavioral skills. 
+The experienced effectiveness of DBT is contrasted by the patient's pronouncedly negative experiences from psychiatric care before entering DBT. 
+Dialectical behavior therapy for borderline personality disorder: a meta-analysis using mixed-effects modeling.  
+OBJECTIVE: At present, the most frequently investigated psychosocial intervention for borderline personality disorder (BPD) is dialectical behavior therapy (DBT). 
+ We conducted a meta-analysis to examine the efficacy and long-term effectiveness  of DBT. 
+METHOD: Systematic bibliographic research was undertaken to find relevant literature from online databases (PubMed, PsycINFO, PsychSpider, Medline). 
+We excluded studies in which patients with diagnoses other than BPD were treated, the treatment did not comprise all components specified in the DBT manual or in the suggestions for inpatient DBT programs, patients failed to be diagnosed according to the Diagnostic and Statistical Manual of Mental Disorders, and the intervention group comprised fewer than 10 patients. 
+Using a mixed-effect hierarchical modeling approach, we calculated global effect sizes and effect sizes for suicidal and self-injurious behaviors. 
+RESULTS: Calculations of postintervention global effect sizes were based on 16 studies. 
+Of these, 8 were randomized controlled trials (RCTs), and 8 were neither randomized nor controlled (nRCT). 
+The dropout rate was 27.3% pre- to posttreatment. 
+A moderate global effect and a moderate effect size for suicidal and self-injurious behaviors were found, when including a moderator for RCTs with borderline-specific treatments. 
+There was no evidence for the influence of other  moderators (e.g., quality of studies, setting, duration of intervention). 
+A small impairment was shown from posttreatment to follow-up, including 5 RCTs only. 
+CONCLUSIONS: Future research should compare DBT with other active borderline-specific treatments that have also demonstrated their efficacy using several long-term follow-up assessment points. 
+A randomized trial of dialectical behavior therapy versus general psychiatric management for borderline personality disorder.  
+Erratum in     Am J Psychiatry. 
+2010 Oct;167(10):1283. 
+Compliance and patience is needed when meeting patients with personality disorder.  
+Compliance and patience is needed when meeting patients with personality disorder To encounter patients with personality disorders in health care settings is often challenging. 
+Most treatment studies published have included only patients with borderline personality disorder. 
+Of evaluated psychological treatments in borderline personality disorder, dialectical behaviour therapy (DBT) has the strongest research support, followed by mentalization based therapy (MBT). 
+Pharmacological treatment in personality disorders should focus on time-limited crisis intervention and treatment of comorbidity. 
+There are few studies on inpatient care of persons with personality disorder. 
+However, there are some interesting projects on brief self-directed inpatient stays as crisis intervention. 
+There is a consensus to avoid long inpatient stays and coercive measures as far as possible. 
+Dialectical behavior therapy skills use as a mediator and outcome of treatment for borderline personality disorder.  
+A central component of Dialectical Behavior Therapy (DBT) is the teaching of specific behavioral skills with the aim of helping individuals with Borderline Personality Disorder (BPD) replace maladaptive behaviors with skillful behavior. 
+ Although existing evidence indirectly supports this proposed mechanism of action, no study to date has directly tested it. 
+Therefore, we examined the skills use of 108 women with BPD participating in one of three randomized control trials throughout one year of treatment and four months of follow-up. 
+Using a hierarchical linear modeling approach we found that although all participants reported using some DBT skills before treatment started, participants treated with DBT reported using three times more skills at the end of treatment than participants treated with a control treatment. 
+Significant mediation effects also indicated that DBT skills use fully mediated the decrease in suicide attempts and depression and the increase in control of anger over time. 
+DBT skills use also partially mediated the decrease of nonsuicidal self-injury over time. 
+Anger suppression and expression were not mediated. 
+This study is the first to clearly  support the skills deficit model for BPD by indicating that increasing skills use is a mechanism of change for suicidal behavior, depression, and anger control. 
+Neural correlates of distraction in borderline personality disorder before and after dialectical behavior therapy.  
+Neural underpinnings of emotion dysregulation in borderline personality disorder  (BPD) are characterized by limbic hyperactivity and disturbed prefrontal activity. 
+It is unknown whether neural correlates of emotion regulation change after a psychotherapy which has the goal to improve emotion dysregulation in BPD, such as dialectical behavioral therapy (DBT). 
+We investigated distraction as a main emotion regulation strategy before and after DBT in female patients with BPD. 
+Thirty-one BPD patients were instructed to either passively view or memorize letters before being confronted with negative or neutral pictures in a distraction task during functional magnetic resonance imaging. 
+This paradigm was  applied before and after a 12-week residential DBT-based treatment program. 
+We compared the DBT group to 15 BPD control patients, who continued their usual, non-DBT-based treatment or did not have any treatment, and 22 healthy participants. 
+Behaviorally, BPD groups and healthy participants did not differ significantly with respect to alterations over time. 
+On the neural level, BPD patients who received DBT-based treatment showed an activity decrease in the right inferior parietal lobe/supramarginal gyrus during distraction from negative rather than neutral stimuli when compared to both control groups. 
+This decrease was correlated with improvement in self-reported borderline symptom severity. 
+DBT responders exhibited decreased right perigenual anterior cingulate activity when  viewing negative (rather than neutral) pictures. 
+In conclusion, our findings reveal changes in neural activity associated with distraction during emotion processing after DBT in patients with BPD. 
+These changes point to lower emotional susceptibility during distraction after BPD symptom improvement. 
+The RAZOR (randomized open vs robotic cystectomy) trial: study design and trial update.  
+The purpose of the RAZOR (randomized open vs robotic cystectomy) study is to compare open radical cystectomy (ORC) vs robot-assisted RC (RARC), pelvic lymph node dissection (PLND) and urinary diversion for oncological outcomes, complications and health-related quality of life (HRQL) measures with a primary endpoint of 2-year progression-free survival (PFS). 
+RAZOR is a multi-institutional, randomized, non-inferior, phase III trial that will enrol at least 320 patients with T1-T4, N0-N1, M0 bladder cancer with ≈160 patients in both the RARC and ORC arms at 15 participating institutions. 
+Data will be collected prospectively at each institution for cancer outcomes, complications of surgery and HRQL measures, and then submitted to trial data management services Cancer Research and Biostatistics (CRAB) for final analyses. 
+To date, 306 patients have been randomized and accrual to the RAZOR trial is expected to conclude in 2014. 
+In this study, we report the RAZOR trial experimental design, objectives, data safety, and monitoring, and accrual update. 
+The RAZOR trial is a landmark study in urological oncology, randomizing T1-T4, N0-N1, M0 patients with bladder cancer to ORC vs RARC, PLND and urinary diversion. 
+RAZOR is a multi-institutional, non-inferiority trial evaluating cancer outcomes, surgical complications and HRQL measures of ORC vs RARC with a primary endpoint of 2-year  PFS. 
+Full data from the RAZOR trial are not expected until 2016-2017. 
+Robot-assisted radical cystectomy with intracorporeal urinary diversion - The new 'gold standard'? Evidence from a systematic review.  
+Objective: To investigate whether a totally intracorporeally radical cystectomy (RC) can be considered the new 'gold standard' in bladder cancer, as open RC (ORC) is the current 'gold standard' for surgical treatment of muscle-invasive and high-grade non-muscle-invasive bladder cancer. 
+However, robot-assisted radical cystectomy (RARC) is becoming the preferred surgical approach in many centres as it seems to maintain the oncological control of open surgery whilst offering improved perioperative benefits. 
+Materials and methods: A review of the literature was conducted using the Pubmed/MEDLINE, ISI Web of Knowledge and Cochrane Databases to identify studies that included both ORC and RARC with intracorporeal and extracorporeal urinary diversion (UD) published up to July 2017. 
+Results: Evidence from four single-centre randomised controlled trials and now the multicentre Randomized Trial of Open versus Robotic Cystectomy (RAZOR) trial  demonstrate the oncological equivalence of RARC to ORC. 
+The only convincing evidence for the superiority of RARC is in the area of blood loss and transfusion rates. 
+However, the UD procedure in these trials was performed extracorporeally and, to realise the full benefits of RARC, a totally intracorporeal approach is needed. 
+Intracorporeal UDs (ICUDs) have been shown to be technically feasible by  a few expert centres and have demonstrated some improved short-term perioperative outcomes compared to extracorporeal UDs. 
+Conclusions: Although initial outcomes appear promising, RARC with ICUD is far from gaining 'gold standard' status. 
+Further studies are needed to confirm that outcomes are reproducible widely. 
+Furthermore, the benefits of a totally intracorporeal approach must be confirmed in randomised controlled trials. 
+Robot-assisted radical cystectomy versus open radical cystectomy in patients with bladder cancer (RAZOR): an open-label, randomised, phase 3, non-inferiority trial.  
+Comment in     Lancet. 
+2018 Jun 23;391(10139):2479-2480. 
+    Eur Urol. 
+2018 Dec;74(6):840-841. 
+    Eur Urol. 
+2019 Jan;75(1):199. 
+    Eur Urol. 
+2019 Feb;75(2):e36. 
+    Lancet. 
+2019 Feb 16;393(10172):642-644. 
+    Lancet. 
+2019 Feb 16;393(10172):644-645. 
+    Lancet. 
+2019 Feb 16;393(10172):645. 
+Sirolimus and tuberous sclerosis-associated renal angiomyolipomas.  
+Tuberous sclerosis, caused by germline mutations in the TSC1 or TSC2 genes, is associated with aberrant upregulation of the mammalian target of rapamycin (mTOR) signalling pathway, resulting in growth of tumours, including renal angiomyolipomas (AMLs). 
+AMLs may cause hypertension, renal failure and spontaneous life-threatening haemorrhage. 
+Previously, invasive interventions were required to treat AMLs. 
+More recently, mTOR inhibitors have been used as molecularly targeted treatment to treat AMLs. 
+We present here the case of a paediatric patient with TSC in whom sirolimus has been used successfully to halt  growth of renal AMLs. 
+Genetics and molecular biology of tuberous sclerosis complex.  
+Tuberous Sclerosis Complex is a multisystem disorder exhibiting a wide range of manifestations characterized by tumour-like lesions called hamartomas in the brain, skin, eyes, heart, lungs and kidneys. 
+Tuberous Sclerosis Complex is genetically determined with an autosomal dominant inheritance and is caused by inactivating mutations in either the TSC1 or TSC2 genes. 
+TSC1/2 genes play a fundamental role in the regulation of phosphoinositide 3-kinase (PI3K) signalling pathway, inhibiting the mammalian target of rapamycin (mTOR) through activation of the GTPase activity of Rheb. 
+Mutations in TSC1/2 genes impair the inhibitory function of the hamartin/tuberin complex, leading to phosphorylation of the downstream effectors of mTOR, p70 S6 kinase (S6K), ribosomal protein S6 and the elongation factor binding protein 4E-BP1, resulting in uncontrolled cell growth and tumourigenesis.Despite recent promising genetic, diagnostic, and therapeutic  advances in Tuberous Sclerosis Complex, continuing research in all aspects of this complex disease will be pivotal to decrease its associated morbidity and mortality. 
+In this review we will discuss and analyse all the important findings  in the molecular pathogenesis of Tuberous Sclerosis Complex, focusing on genetics and the molecular mechanisms that define this multisystemic disorder. 
+Expression, purification, crystallization and preliminary structural characterization of the GTPase domain of human Rheb.  
+Ras homologue enriched in brain (Rheb) represents a unique group of small GTPases and shares moderate sequence identity with the Ras/Rap subfamily. 
+It acts downstream of nutrient signalling as the direct target of the tuberous sclerosis  complex (TSC) and upstream of mTOR/S6K1/4EBP in the insulin-signalling pathway. 
+The GTPase domain of human Rheb (hRheb) has been recombinantly expressed in Escherichia coli, purified and cocrystallized in complexes with GDP, GTP and GppNHp using the hanging-drop vapour-diffusion method. 
+Crystals of the hRheb-GDP  complex belong to space group P2(1)2(1)2(1), with unit-cell parameters a = 44.5,  b = 52.3, c = 70.6 A. 
+The hRheb-GppNHp complex crystallized in two crystal forms: one has the same space group and unit-cell parameters as the hRheb-GDP complex and the other belongs to space group C222(1), with unit-cell parameters a = 102.9, b = 99.2, c = 48.0 A. 
+The hRheb-GTP complex also crystallized in two crystal forms: one belongs to space group C222(1), with unit-cell parameters a =  102.4, b = 98.3, c = 47.9 A, and the other belongs to space group P2(1), with unit-cell parameters a = 77.3, b = 47.9, c = 71.9 A, beta = 89.0 degrees. 
+All these crystals diffract X-rays to better than 2.8 A resolution and at least one diffraction data set has been collected for each crystal form using an in-house R-AXIS IV++ diffractometer. 
+Structural studies of hRheb in complexes with various substrates may provide insights into the recognition and specificity of substrate and the catalytic mechanism of mammalian Rhebs and shed light on the biological functions of Rhebs in the mTOR signalling pathway. 
+Rheb promotes cell growth as a component of the insulin/TOR signalling network.  
+Erratum in     Nat Cell Biol. 
+2003 Jul;5(7):680. 
+Rheb is an essential regulator of S6K in controlling cell growth in Drosophila.  
+Understanding the mechanisms through which multicellular organisms regulate cell, organ and body growth is of relevance to developmental biology and to research on growth-related diseases such as cancer. 
+Here we describe a new effector in growth control, the small GTPase Rheb (Ras homologue enriched in brain). 
+Mutations in the Drosophila melanogaster Rheb gene were isolated as growth-inhibitors, whereas overexpression of Rheb promoted cell growth. 
+Our genetic and biochemical analyses suggest that Rheb functions downstream of the tumour suppressors Tsc1 (tuberous sclerosis 1)-Tsc2 in the TOR (target of rapamycin) signalling pathway to control  growth, and that a major effector of Rheb function is ribosomal S6 kinase (S6K). 
+Behavioural and EEG effects of chronic rapamycin treatment in a mouse model of tuberous sclerosis complex.  
+Tuberous Sclerosis Complex (TSC) is a multisystem genetic disorder caused by mutation in either Tsc1 or Tsc2 genes that leads to the hyper activation of the mTOR pathway, a key signalling pathway for synaptic plasticity. 
+TSC is characterized by benign tumors arising in different organs and severe neuropsychiatric symptoms, such as epilepsy, intellectual disability, autism, anxiety and depressive behaviour. 
+Rapamycin is a potent inhibitor of mTOR and its efficacy in treating epilepsy and neurological symptoms remains elusive. 
+In a mouse model in which Tsc1 has been deleted in embryonic telencephalic neural stem cells, we analyzed anxiety- and depression-like behaviour by elevated-plus maze (EPM), open-field test (OFT), forced-swim test (FST) and tail-suspension test (TST), after chronic administration of rapamycin. 
+In addition, spectral analysis  of background EEG was performed. 
+Rapamycin-treated mutant mice displayed a reduction in anxiety- and depression-like phenotype, as shown by the EPM/OFT and  FST, respectively. 
+These results were inline with EEG power spectra outcomes. 
+The same effects of rapamycin were observed in wild-type mice. 
+Notably, in heterozygous animals we did not observe any EEG and/or behavioural variation after rapamycin treatment. 
+Together these results suggest that both TSC1 deletion and chronic rapamycin treatment might have a role in modulating behaviour and brain activity, and point out to the potential usefulness of background EEG analysis in tracking brain dysfunction in parallel with behavioural testing. 
+Tuberous sclerosis: from tubers to mTOR.  
+Tuberous sclerosis (TSC) is an autosomal dominant hamartoma syndrome whose causative genes (TSC1 and TSC2) were identified 5 and 9 years ago respectively. 
+Their encoded proteins are large, and apart from a strong binding interaction with each other, relatively little was known about their biochemical function. 
+Recent studies in Drosophila have pinpointed a critical function for the DrosophilaTSC1/TSC2 homologues in the regulation of cell size. 
+Epistasis experiments and a variety of biochemical studies that followed have indicated a critical function for these proteins in the highly conserved PI-3-kinase-Akt-mTOR signalling pathway. 
+The mTOR/S6K signalling pathway: the role of the TSC1/2 tumour suppressor complex and the proto-oncogene Rheb.  
+Gene deletion studies in mice and in Drosophila have shown that the 40S ribosomal protein S6 Kinases, dS6K in Drosophila and S6K1 and S6K2 in mice are important regulators of cell growth in response to insulin stimulation and nutrition availability. 
+Here we chiefly focus on dS6k and S6K1, whose activities are regulated by an upstream kinase termed the mammalian target of rapamycin (mTOR, or dTOR in Drosophila). 
+Our understanding of the mechanisms regulating the mTOR/S6K1-signalling pathway will be fundamental in determining the mechanisms which control cell growth in response to insulin signalling. 
+Recent findings from this laboratory and others suggests that the tumour suppressor complex made of two proteins TSC1/hamartin and TSC2/tuberin, acts as a negative regulator of mTOR/S6K1 signalling. 
+Mutations in either TSC1 or TSC2 are genetically linked to  tuberous sclerosis complex (TSC) syndrome, which can lead to severe pathological  consequences, including mental retardation, epilepsy and autism, as well as cardiac, pulmonary and renal failure. 
+Despite a large number of initial reports on the TSC1/TSC2 complex, and the finding that its activity is regulated by protein kinase B (PKB), the direct target of the TSC1/TSC2 inhibitory complex was unknown until recently. 
+Since TSC2 has a GTPase-activating domain, or GAP-like sequence, others and we searched for a small GTP binding protein, which may serve as the target of TSC1/TSC2 inhibitory complex. 
+In our case we took advantage of a genome wide screen in Drosophila for effectors of cell growth and in parallel searched for a small GTPase whose activity is up-regulated in TSC2-deficient cells. 
+The identified gene was a member of the Ras family of GTPases termed Ras homologue enriched in brain or Rheb. 
+Here we review recent findings demonstrating that the TSC1/TSC2 inhibitory complex normally acts on Rheb to mediate mTOR/S6K1-signalling. 
+Mutation in TSC2 and activation of mammalian target of rapamycin signalling pathway in renal angiomyolipoma.  
+Mutations that inactivate either TSC1 or TSC2 cause tuberous sclerosis. 
+We have used immunoblotting and immunohistochemical analysis to see whether there is phosphorylation of p70 S6 kinase, and the ribosomal S6 protein in angiomyolipomas occurring in tuberous scierosis. 
+Hamartin (encoded by TSC1) and S6K was expressed in all samples. 
+Tuberin (TSC2) was weak or absent in angiomyolipomas, but present in healthy kidney, whereas, phosphorylated p70 S6 kinase and p56 were present only in angiomyolipomas. 
+Our results indicate activation of a mammalian target of rapamycin metabolic pathway in tuberous sclerosis lesions, which contributes to their growth. 
+We suggest that treatment with rapamycin and its analogues could benefit such patients. 
+Expression of tuberin and hamartin in tuberous sclerosis complex-associated and sporadic cortical dysplasia of Taylor's balloon cell type.  
+Focal cortical dysplasia (FCD) type IIB is a malformation of cortical development characterized by presence of balloon cells. 
+These cells share phenotypic features of giant cells found in tuberous sclerosis complex (TSC), but the relationship between FCD type IIB and TSC is not well established. 
+TSC is an autosomal dominant disorder caused by mutation in either of two genes: TSC1, encoding hamartin, and TSC2, encoding tuberin. 
+Both proteins form a complex inhibiting mTOR signalling pathway and thus regulate cell size and proliferation. 
+In this study, tuberin and hamartin expression was evaluated under a confocal microscope  in six cases of Taylor's balloon cell type FCD. 
+Three patients met the clinical criteria for TSC. 
+In three other patients, TSC was excluded based on a panel of clinical and radiological examinations. 
+Additionally, two cases of FCD type I and 3 samples of normal brain tissue were used as a reference group. 
+We found loss of tuberin and hamartin expression in FCD type IIB lesions from patients with TSC. 
+In sporadic FCD type IIB cases, only a few tuberin and hamartin positive cells were detected in the white-grey matter junction and in deeper parts of the white  matter. 
+Cortical balloon cells showed loss of both tuberin and hamartin. 
+In contrast, the expression of tuberin and hamartin in FCD type I samples was strong, similarly to normal brain tissue. 
+In conclusion, loss of TSC1 and TSC2 products expression in balloon cells of both cortical dysplasia type IIB in TSC-related and sporadic patients suggests that FCD type IIB may represent the focal form of TSC. 
+Tsc tumour suppressor proteins antagonize amino-acid-TOR signalling.  
+Comment in     Nat Cell Biol. 
+2002 Sep;4(9):E214-6. 
+Treatment and management of cluster headache.  
+Cluster headache is an uncommon yet well-defined neurovascular syndrome occurring in both episodic and chronic varieties. 
+The most striking feature of cluster headache is the unmistakable circadian and circannual periodicity. 
+Inheritance may play a role in some families. 
+The attacks are of extreme intensity, of short  duration, occur unilaterally, and are accompanied by signs and symptoms of autonomic dysfunction. 
+In contrast to migraine, during an attack the cluster patient prefers to pace about. 
+Attacks frequently occur at night. 
+Although the pathophysiology of cluster headache remains to be fully elucidated, several seminal observations have recently been made. 
+The medical treatment of cluster headache includes both acute therapy aimed at aborting individual attacks and prophylactic therapy aimed at preventing recurrent attacks during the cluster period. 
+Agents used for acute therapy include inhalation of oxygen, sumatriptan,  and dihydroergotamine. 
+Transitional prophylaxis involves the short-term use of either corticosteroids or ergotamine derivatives. 
+The cornerstone of maintenance  prophylaxis is verapamil, yet methysergide, lithium, and divalproex sodium may also be employed. 
+In some patients, melatonin or topiramate may be useful adjunctive therapies. 
+Diagnosis and treatment of cluster headache.  
+Cluster headache is an uncommon yet distinctive neurovascular syndrome occurring  in either episodic or chronic patterns. 
+The most unique feature of cluster headache is the unmistakable circadian and circannual periodicity. 
+The attacks are stereotypical, that is, of extreme intensity, of short duration, occurring unilaterally, and associated with robust signs and symptoms of autonomic dysfunction. 
+Unlike migraine, during an attack the patient with cluster headache  often paces about. 
+Attacks frequently occur at night, awakening the patient from  sleep. 
+Although the pathophysiology of cluster headache remains to be fully elucidated, several seminal observations have recently been made. 
+The medical treatment of cluster headache includes acute, transitional, and maintenance prophylaxis. 
+Agents used for acute therapy include inhalation of oxygen and triptans, such as sumatriptan, and dihydroergotamine. 
+Transitional prophylaxis refers to the short-term use of fast-acting agents. 
+This typically involves either corticosteroids or ergotamine derivatives. 
+The mainstay of prophylactic therapy is verapamil. 
+Lithium, divalproex sodium, or topiramate may also be useful. 
+As the sophistication of functional neuroimaging increases, so too will our ability to better understand the anatomic and metabolic perturbations that underlie cluster headache. 
+Cluster headache and other trigeminal autonomic cephalalgias: diagnosis and treatment.  
+Cluster headaches are characterized by strictly unilateral paroxysmal attacks of  severe pain with associated autonomic sign and symptom. 
+Prevalence is 5 times higher in men than in women in our cases. 
+About 10-15% of patients have chronic symptoms without remissions, but we estimated less frequent in Japanese (6.6% in  our series). 
+Pain almost invariably recurs on the same side, but in some patients (16.4%) the affected site switches. 
+Cluster headache may be inherited in about 5% of our cases. 
+Attacks frequently occur at night (60.7%). 
+The patients (64.8%) are restless or agitated during an attack. 
+Recent PET studies elucidated that acute attacks causes activation of the posterior hypothalamic grey matter. 
+The excitement of the area might be responsible for peculiar clinical characteristics of agitation. 
+Some patients (66.0%) have also have symptoms (especially a visual  aura) usually attributed to migraine. 
+Treatment of cluster headache includes both acute therapy aimed at aborting individual attacks and prophylactic therapy aimed at preventing recurrent attacks during the cluster period. 
+There are many choices using for both therapies. 
+Based on our clinical experience, we recommended the combination of nasal sumatriptan for acute attacks and verapamil 240 mg/day for prophylaxis. 
+Cluster headache--acute and prophylactic therapy.  
+Cluster headache (CH) pain is the most severe of the primary headache syndromes. 
+ It is characterized by periodic attacks of strictly unilateral pain associated with ipsilateral cranial autonomic symptoms. 
+The majority of patients have episodic CH, with cluster periods that typically occur in a circannual rhythm, while 10% suffer from the chronic form, with no significant remissions between cluster periods. 
+Sumatriptan injection or oxygen inhalation is the first-line therapy for acute CH attacks, with the majority of patients responding to either  treatment. 
+The calcium channel blocker verapamil is the drug of choice for CH prevention. 
+Other drugs that may be used for this purpose include lithium carbonate, topiramate, valproic acid, gabapentin, and baclofen. 
+Transitional prophylaxis, most commonly using corticosteroids, helps to control the attacks at the beginning of a cluster period. 
+Peripheral neural blockade is effective for short-term pain control. 
+Recently, the therapeutic options for refractory CH patients have expanded with the emergence of both peripheral (mostly occipital nerve) and central (hypothalamic) neurostimulation. 
+With the emergence of these novel treatments, the role of ablative surgery in CH has declined. 
+Botulinum toxin type-A therapy in cluster headache: an open study.  
+Comment in     J Headache Pain. 
+2008 Apr;9(2):133. 
+Cluster headache.  
+We present a review of 60 cases of cluster headache. 
+Most patients were males, ranging from 19 to 65 years of age at the time of the first visit. 
+Headaches consisted of short-lasting (from 15 to 210 minutes), intense, unilateral pain attacks, most frequently in the periorbital area, with ipsilateral autonomic signs (rhinorrhea, ptosis, tearing and conjunctival injection). 
+Between attacks,  patients were completely free of pain. 
+The attacks occurred in bouts lasting 1 to 6 months, in which patients had daily headaches (one to three times a day). 
+Headaches responded well to oxygen or ergotamine. 
+Prophylactic therapy in most cases consisted of verapamil, also with a good response. 
+We present this review in order to draw attention to this relatively rare form of headache with a specific therapy. 
+Treatment of headache.  
+Headache is the most common complaint encountered in clinical practice. 
+Approximately 45 million people in the United States experience chronic headaches. 
+The management of migraine headache involves both pharmacologic and nondrug therapy. 
+Drug therapy for migraine involves the use of abortive and prophylactic agents. 
+Abortive agents, such as ergotamine tartrate and ketoprofen, may be used to relieve the acute attack. 
+Prophylactic therapy is focused on reducing the frequency and severity of the attacks. 
+beta-Adrenergic blocking agents, such as propranolol, remain the primary agents for many migraine patients, although other drugs, such as nonsteroidal anti-inflammatory drugs (NSAIDs), including ketoprofen, or calcium-channel blocking agents, such as verapamil, may be beneficial for many patients. 
+For cluster headache and its variants, methysergide and corticosteroids are usually the drugs of choice. 
+Patients with chronic cluster headache may achieve good results from long-term treatment with other therapies, including lithium carbonate, verapamil, and ketoprofen. 
+Prophylaxis of migraine, transformed migraine, and cluster headache with topiramate.  
+OBJECTIVE: To assess the efficacy and tolerability of topiramate for prophylaxis  of migraine and cluster headache via a retrospective chart analysis. 
+BACKGROUND: Topiramate has multiple mechanisms of action that could potentially contribute to migraine prophylaxis. 
+We conducted a retrospective chart review to  assess the efficacy of topiramate as add-on therapy in patients with transformed  migraine or cluster headache, and as first-line therapy in patients with episodic migraine. 
+METHODS: Patients diagnosed with transformed migraine, episodic migraine, or cluster headache, who received topiramate either as add-on therapy or monotherapy were selected via retrospective chart review. 
+Patients had begun topiramate therapy at 25 mg/day for the first week and increased their dosage by 25 mg/week  to a maximum of 200 mg/day. 
+Topiramate was used as add-on therapy for patients with transformed migraine and cluster headache, and as a first-line monotherapy in patients with episodic migraine who had no previous prophylactic therapy. 
+The  outcome parameters examined included a mean 28-day migraine frequency, migraine severity, number of headache days/month, number of abortive medication tablets/month, patient global evaluation, and the MIDAS scale. 
+RESULTS: One hundred seventy-eight patients (transformed migraine: n = 96; episodic migraine: n = 70; and cluster headache: n = 12) were included in the retrospective analysis. 
+The mean dose of topiramate for all patients was 87.5 mg/day. 
+For patients with transformed migraine, mean migraine frequency decreased from 6.3/28 days to 3.7 (P = 0.005). 
+Mean severity decreased from 7.1 to 3.8 on a 10-point scale, with 10 representing the most severe pain (P = 0.003). 
+The mean number of headache days/month decreased from 22.1 to 9.6 (P = 0.001), and the mean number of abortive medication tablets decreased from 28.7/month to 10.6 (P = 0.001). 
+Patient global evaluation indicated substantial or moderate improvement in 53% of patients with transformed migraine who used topiramate as add-on therapy. 
+Mean MIDAS scale values decreased from 90.2 to 24.9 (P< 0.0001). 
+The 70  episodic migraine patients who were administered topiramate as first-line therapy exhibited a decrease in mean migraine frequency (5.8/28 days to 1.9, P = 0.001),  while mean migraine severity decreased from 8.1 to 2.0 (P = 0.003). 
+Sixty-one percent of patients reported marked improvement. 
+Nine of the 12 cluster headache  patients exhibited substantial or moderate improvement in symptoms, whereas three had no improvement. 
+The most common adverse effects were paresthesias (12%), cognitive effects (11%), and dizziness (6%). 
+Eight patients discontinued topiramate due to adverse effects; cognitive effects were the most common reason. 
+No patient discontinued topiramate treatment due to lack of efficacy. 
+Twelve percent of patients lost more than 5 lbs during treatment (a range of 5-120 lbs). 
+CONCLUSION: For both patients with transformed migraine (add-on therapy) and patients with episodic migraine (first-line monotherapy), topiramate yielded significant reductions in migraine frequency, migraine severity, number of headache days/month, and use of abortive medications. 
+Topiramate also appears to  be well tolerated and useful in the adjunctive treatment of cluster headache. 
+Prospective double-blind, placebo-controlled trials will be required to confirm our results. 
+Cluster headache: diagnosis and treatment.  
+Cluster headache is a rare yet exquisitely painful primary headache disorder occurring in either episodic or chronic patterns. 
+The unique feature of cluster headache is the distinctive circadian and circannual periodicity in the episodic  forms. 
+The attacks are stereotypic--they are of extreme intensity and short duration, occur unilaterally, and are associated with robust signs and symptoms of autonomic dysfunction. 
+Although the pathophysiology of cluster headache remains to be fully understood, there have been a number of recent seminal observations. 
+To exclude structural mimics, patients presenting with symptoms suggestive of cluster headache warrant at least a brain magnetic resonance imaging (MRI) scan in their work-up. 
+The medical treatment of cluster headache includes acute, transitional, and maintenance prophylaxis. 
+Agents used for acute  therapy include inhalation of oxygen, triptans, such as sumatriptan, and dihydroergotamine. 
+Transitional prophylaxis refers to the short-term use of fast-acting agents. 
+This typically involves either corticosteroids or an occipital nerve block. 
+The mainstay of prophylactic therapy is verapamil. 
+Yet, other medications, including lithium, divalproex sodium, topiramate, methysergide, gabapentin, and even indomethacin, may be useful when the headache  fails to respond to verapamil. 
+For medically refractory patients, surgical interventions, occipital nerve stimulation, and deep brain stimulation remain an  option. 
+As the sophistication of functional neuroimaging increases, better insight into the pathophysiological mechanisms that underlie cluster headache is  expected. 
+Cluster headache pharmacotherapy.  
+Cluster headache is a well-known primary headache syndrome with a prevalence of about 5/10,000 of the adult population, making it much less common than migraine. 
+Diagnostic terms such as histaminic cephalalgia, Horton's headache and ciliary neuralgia have been used for what is now known as cluster headache. 
+This disorder can be differentiated from migraine by clinical and pathophysiologic features. 
+Cluster headache also exhibits a differing therapeutic response to medications when compared with migraine. 
+The pharmacologic treatment of cluster is reviewed in this article. 
+In contrast to migraine, men are 3-4 times more likely to be diagnosed with cluster headache than women, and the cluster headache population is older. 
+Cluster attacks are known for their brief intense unilateral excruciating pain during susceptible periods known as cluster periods, which typically last weeks. 
+Attack-free months generally follow. 
+Pain is experienced in the distribution of the trigeminal nerve, with unilateral autonomic features. 
+Most patients are successfully managed with medical therapy. 
+Medication management can be divided into abortive treatments for an ongoing attack and prophylactic treatment. 
+Prophylaxis aims to induce and maintain a remission. 
+There are a variety of different medications for abortive and prophylactic therapy, accompanied by a variable amount of evidence-based medicine. 
+For patients refractory to medical management, interventional procedures are available as a last resort. 
+Most procedures are directed against the sensory trigeminal nerve and associated ganglia, eg, anesthetizing the sphenopalatine ganglion. 
+MARS: improving multiple circular sequence alignment using refined sequences.  
+BACKGROUND: A fundamental assumption of all widely-used multiple sequence alignment techniques is that the left- and right-most positions of the input sequences are relevant to the alignment. 
+However, the position where a sequence starts or ends can be totally arbitrary due to a number of reasons: arbitrariness in the linearisation (sequencing) of a circular molecular structure; or inconsistencies introduced into sequence databases due to different linearisation standards. 
+These scenarios are relevant, for instance, in the process of multiple sequence alignment of mitochondrial DNA, viroid, viral or other genomes, which have a circular molecular structure. 
+A solution for these inconsistencies would be to identify a suitable rotation (cyclic shift) for each sequence; these refined sequences may in turn lead to improved multiple sequence alignments using the preferred multiple sequence alignment program. 
+RESULTS: We present MARS, a new heuristic method for improving Multiple circular  sequence Alignment using Refined Sequences. 
+MARS was implemented in the C++ programming language as a program to compute the rotations (cyclic shifts) required to best align a set of input sequences. 
+Experimental results, using real and synthetic data, show that MARS improves the alignments, with respect to standard genetic measures and the inferred maximum-likelihood-based phylogenies,  and outperforms state-of-the-art methods both in terms of accuracy and efficiency. 
+Our results show, among others, that the average pairwise distance in the multiple sequence alignment of a dataset of widely-studied mitochondrial DNA  sequences is reduced by around 5% when MARS is applied before a multiple sequence alignment is performed. 
+CONCLUSIONS: Analysing multiple sequences simultaneously is fundamental in biological research and multiple sequence alignment has been found to be a popular method for this task. 
+Conventional alignment techniques cannot be used effectively when the position where sequences start is arbitrary. 
+We present here a method, which can be used in conjunction with any multiple sequence alignment program, to address this problem effectively and efficiently. 
+Maternal epilepsy and birth defects: a case-control study in the Italian Multicentric Registry of Birth Defects (IPIMC).  
+Should folic acid be given to women treated with valproic acid and/or carbamazepine? Folic acid and pregnancy in epilepsy.  
+Fetal exposure to valproic acid or carbamazepine increases the risk of neural tube defect (NTD). 
+The risk of a mother having a baby with spina bifida has been  estimated at 1-2 p. 
+100, close to the rate of risk of recurrent cases. 
+No study has evaluated the effect of folic acid in neonates of women treated with valproic acid or carbamazepine although the protective effect against NTD has been proven  in other populations. 
+Periconceptional folic acid supplementation, 0.4 to 1 mg/day, for at least one month prior to conception and until the date of the second missed menstrual period or later decreases the incidence of a first occurrence of neural tube defect. 
+Periconceptional folic acid supplementation, 4  mg/day, decreases the recurrence of NTD in women who had previously had a child with NTD. 
+It seems pertinent to recommend periconceptional folic acid supplementation in women treated with carbamazepine or valporic acid. 
+There are very few data in women on which to base a decision to advise taking 4 mg/day (as  used in recurrence prevention) or low doses of 0.4 mg/day (used in primary prevention). 
+Maternal carbamazepine and infant spina bifida.  
+Women with epilepsy giving birth during 1973 to 1991 were identified by record linkage of Swedish health registries. 
+Among 3,625 identified infants, 9 had spina bifida. 
+A nested case-control study was performed, comparing drugs used in early  pregnancy in the 9 cases and in 18 controls, matched for year of delivery, maternal age, and parity. 
+Six of the spina bifida mothers had used carbamazepine  and two had used valproic acid. 
+Among the controls, 5 women used carbamazepine and one valproic acid. 
+There is an apparent excess risk for spina bifida after use of either of these two drugs, but it is not statistically significant when the analysis is restricted to drug-using women. 
+The findings support earlier reports in the literature of an association between carbamazepine and spina bifida. 
+Fetal hydantoin syndrome and its anaesthetic implications: a case report.  
+Fetal hydantoin syndrome is a rare disorder that is believed to be caused by exposure of a fetus to the anticonvulsant drug phenytoin. 
+The classic features of fetal hydantoin syndrome include craniofacial anomalies, prenatal and postnatal growth deficiencies, underdeveloped nails of the fingers and toes, and mental retardation. 
+Less frequently observed anomalies include cleft lip and palate, microcephaly, ocular defects, cardiovascular anomalies, hypospadias, umbilical and inguinal hernias, and significant developmental delays. 
+Anaesthesia for incidental surgery in such a patient poses unique challenges for the anesthesiologist. 
+We report the successful management of a 4-year-old male child  with fetal hydantoin syndrome, cleft palate, spina bifida, atrial septal defect,  and dextrocardia for tibialis anterior lengthening under subarachnoid block. 
+Multiple point action mechanism of valproic acid-teratogenicity alleviated by folic acid, vitamin C, and N-acetylcysteine in chicken embryo model.  
+Comment in     Toxicology. 
+2012 Mar 11;293(1-3):132-3. 
+Valproic acid-induced fetal malformations are reduced by maternal immune stimulation with granulocyte-macrophage colony-stimulating factor or interferon-gamma.  
+Valproic acid, a drug commonly used to treat seizures and other psychiatric disorders, causes neural tube defects (NTDs) in exposed fetuses at a rate 20 times higher than in the general population. 
+Failure of the neural tube to close  during development results in exencephaly or anencephaly, as well as spina bifida. 
+In mice, nonspecific activation of the maternal immune system can reduce  fetal abnormalities caused by diverse etiologies, including diabetes-induced NTDs. 
+We hypothesized that nonspecific activation of the maternal immune system with interferon-gamma (IFN-gamma) and granulocyte-macrophage colony-stimulating factor (GM-CSF) could reduce valproic acid (VA)-induced defects as well. 
+Female CD-1 mice were given immune stimulant prebreeding: either IFN-gamma or GM-CSF. 
+Approximately half of the control and immune-stimulated pregnant females were then exposed to 500 mg/kg VA on the morning of gestational day 8. 
+The incidence of developmental defects was determined on gestational day 17 from at least eight litters in each of the following treatment groups: control, VA only, IFN-gamma only, IFN-gamma+VA, GM-CSF only, and GM-CSF+VA. 
+The incidence of NTDs was 18% in  fetuses exposed to VA alone, compared to 3.7% and 2.9% in fetuses exposed to IFN-gamma+VA, or GM-CSF+VA respectively. 
+Ocular defects were also significantly reduced from 28.0% in VA exposed groups to 9.8% in IFN-gamma+VA and 12.5% in GM-CSF+VA groups. 
+The mechanisms by which maternal immune stimulation prevents birth defects remain unclear, but may involve maternal or fetal production of cytokines or growth factors which protect the fetus from the dysregulatory effects of teratogens. 
+Pregnancy, delivery, and outcome for the child in maternal epilepsy.  
+PURPOSE: To investigate pregnancy, delivery, and child outcome in an unselected population of women with both treated and untreated epilepsy. 
+METHODS: In the compulsory Medical Birth Registry of Norway, all 2,861 deliveries by women with epilepsy recorded from 1999-2005 were compared to all 369,267 nonepilepsy deliveries in the same period. 
+RESULTS: The majority (66%, n = 1900) in the epilepsy group did not use antiepileptic drugs (AEDs) during pregnancy. 
+A total of 961 epilepsy-pregnancies  were exposed to AEDs. 
+Compared to nonepilepsy controls, AED-exposed infants were  more often preterm (p = 0.01), and more often had birth weight <2,500 g (p < 0.001), head circumference <2.5 percentile (p < 0.001), and low Apgar score (p =  0.03). 
+Small-for-gestational-age (SGA) infants (<10 percentile) occurred more frequently in both AED-exposed (p = 0.05) and unexposed (p = 0.02) epilepsy-pregnancies. 
+Frequency of major congenital malformations (MCMs) was 2.8% (n = 81) in the epilepsy group versus 2.5% in controls (p = 0.3). 
+Increased risk  for MCMs could be demonstrated only for exposure to valproate (5.6%, p = 0.005) and AED polytherapy (6.1%, p = 0.02). 
+Neonatal spina bifida was not significantly increased, but was a major indication for elective pregnancy termination among women with epilepsy. 
+Cesarean section was performed more often in maternal epilepsy, regardless of AED-exposure (p < 0.001). 
+DISCUSSION: Adverse pregnancy and birth outcome in women with epilepsy is mainly  confined to AED-exposed pregnancies, although some risks are associated also with untreated epilepsy. 
+The risk for congenital malformations was lower than previously reported. 
+This could be due to a shift in AED selection, folic acid supplement, or possibly reflect the true risks in an unselected epilepsy population. 
+Teratogenic effects of antiepileptic drugs: use of an International Database on Malformations and Drug Exposure (MADRE).  
+PURPOSE: The study goal was to assess teratogenic effects of antiepileptic drugs  (AEDs) through the use of a surveillance system (MADRE) of infants with malformations. 
+METHODS: Information on all malformed infants (1990-1996) with maternal first-trimester drug exposure was collected by the International Clearinghouse for Birth Defects and Monitoring Systems (ICBDMS). 
+Cases were defined as infants  presenting with a specific malformation, and controls were defined as infants presenting with any other birth defect. 
+Exposure was defined by the use of AEDs during the first trimester of pregnancy. 
+The association of AEDs with malformations was then estimated by calculating the odds ratios with 95% confidence intervals and testing their homogeneity among registries. 
+RESULTS: Among 8005 cases of malformations, 299 infants were exposed in utero to  AEDs. 
+Of those exposed to monotherapy, 65 were exposed to phenobarbital, 10 to methylphenobarbital, 80 to valproic acid, 46 to carbamazepine, 24 to phenytoin, and 16 to other AEDs. 
+Associations were found for spina bifida with valproic acid. 
+Infants exposed to phenobarbital and to methylphenobarbital showed an increased risk of oral clefts. 
+Cardiac malformations were found to be associated  with phenobarbital, methylphenobarbital, valproic acid, and carbamazepine. 
+Hypospadias was associated with valproic acid. 
+Porencephaly and other specified anomalies of brain, anomalies of face, coarctation of aorta, and limb reduction defects were found to be associated with valproic acid. 
+CONCLUSIONS: Using the MADRE system, we confirmed known teratogenic effects of AEDs. 
+We also found increased risks for malformations that had never been reported associated with AEDs or for which the association was suggested by case  reports. 
+Anticonvulsant drugs and malformations is there a drug specificity?  
+The distribution of anticonvulsant drug therapy was studied in 318 malformed infants with known histories of maternal epilepsy. 
+Data on the infants was collected from six birth defect monitoring programs in Europe and South America. 
+ Use of specific types of anticonvulsants varies widely among reporting countries. 
+Heterogeneity of drug-malformation distribution, was analyzed to determine whether use of specific drugs were linked to specific malformations. 
+A significant association was seen between maternal use of valproic acid and spina  bifida, and a weaker, non-significant one between carbamazepine and spina bifida. 
+Facial clefts were associated with both diphenylhydantoin and phenobarbitone use  and also with polytherapy. 
+These differences indicate that the actual drug used is significant for the teratogenic process. 
+The technique may be useful in analysis of other drug-related teratogenic questions. 
+Influencing clinical practice regarding the use of antiepileptic medications during pregnancy: modeling the potential impact on the prevalences of spina bifida and cleft palate in the United States.  
+Selected antiepileptic drugs (AEDs) increase the risk of birth defects. 
+To assess the impact of influencing AED prescribing practices on spina bifida and cleft palate we searched the literature for estimates of the association between valproic acid or carbamazepine use during pregnancy and these defects and summarized the associations using meta-analyses. 
+We estimated distributions of the prevalence of valproic acid and carbamazepine use among women of childbearing age based on analyses of four data sets. 
+We estimated the attributable fractions  and the number of children born with each defect that could be prevented annually in the United States if valproic acid and carbamazepine were not used during pregnancy. 
+The summary odds ratio estimate for the association between valproic acid and spina bifida was 11.9 (95% uncertainty interval (UI): 4.0-21.2); for valproic acid and cleft palate 5.8 (95% UI: 3.3-9.5); for carbamazepine and spina bifida 3.6 (95% UI: 1.3-7.8); and for carbamazepine and cleft palate 2.4 (95% UI: 1.1-4.5) in the United States. 
+Approximately 40 infants (95% UI: 10-100) with spina bifida and 35 infants (95% UI: 10-70) with cleft palate could be born without these defects each year if valproic acid were not used during pregnancy;  5 infants (95% UI: 0-15) with spina bifida and 5 infants (95% UI: 0-15) with cleft palate could be born without these defects each year if carbamazepine were  not used during pregnancy. 
+This modeling approach could be extended to other medications to estimate the impact of translating pharmacoepidemiologic data to evidence-based prenatal care practice. 
+Romosozumab Improves Bone Mass and Strength While Maintaining Bone Quality in Ovariectomized Cynomolgus Monkeys.  
+Romosozumab (Romo), a humanized sclerostin antibody, is a bone-forming agent under development for treatment of osteoporosis. 
+To examine the effects of Romo on bone quality, mature cynomolgus monkeys (cynos) were treated 4 months post- ovariectomy (OVX) with vehicle, 3 mg/kg, or 30 mg/kg Romo for 12 months, or with  30 mg/kg Romo for 6 months followed by vehicle for 6 months (30/0). 
+Serum bone formation markers were increased by Romo during the first 6 months, corresponding to increased cancellous, endocortical, and periosteal bone formation in rib and iliac biopsies at months 3 and 6. 
+Dual-energy X-ray absorptiometry (DXA) bone mineral density (BMD) was increased by 14% to 26% at the lumbar spine and proximal femur at month 12, corresponding to significant increases in bone strength at 3 and 30 mg/kg in lumbar vertebral bodies and cancellous cores, and at 30 mg/kg in the femur diaphysis and neck. 
+Bone mass remained positively correlated with strength at these sites, with no changes in calculated material properties at cortical sites. 
+These bone-quality measures were also maintained in the 30/0 group, despite a gradual loss of accrued bone mass. 
+Normal bone mineralization was confirmed by histomorphometry and ash analyses. 
+At the radial  diaphysis, a transient, reversible 2% reduction in cortical BMD was observed with Romo at month 6, despite relative improvements in bone mineral content (BMC). 
+High-resolution pQCT confirmed this decline in cortical BMD at the radial diaphysis and metaphysis in a second set of OVX cynos administered 3 mg/kg Romo for 6 months. 
+Radial diaphyseal strength was maintained and metaphyseal strength  improved with Romo as estimated by finite element modeling. 
+Decreased radial cortical BMD was a consequence of increased intracortical remodeling, with no increase in cortical porosity. 
+Romo resulted in marked improvements in bone mass, architecture, and bone strength, while maintaining bone quality in OVX cynos, supporting its bone efficacy and safety profile. 
+© 2016 American Society for Bone and Mineral Research. 
+Update on romosozumab : a humanized monoclonal antibody to sclerostin.  
+INTRODUCTION: Disorders with inactivating mutations of the SOST gene result in reduced or absent expression of sclerostin and are associated with high bone mass. 
+Sclerostin is an important regulator of bone formation due to its inhibitory actions in the osteoanabolic Wnt signaling pathway. 
+Advances in understanding the mechanisms of action of this signaling molecule have led to the development of a pharmacological inhibitor of sclerostin with potential clinical  applications as an osteoanabolic drug for the treatment of osteoporosis. 
+AREAS COVERED: Romosozumab is the first humanized monoclonal sclerostin antibody  to be tested in clinical trials. 
+Similar to preclinical animal studies with sclerostin antibodies, initial clinical studies show that romosozumab increases bone formation and bone mineral density. 
+EXPERT OPINION: Blocking sclerostin action with romosozumab is a promising new therapeutic approach to osteoanabolic therapy of osteoporosis; efficacy and safety data on large controlled studies are awaited. 
+Kinetic reconstruction reveals time-dependent effects of romosozumab on bone formation and osteoblast function in vertebral cancellous and cortical bone in cynomolgus monkeys.  
+Romosozumab, a humanized monoclonal sclerostin antibody under development for the treatment of osteoporosis, has a unique mechanism of action on bone-increasing bone formation and decreasing bone resorption. 
+The effects on bone formation are  transient, eliciting a rapid increase in bone formation that attenuates with continued treatment. 
+Although bone formation attenuates, bone mineral density (BMD) continues to increase. 
+To explore potential tissue-level mechanisms that could contribute to a progressive increase in spine BMD, we used kinetic reconstruction techniques to examine the effects of romosozumab on modeling and remodeling units in vertebral cancellous bone from adult cynomolgus monkeys administered romosozumab for 10 and 28weeks. 
+The 10-week study duration captured  a period of high modeling-based bone formation, and the 28-week study duration followed the self-regulation or attenuation of bone formation in cancellous bone  that occurs with long-term treatment. 
+Sequential fluorochrome labels applied for  the kinetic reconstruction were also used to evaluate treatment effects on osteoblast function as early as 3weeks, and on bone formation and bone accrual in the vertebral cortex over 28weeks. 
+Kinetic reconstruction of remodeling and modeling formation sites in vertebral cancellous bone revealed that romosozumab effected significant transient increases in mineral apposition rate in remodeling sites at week 3 that was not sustained with continued treatment. 
+However, romosozumab treatment caused sustained improvement in fractional labeling of osteoid, an index of osteoblast efficiency, at remodeling formative sites at both weeks 10 and 28 that was the major contributor to significant increases in final  wall thickness (W.Th) of remodeling packets. 
+Remodeling W.Th matched the final W.Th of modeling packets at week 10. 

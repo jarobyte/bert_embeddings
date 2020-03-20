@@ -1,0 +1,400 @@
+At both weeks 10 and 28, romosozumab significantly decreased eroded surface (ES/BS). 
+At week 28, romosozumab also significantly reduced resorption period (Rs.P) and final resorption depth (Rs.De). 
+The reduced final Rs.De combined with the increased W.Th resulted in a significant increase in bone balance (BB) at the level of the remodeling unit. 
+Assessment of bone formation on the vertebral periosteal and endocortical surfaces following 28weeks of treatment revealed that romosozumab significantly increased bone formation on these surfaces, which had attenuated by week 28, resulting in significant increases in new periosteal and endocortical bone by week 28. 
+These data suggest that multiple factors potentially contribute to the increase in spine BMD with romosozumab treatment. 
+In the early period of treatment, increased modeling-based bone formation, increased W.Th at remodeling  sites, a decrease in remodeling space secondary to decreased ES/BS in vertebral cancellous bone, and increased periosteal and endocortical bone formation in the  vertebral cortex contribute to the early increase in spine BMD. 
+Following the self-regulation of bone formation when modeling-based bone formation has attenuated, a decrease in remodeling space secondary to reduced ES/BS and a positive BB secondary to decreased final Rs.De and increased W.Th contribute to the progressive increase in spine BMD with long-term treatment. 
+Romosozumab for the treatment of osteoporosis.  
+INTRODUCTION: Sclerostin, a glycoprotein produced primarily by osteocytes, blocks the canonical Wnt signaling bone formation pathway. 
+Romosozumab is a humanized monoclonal antibody to sclerostin that binds to sclerostin, permitting the engagement of Wnt ligands with their co-receptors, resulting in an increase in bone formation and bone mineral density (BMD). 
+Clinical studies with romosozumab  have shown dramatic improvements in BMD at the spine and hip. 
+Romosozumab is associated with improvement in bone strength through mechanisms that include increases in bone formation and, different from classical osteoanabolic agents, suppression of bone resorption. 
+Areas covered: Herein, the authors highlight the  available data on romosozumab for the treatment of osteoporosis. 
+This includes the latest data on the efficacy, pharmacokinetics and pharmacodynamics as well as safety and tolerability data. 
+Expert opinion: Monthly subcutaneous dosing of romosozumab reduces the risk of vertebral and clinical fractures in women with postmenopausal osteoporosis, with a favorable balance of benefits and risks. 
+Romosozumab is a promising emerging anabolic agent with a novel mechanism of action that may expand the options for treating osteoporotic patients at high risk of fracture. 
+Romosozumab Treatment Converts Trabecular Rods into Trabecular Plates in Male Cynomolgus Monkeys.  
+Treatment with sclerostin antibody (romosozumab) increases bone formation while reducing bone resorption, leading to increases in bone volume and bone mineral density. 
+Sclerostin antibody treatment may also provide beneficial changes in trabecular microarchitecture and strength that are not reflected in bone volume and density. 
+Here we use three-dimensional dynamic histomorphometry to determine  longitudinal changes in vertebral trabecular microarchitecture in adolescent male cynomolgus monkeys (4-5 years old) treated with sclerostin antibody. 
+Animals were treated bi-weekly with either sclerostin antibody (30 mg/kg, sc, n = 6) or vehicle (n = 6) for 10 weeks. 
+Animals were administered fluorochrome bone formation labels on days 14 and 24 (tetracycline) and on days 56 and 66 (calcein), followed by necropsy on day 70. 
+Cylindrical specimens of cancellous bone from the 5th lumbar vertebrae were used to generate high-resolution, three-dimensional images of bone and fluorescent labels of bone formation (0.7 × 0.7 × 5.0 µm/voxel). 
+The three-dimensional images of the bone formation labels were used to determine the bone volume formed between days 14 and 66 and the resulting alterations in trabecular microarchitecture within each bone. 
+Treatment with sclerostin antibody resulted in a conversion of rod-like trabeculae into plate-like trabeculae at a higher rate than in vehicle-treated animals (p = 0.01). 
+Plate bone volume fraction was greater in the sclerostin antibody group relative to vehicle (mean 43 vs. 
+30%, p < 0.05). 
+Bone formation increased the thickness of trabeculae in all three trabecular orientations (axial, oblique, and transverse, p < 0.05). 
+The volume of bone formed between days 14 to 66 was greater in sclerostin antibody-treated groups (9.0 vs. 
+5.4%, p = 0.02), and new bone formation due to sclerostin antibody treatment was associated with increased apparent stiffness as determined from finite element models. 
+Our results demonstrate that increased bone formation associated with sclerostin antibody treatment increases plate-like trabecular morphology and improves mechanical performance. 
+Carcinogenicity risk assessment of romosozumab: A review of scientific weight-of-evidence and findings in a rat lifetime pharmacology study.  
+Romosozumab is a humanized immunoglobulin G2 monoclonal antibody that binds and blocks the action of sclerostin, a protein secreted by the osteocyte and an extracellular inhibitor of canonical Wnt signaling. 
+Blockade of sclerostin binding to low-density lipoprotein receptor-related proteins 5 and 6 (LRP5 and LRP6) allows Wnt ligands to activate canonical Wnt signaling in bone, increasing  bone formation and decreasing bone resorption, making sclerostin an attractive target for osteoporosis therapy. 
+Because romosozumab is a bone-forming agent and  an activator of canonical Wnt signaling, questions have arisen regarding a potential carcinogenic risk. 
+Weight-of-evidence factors used in the assessment of human carcinogenic risk of romosozumab included features of canonical Wnt signaling, expression pattern of sclerostin, phenotype of loss-of-function mutations in humans and mice, mode and mechanism of action of romosozumab, and findings from romosozumab chronic toxicity studies in rats and monkeys. 
+Although  the weight-of-evidence factors supported that romosozumab would pose a low carcinogenic risk to humans, the carcinogenic potential of romosozumab was assessed in a rat lifetime study. 
+There were no romosozumab-related effects on tumor incidence in rats. 
+The findings of the lifetime study and the weight-of-evidence factors collectively indicate that romosozumab administration  would not pose a carcinogenic risk to humans. 
+Novel therapies for osteoporosis.  
+Since the identification of osteoporosis as a major health issue in aging populations and the subsequent development of the first treatment modalities for  its management, considerable progress has been made in our understanding of the mechanisms controlling bone turnover and disease pathophysiology, thus enabling the pinpointing of new targets for intervention. 
+This progress, along with advances in biotechnology, has rendered possible the development of ever more sophisticated treatments employing novel mechanisms of action. 
+Denosumab, a monoclonal antibody against RANKL, approved for the treatment of postmenopausal and male osteoporosis, significantly and continuously increases bone mineral density (BMD) and maintains a low risk of vertebral, non-vertebral, and hip fractures for up to 8 years. 
+Currently available combinations of estrogens with selective estrogen receptor modulators moderately increase BMD without causing the extra-skeletal adverse effects of each compound alone. 
+The cathepsin K inhibitor odanacatib has recently been shown to decrease vertebral, non-vertebral, and hip fracture rates and is nearing approval. 
+Romosozumab, an anti-sclerosin antibody, and abaloparatide, a PTH-related peptide analog, are at  present in advanced stages of clinical evaluation, so far demonstrating efficaciousness together with a favorable safety profile. 
+Several other agents are currently in earlier clinical and preclinical phases of development, including dickkopf-1 antagonists, activin A antagonists, β-arrestin analogs, calcilytics, and Src tyrosine kinase inhibitors. 
+Effects of Romosozumab Compared With Teriparatide on Bone Density and Mass at the Spine and Hip in Postmenopausal Women With Low Bone Mass.  
+Romosozumab, a monoclonal antibody that binds sclerostin, has a dual effect on bone by increasing bone formation and reducing bone resorption, and thus has favorable effects in both aspects of bone volume regulation. 
+In a phase 2 study,  romosozumab increased areal BMD at the lumbar spine and total hip as measured by  DXA compared with placebo, alendronate, and teriparatide in postmenopausal women  with low bone mass. 
+In additional analyses from this international, randomized study, we now describe the effect of romosozumab on lumbar spine and hip volumetric BMD (vBMD) and BMC at month 12 as assessed by QCT in the subset of participants receiving placebo, s.c. 
+teriparatide (20 µg once daily), and s.c. 
+romosozumab (210 mg once monthly). 
+QCT measurements were performed at the lumbar  spine (mean of L1 and L2 entire vertebral bodies, excluding posterior processes)  and hip. 
+One year of treatment with romosozumab significantly increased integral  vBMD and BMC at the lumbar spine and total hip from baseline, and compared with placebo and teriparatide (all p < 0.05). 
+Trabecular vertebral vBMD improved significantly and similarly from baseline (p < 0.05) with both romosozumab (18.3%) and teriparatide (20.1%), whereas cortical vertebral vBMD gains were larger with romosozumab compared with teriparatide (13.7% versus 5.7%, p < 0.0001). 
+Trabecular hip vBMD gains were significantly larger with romosozumab than with teriparatide (10.8% versus 4.2%, p = 0.01), but were similar for cortical vBMD (1.1% versus -0.9%, p = 0.12). 
+Cortical BMC gains were larger with  romosozumab compared with teriparatide at both the spine (23.3% versus 10.9%, p < 0.0001) and hip (3.4% versus 0.0%, p = 0.03). 
+These improvements are expected to result in strength gains and support the continued clinical investigation of romosozumab as a potential therapy to rapidly reduce fracture risk in ongoing phase 3 studies. 
+© 2016 American Society for Bone and Mineral Research. 
+Recent advances in the management of osteoporosis.  
+There has been substantial progress in the management of patients with osteoporosis and the prevention of osteoporotic fractures. 
+Currently available strong anti-resorptive agents are bisphosphonates and an anti-receptor activator  of nuclear factor-kappa B ligand (RANKL) antibody, denosumab. 
+Although bisphosphonates and denosumab both inhibit bone resorption and prevent vertebral  and non-vertebral fractures, their mechanisms of action are different. 
+Whereas bisphosphonates' effects on bone mineral density and fracture peak around 3 to 5  years and become plateaued, those of denosumab are maintained for up to 10 years. 
+There are differences in the modes of action of these two drugs. 
+Bisphosphonates  accumulate on the mineralized bone surface and are released by the acid environment under osteoclastic bone resorption, whereas denosumab is not accumulated on bone but directly binds RANKL and inhibits its binding to the receptor RANK. 
+Thus, the reduction in denosumab concentration 4 to 6 months after injection may enable RANK to bind to RANKL, where it is highly expressed, such as in damaged bone regions. 
+As anabolic agents, only teriparatide has been available for a long time, but abaloparatide, a synthetic analog of PTHrP(1-34), is currently under development. 
+Because of the difference in the preferential binding conformations of PTH1 receptor between teriparatide and abaloparatide, the latter shows anabolic effects with fewer bone resorptive effects. 
+Romosozumab, an anti-sclerostin antibody, inhibits the action of sclerostin, a canonical Wnt signal inhibitor secreted from osteocytes, and enhances canonical Wnt signaling. 
+Romosozumab robustly increases vertebral and proximal femoral bone mineral density within 12 months and inhibits vertebral and clinical fractures in patients with osteoporosis by enhancing bone formation and inhibiting bone resorption. 
+In this review, we summarize the recent advances in therapeutic agents for the treatment of osteoporosis and discuss future prospects with their  use. 
+Romosozumab: from basic to clinical aspects.  
+The Wnt pathway has an important role in bone formation. 
+Inactivation of sclerostin, an inhibitor of this pathway, has been associated with increased bone mass both in animal experiments and in human clinical trials. 
+Romosozumab is a humanized monoclonal antibody targeting sclerostin. 
+Preclinical studies showed that this antibody primarily increases bone formation resulting in increased bone mineral density. 
+Initial studies carried out in humans are in line with data obtained in animals. 
+If these results are confirmed in larger studies with fracture end-points, this monoclonal antibody with its anabolic action, will become a key drug in the treatment of osteoporosis. 
+Profile of romosozumab and its potential in the management of osteoporosis.  
+Increased understanding of bone biology has led to the discovery of several unique signaling pathways that regulate bone formation and resorption. 
+The Wnt signaling pathway plays a significant role in skeletal development, adult skeletal homeostasis, and bone remodeling. 
+Sclerostin is an inhibitor of the Wnt  signaling pathway. 
+Romosozumab, a humanized monoclonal antibody that binds to sclerostin, prevents sclerostin from exerting this inhibitory effect. 
+Therefore,  in the presence of romosozumab, the Wnt signaling pathway is activated leading to bone formation and bone mineral density gain. 
+Clinical studies of romosozumab have shown that this agent is one of the most potent bone anabolic agents in development to date. 
+Romosozumab does not act solely as an anabolic agent, but rather, it has effects on increasing bone formation as well as reducing bone resorption. 
+In the clinical studies, patients tolerated romosozumab well with no  major safety signals reported. 
+In a Phase III study, romosozumab as compared to placebo has been shown to reduce vertebral fractures by 73% after 1 year of treatment. 
+Sequential therapy with romosozumab for 1 year followed by denosumab in the second year reduced vertebral fractures by 75% as compared to the group that received placebo for 1 year and denosumab in the second year. 
+Romosozumab holds significant potential, by a novel mechanism of action, to expand our ability to treat osteoporosis. 
+More studies are needed to determine the ideal setting in which romosozumab may be used to optimize osteoporosis treatment. 
+Connecting the Dots: Linking Osteocyte Activity and Therapeutic Modulation of Sclerostin by Extending a Multiscale Systems Model.  
+The goal of this work was to extend a mathematical, multiscale systems model of bone function, remodeling, and health in order to explore hypotheses related to therapeutic modulation of sclerostin and quantitatively describe purported osteocyte activity within bone remodeling events. 
+A pharmacokinetic model with first-order absorption and dual elimination pathways was used to describe the kinetics of romosozumab, a monoclonal antibody (mAb) against sclerostin. 
+To describe total circulating sclerostin, an extended indirect response model of inhibition of offset was developed. 
+These models were subsequently linked to the  systems model, with sclerostin signaling changes in resorption and formation through established osteocyte-mediated mechanisms. 
+The model proposes relative contributions of the osteocyte to the RANKL pool, a major player in feedback signaling, and is used to explore hypotheses surrounding attenuation of anabolic  activity after multiple doses of sclerostin mAbs, a phenomenon whose mechanism is poorly understood. 
+Hepatoprotection by L-Ornithine L-Aspartate in Non-Alcoholic Fatty Liver Disease.  
+BACKGROUND: Non-alcoholic fatty liver disease (NAFLD) is the leading chronic hepatic condition worldwide and new approaches to management and treatment are limited. 
+SUMMARY: L-ornithine L-aspartate (LOLA) has hepatoprotective properties in patients with fatty liver of diverse etiology and results of a multicenter randomized clinical trial reveal that 12 weeks treatment with oral LOLA (6-9 g/d) results in a dose-related reduction in activities of liver enzymes and triglycerides together with significant improvements of liver/spleen CT ratios. 
+A preliminary report described improvements of hepatic microcirculation in patients with non-alcoholic steatohepatitis (NASH) following treatment with LOLA. 
+Mechanisms responsible for the beneficial effects of LOLA in NAFLD/NASH involve,  in addition to its established ammonia-lowering effect, metabolic transformations of the LOLA-constituent amino acids L-ornithine and L-aspartate into L-glutamine, L-arginine, and glutathione. 
+These metabolites have well-established actions implicated in the prevention of lipid peroxidation, improvement of hepatic microcirculation in addition to anti-inflammatory, and anti-oxidant properties. 
+Key Messages: (1) LOLA is effective for the treatment of key indices in NAFLD/NASH. 
+(2) Mechanisms other than LOLA's ammonia-lowering action have been postulated. 
+(3) Further assessments in the clinical setting are now required. 
+Pharmacotherapy for NASH: Current and emerging.  
+Erratum in     J Hepatol. 
+2018 Mar 19;:. 
+Cenicriviroc for the treatment of non-alcoholic steatohepatitis and liver fibrosis.  
+INTRODUCTION: Nonalcoholic fatty liver disease (NAFLD) has an increasing prevalence worldwide. 
+At present, no specific pharmacotherapy is approved for NAFLD. 
+Simple steatosis and nonalcoholic steatohepatitis (NASH) can progress to liver fibrosis that is associated with mortality in NAFLD. 
+The recruitment of inflammatory monocytes and macrophages via chemokine receptor CCR2 as well as of  lymphocytes and hepatic stellate cells via CCR5 promote the progression of NASH to fibrosis. 
+Areas covered: I summarize preclinical and clinical data on the efficacy and safety of the dual CCR2/CCR5 inhibitor cenicriviroc (CVC, also TBR-652 or TAK-652) for the treatment of NASH and fibrosis. 
+In animal models of liver diseases, CVC potently inhibits macrophage accumulation in the liver and ameliorates fibrosis. 
+In a phase 2b clinical trial (CENTAUR) on 289 patients with NASH and fibrosis, CVC consistently demonstrated liver fibrosis improvement after 1 year of therapy and had an excellent safety profile, leading to the implementation of a phase 3 trial (AURORA). 
+Expert opinion: Preclinical and clinical data support the development of CVC as a safe and potent antifibrotic agent. 
+However, open questions around CVC are the durability of antifibrotic responses, divergent effects on NASH versus fibrosis, potential long-term concerns and the expected path to approval. 
+Current and future pharmacological therapies for NAFLD/NASH.  
+Nonalcoholic fatty liver disease (NAFLD) is the most prevalent liver disease worldwide, and there is no approved pharmacotherapy. 
+The efficacy of vitamin E and pioglitazone has been established in nonalcoholic steatohepatitis (NASH), a progressive form of NAFLD. 
+GLP-1RA and SGLT2 inhibitors, which are currently approved for use in diabetes, have shown early efficacy in NASH, and also have beneficial cardiovascular or renal effects. 
+Innovative NASH therapies include four main pathways. 
+The first approach is targeting hepatic fat accumulation. 
+Medications in this approach include modulation of peroxisome proliferator-activator receptors (e.g., pemafibrate, elafibranor), medications targeting farnesoid X receptor axis [obeticholic acid; OCA)], inhibitors of de novo lipogenesis (aramchol, ACC inhibitor), and fibroblast growth factor-21 analogues. 
+A second target is oxidative stress, inflammation, and apoptosis. 
+This class of drug includes apoptosis signaling kinase 1 (ASK1) inhibitor and emricasan (an irreversible caspase inhibitor). 
+A third target is intestinal microbiomes and metabolic endotoxemia. 
+Several agents are in ongoing trials, including IMMe124, TLR4 antagonist, and solithromycin (macrolide antibiotics). 
+The final target is hepatic fibrosis, which is strongly associated with all-cause or liver-related mortality in NASH. 
+Antifibrotic agents are a cysteine-cysteine motif chemokine receptor-2/5 antagonist (cenicriviroc; CVC) and galectin 3 antagonist. 
+Among a variety of medications in development, four agents such as OCA, elafibranor, ASK1 inhibitor, and CVC are currently being evaluated in an international phase 3 trial for the treatment of NASH. 
+Within the next few years, the availability of therapeutic options for NASH will hopefully curb the rising trend of NASH-related diseases. 
+Skin ultrastructural findings in type 2 Gaucher disease: diagnostic implications.  
+BACKGROUND: Type 2 Gaucher disease is a rare and progressive subtype of this lysosomal storage disorder, marked by rapid, early-onset neurodegeneration. 
+Distinguishing type 2 from types 1 and 3 Gaucher disease has remained challenging, due to the lack of a clear correlation between phenotype and enzymatic activity or genotype. 
+β-glucocerebrosidase, the enzyme deficient in Gaucher disease, also has an essential role in maintaining epidermal permeability function, by regulating the ratio of ceramides to glucosylceramides in the stratum corneum of the skin. 
+OBJECTIVES: To further assess the diagnostic utility of epidermal evaluations in  distinguishing patients with type 2 Gaucher disease in an expanded cohort. 
+STUDY DESIGN: Epidermal samples were evaluated from twenty children with type 2,  three patients with type 3 Gaucher disease and two adults with type 1 Gaucher disease with different clinical manifestations and genotypes. 
+Electron microscopy on ruthenium tetroxide post-fixed tissue was performed. 
+RESULTS: Compared to controls and subjects with type 1 and type 3 Gaucher disease, only patients with type 2 Gaucher disease displayed characteristic electron dense, non-lamellar clefts and immature-lamellar membranes. 
+CONCLUSION: The appearance of characteristic alterations in epidermal ultrastructure provides an early and specific diagnostic tool to help in distinguishing type 2 from the other types of Gaucher disease. 
+Gaucher disease with prenatal onset and perinatal death due to compound heterozygosity for the missense R131C and null Rec Nci I GBA mutations.  
+Gaucher disease is an autosomal recessive disorder resulting from deficient activity of the lysosomal enzyme glucocerebrosidase (GBA, E.C.3.2.1.45). 
+Three clinical forms of Gaucher disease have been described: type 1, nonneuronopathic;  type 2, acute neuronopathic; and type 3, subacute neuronopathic (OMIM 230800, 230900, 231000). 
+Over the past decade, recognition of a distinct, perinatal lethal form of Gaucher disease (PLGD) has led researchers and clinicians to evaluate Gaucher disease in the differential diagnosis of congenital ichthyosis and nonimmune hydrops fetalis. 
+To date, more than 30 cases of PLGD have been genotyped and reported. 
+It has been observed that homozygosity for recombinant GBA alleles, which are fundamentally null alleles, leads to early lethality, usually in utero or during the 1st few days of life, whereas genotypes involving  a recombinant allele and a missense mutation may be less detrimental. 
+Here, we report a case of Gaucher disease with prenatal onset and death within hours of birth, likely due to compound heterozygosity for the GBA Rec Nci I null allele and a R131C missense mutation. 
+In view of the patient's severe clinical course, and based on reviews of other PLGD cases, we postulate that a missense mutation that abruptly disrupts the structure/function of GBA, in combination with a null  allele, may result in early lethality in patients with PLGD. 
+We also speculate that R131C is an extremely severe mutation that has occurred more than once in different populations and, in either the homozygous form or heterozygous with another severe mutation, will result in a poor prognosis. 
+Gaucher disease.  
+Although Gaucher disease is a rare disorder, recent developments in novel means for therapeutic intervention have invigorated both academic research and pharmaceutical industry discovery programmes. 
+The common mutations found in the lysosomal enzyme deficient in Gaucher disease, beta-glucocerebrosidase, earmark these proteins for destruction by the endoplasmic reticulum-localised protein folding machinery, resulting in enzyme insufficiency, lysosomal glycolipid storage and subsequent pathology. 
+However, many of these mutants can be rescued from global misfolding to preserve glycolipid substrate binding and eventual catalysis in the lysosome, by the addition of subinhibitory concentrations of pharmacologically active small molecules. 
+This novel, chaperon-mediated approach  has benefited from insights into the molecular understanding of beta-glucocerebrosidase structure, drug design and development in cellular models for disease. 
+Imiglucerase and its use for the treatment of Gaucher's disease.  
+BACKGROUND: Gaucher's disease is caused by deficient lysosomal glucocerebrosidase activity. 
+Intravenous enzyme replacement therapy with imiglucerase (Cerezyme, Genzyme Corporation, Cambridge, MA), a recombinant human glucocerebrosidase, ameliorates systemic manifestations such as hepatosplenomegaly, anemia, thrombocytopenia and skeletal abnormalities in patients with type 1 (non-neuronopathic) and type 3 (chronic neuronopathic) Gaucher's disease. 
+OBJECTIVE/METHODS: The aim of this study was to identify and comment on the current issues related to imiglucerase for Gaucher's disease based on a review of published English language literature and personal clinical experience. 
+RESULTS: The following topics were covered with respect to imiglucerase: development, pharmacokinetics, preparation and administration, efficacy, pediatrics, pregnancy, type 3 Gaucher's disease, dosing, treatment interruptions, safety and alternative pharmacological therapies. 
+CONCLUSION: Imiglucerase is safe and well tolerated. 
+In addition, it corrects the hepatic, splenic, hematologic and bone abnormalities observed with types 1 and 3  Gaucher's disease effectively and enhances health-related quality of life. 
+Autosomal recessive mutations in the development of Parkinson's disease.  
+Although Parkinson's disease was long considered a nongenetic disorder, it is now clear that there are multiple predisposing genes, and that the disorder can exhibit either Mendelian or non-Mendelian modes of inheritance. 
+The identification of several of these genes has provided important insights into the pathogenesis of this common complex disorder. 
+This article presents an overview of the genes associated with autosomal recessive Parkinson's disease, including Parkin (PARK2), PINK1 (PARK6), DJ1 (PARK7) and ATP13A2 (PARK9). 
+Recently, it was  recognized that mutations in the gene encoding glucocerebrosidase, the enzyme deficient in Gaucher disease, are associated with an increased incidence of parkinsonism. 
+While Gaucher disease is an autosomal recessive inherited disorder, patients with Parkinson's disease can be Gaucher heterozygotes or homozygotes. 
+Elucidating the basis for this association may shed light on new disease mechanisms that contribute to the development of parkinsonism. 
+The neurobiology of glucocerebrosidase-associated parkinsonism: a positron emission tomography study of dopamine synthesis and regional cerebral blood flow.  
+Mutations in GBA, the gene encoding glucocerebrosidase, the enzyme deficient in Gaucher disease, are common risk factors for Parkinson disease, as patients with  Parkinson disease are over five times more likely to carry GBA mutations than healthy controls. 
+Patients with GBA mutations generally have an earlier onset of  Parkinson disease and more cognitive impairment than those without GBA mutations. 
+We investigated whether GBA mutations alter the neurobiology of Parkinson disease, studying brain dopamine synthesis and resting regional cerebral blood flow in 107 subjects (38 women, 69 men). 
+We measured dopamine synthesis with (18)F-fluorodopa positron emission tomography, and resting regional cerebral blood flow with H(2)(15)O positron emission tomography in the wakeful, resting state in four study groups: (i) patients with Parkinson disease and Gaucher disease (n = 7, average age = 56.6 ± 9.2 years); (ii) patients with Parkinson disease without GBA mutations (n = 11, 62.1 ± 7.1 years); (iii) patients with Gaucher disease without parkinsonism, but with a family history of Parkinson disease (n = 14, 52.6 ± 12.4 years); and (iv) healthy GBA-mutation carriers with  a family history of Parkinson disease (n = 7, 50.1 ± 18 years). 
+We compared each  study group with a matched control group. 
+Data were analysed with region of interest and voxel-based methods. 
+Disease duration and Parkinson disease functional and staging scores were similar in the two groups with parkinsonism, as was striatal dopamine synthesis: both had greatest loss in the caudal striatum (putamen Ki loss: 44 and 42%, respectively), with less reduction in the caudate (20 and 18% loss). 
+However, the group with both Parkinson and Gaucher diseases showed decreased resting regional cerebral blood flow in the lateral parieto-occipital association cortex and precuneus bilaterally. 
+Furthermore, two  subjects with Gaucher disease without parkinsonian manifestations showed diminished striatal dopamine. 
+In conclusion, the pattern of dopamine loss in patients with both Parkinson and Gaucher disease was similar to sporadic Parkinson disease, indicating comparable damage in midbrain neurons. 
+However, H(2)(15)O positron emission tomography studies indicated that these subjects have decreased resting activity in a pattern characteristic of diffuse Lewy body disease. 
+These findings provide insight into the pathophysiology of GBA-associated parkinsonism. 
+Structural features of membrane-bound glucocerebrosidase and α-synuclein probed by neutron reflectometry and fluorescence spectroscopy.  
+Mutations in glucocerebrosidase (GCase), the enzyme deficient in Gaucher disease, are a common genetic risk factor for the development of Parkinson disease and related disorders, implicating the role of this lysosomal hydrolase in the disease etiology. 
+A specific physical interaction exists between the Parkinson disease-related protein α-synuclein (α-syn) and GCase both in solution and on the lipid membrane, resulting in efficient enzyme inhibition. 
+Here, neutron reflectometry was employed as a first direct structural characterization of GCase and α-syn·GCase complex on a sparsely-tethered lipid bilayer, revealing the orientation of the membrane-bound GCase. 
+GCase binds to and partially inserts into the bilayer with its active site most likely lying just above the membrane-water interface. 
+The interaction was further characterized by intrinsic  Trp fluorescence, circular dichroism, and surface plasmon resonance spectroscopy. 
+Both Trp fluorescence and neutron reflectometry results suggest a rearrangement of loops surrounding the catalytic site, where they extend into the hydrocarbon chain region of the outer leaflet. 
+Taking advantage of contrasting neutron scattering length densities, the use of deuterated α-syn versus protiated GCase showed a large change in the membrane-bound structure of α-syn in the complex. 
+We propose a model of α-syn·GCase on the membrane, providing structural insights into inhibition of GCase by α-syn. 
+The interaction displaces GCase away from the  membrane, possibly impeding substrate access and perturbing the active site. 
+GCase greatly alters membrane-bound α-syn, moving helical residues away from the  bilayer, which could impact the degradation of α-syn in the lysosome where these  two proteins interact. 
+Analysis of human acid beta-glucosidase by site-directed mutagenesis and heterologous expression.  
+Structure/function relationships of acid beta-glucosidase, the enzyme deficient in Gaucher disease, were evaluated by characterizing the proteins expressed from  cDNAs encoding normal and mutant enzymes. 
+Twenty-two Gaucher disease mutations or created mutations were expressed in Spodoptera frugiperda (Sf9) cells and analyzed for catalytic properties, stability, inhibitor binding, and modifier interactions. 
+Many Gaucher disease mutations encoded highly disruptive amino acid substitutions (e.g. 
+P289L and D409V) and produced severely compromised proteins with very reduced activity (kcat < 1% of normal) and/or stability. 
+Six mutant enzymes had sufficient catalytic activity (kcat approximately 5-30% of normal) for extensive studies. 
+The highly conservative substitutions, i.e. 
+F216Y or S364T and V394L, led to severe, but selective, abnormalities of enzyme stability or large decreases in catalytic activity, respectively. 
+The T323I, N370S, and V394L  enzymes interacted abnormally with active site-directed inhibitors and localized  these residues to the glycon binding region. 
+Selected mutant enzymes were poorly  activated by phosphatidylserine (V394L, L444P, and R463C) or by saposin C (L444P  and T323I), indicating that the enzyme sites for interaction with these activators were within the carboxyl one-third of the enzyme. 
+Substitutions of Ser, Glu, and/or Gly at residues Asp-443 and/or Asp-445 demonstrated important steric roles for these residues in the active site, but neither is the catalytic  nucleophile. 
+Together with previous studies, the present analyses provide an insight into the pathogenesis of Gaucher disease and the functional organization  of acid beta-glucosidase. 
+A novel alteration in metaxin 1, F202L, is associated with N370S in Gaucher disease.  
+The gene for glucocerebrosidase ( GBA), the enzyme deficient in Gaucher disease,  is located in a gene-rich region on 1q21. 
+Metaxin 1( MTX1) is a convergently transcribed gene contiguous to the 3' end of the GBA pseudogene. 
+A single nucleotide alteration in MTX1, 628T-->C, resulting in the amino acid change F202L, was identified in patients with Gaucher disease in association with the common N370S mutation in GBA. 
+The polymorphism was also present on 4.6% of 152 control alleles, but could have functional consequences that have a modifying role in Gaucher disease. 
+Spontaneous regression of disease manifestations can occur in type 1 Gaucher disease; results of a retrospective cohort study.  
+Gaucher disease (GD) is a lysosomal storage disorder, caused by deficient activity of the enzyme glucocerebrosidase. 
+GD is classically divided into three major phenotypes. 
+The most prevailing form is type 1, which presents with variable hepatosplenomegaly, cytopenia, and/or bone disease. 
+In adult patients with mild manifestations, progress of disease might be slow or even absent. 
+As a  consequence, treatment with intravenous enzyme replacement or substrate reduction is not always necessary. 
+In the Netherlands, the follow-up of GD patients is centralized, which allows detailed investigation of untreated patients. 
+A retrospective study was conducted in 18 type 1 GD patients, (2 teenagers: 15 and  16 years of age at first visit) who were not treated for at least one year. 
+The chitotriosidase activity, platelet count, hemoglobin level, lumbar bone marrow fat content measured with quantitative chemical shift imaging (QCSI), liver ratio (ml/kg body weight), and spleen volume were recorded. 
+Criteria were developed to  score regression, stability or progression of disease. 
+During a mean follow up of 4.5 years (range 1.1-12.2) seven patients (39%) showed spontaneous regression of  GD. 
+Eight patients (44%) were stable. 
+Two patients had progressive disease, solely based upon a sustained increase in chitotriosidase activity. 
+A pediatric patient had an increase in splenomegaly but an improvement in bone marrow fat fraction, probably due to aging. 
+Nine patients fulfilled the local criteria to start treatment at first visit, of whom six started treatment within 1.1 to 6.8 years. 
+The other three refused therapy, but nevertheless showed stability or even regression of the disease during a follow up of 4.6, 9.5 and 11.4 years respectively. 
+None of the parameters was predictive of progression or regression  of disease. 
+In conclusion, GD in adults can, in some cases, regress spontaneously. 
+No parameters for accurately predicting future disease course exist. 
+Neurologic improvement in a type 3 Gaucher disease patient treated with imiglucerase/miglustat combination.  
+PURPOSE: Gaucher disease (GD) is an autosomal recessive lysosomal disorder caused by a deficiency of glucocerebrosidase. 
+The neurologic manifestations of GD patients have to date been refractory to any treatment approach. 
+We present a report of a neuronopathic GD patient whose myoclonic epilepsy improved after combination therapy with imiglucerase and miglustat. 
+METHODS: In an adult type 3 GD patient who, despite good visceral and analytic response to ERT, developed progressive neurologic deterioration with marked myoclonic epilepsy and dystonia, we added miglustat to the enzyme-replacement therapy. 
+RESULTS: After 2 years of combined miglustat (200 mg, 3 t.i.d.) and imiglucerase  (60 IU/kg every 2 weeks), generalized tonic-clonic seizures decreased, speech improved, and the general neurologic clinical picture improved markedly. 
+The EEG  showed a reduction in focal and generalized paroxysmal discharges. 
+No significant adverse effects were observed. 
+CONCLUSIONS: Combined imiglucerase and miglustat therapy may be beneficial for some neuronopathic forms of GD. 
+Gaucher's disease uncovered late.  
+Gaucher's disease is an uncommon inborn recessive autosomal disease, due to a deficient activity of the lysosomal enzyme beta glucocerebrosidase. 
+This disease  is usually diagnosed in the first or second decade of life with the arising of bone pains, splenomegaly and hemorragic manifestations due to thrombocytopenia. 
+When the enlarged spleen is not evident, or after splenectomy, patients may be mis-identified as having Gaucher's disease. 
+We present here two cases of elderly  patients aged 70 and 46 years respectively, in whom the disease was a surprising  finding of bone marrow examination, during check up for pancytopenia. 
+Alpha-synuclein interacts with Glucocerebrosidase providing a molecular link between Parkinson and Gaucher diseases.  
+The presynaptic protein α-synuclein (α-syn), particularly in its amyloid form, is widely recognized for its involvement in Parkinson disease (PD). 
+Recent genetic studies reveal that mutations in the gene GBA are the most widespread genetic risk factor for parkinsonism identified to date. 
+GBA encodes for glucocerebrosidase (GCase), the enzyme deficient in the lysosomal storage disorder, Gaucher disease (GD). 
+In this work, we investigated the possibility of  a physical linkage between α-syn and GCase, examining both wild type and the GD-related N370S mutant enzyme. 
+Using fluorescence and nuclear magnetic resonance spectroscopy, we determined that α-syn and GCase interact selectively under lysosomal solution conditions (pH 5.5) and mapped the interaction site to the α-syn C-terminal residues, 118-137. 
+This α-syn-GCase complex does not form at pH  7.4 and is stabilized by electrostatics, with dissociation constants ranging from 1.2 to 22 μm in the presence of 25 to 100 mm NaCl. 
+Intriguingly, the N370S mutant form of GCase has a reduced affinity for α-syn, as does the inhibitor conduritol-β-epoxide-bound enzyme. 
+Immunoprecipitation and immunofluorescence studies verified this interaction in human tissue and neuronal cell culture, respectively. 
+Although our data do not preclude protein-protein interactions in other cellular milieux, we suggest that the α-syn-GCase association is favored in the lysosome, and that this noncovalent interaction provides the groundwork to explore molecular mechanisms linking PD with mutant GBA alleles. 
+Chimerism after liver transplantation for type IV glycogen storage disease and type 1 Gaucher's disease.  
+Comment in     N Engl J Med. 
+1993 Mar 18;328(11):801-2. 
+Large-scale screening of the Gaucher's disease-related glucocerebrosidase gene in Europeans with Parkinson's disease.  
+Pathogenic variants in the glucocerebrosidase gene (GBA) encoding the enzyme deficient in Gaucher's disease (GD) are associated with Parkinson's disease (PD). 
+To investigate the sequence variants, their association with PD and the related phenotypes in a large cohort of European, mostly French, patients and controls, we sequenced all exons of GBA in 786 PD patients from 525 unrelated multiplex families, 605 patients with apparently sporadic PD and 391 ethnically matched controls. 
+GBA mutations were significantly more frequent (odds ratio=6.98, 95% confidence interval 2.54-19.21; P=0.00002) in the PD patients (76/1130=6.7%) than in controls (4/391=1.0%) and in patients with family histories of PD (8.4%) than  in isolated cases (5.3%). 
+Twenty-eight different mutations were identified in patient and control groups, including seven novel variants. 
+N370S and L444P accounted for 70% of all mutant alleles in the patient group. 
+PD patients with GBA mutations more frequently had bradykinesia as the presenting symptom and levodopa-induced dyskinesias. 
+The phenotype was similar in patients with one, two or complex GBA mutations, although the two patients with c.1263del+RecTL and N370S/RecΔ55 mutations had signs of GD. 
+Segregation analyses in 21 multiplex families showed that 17% of the affected relatives did not carry GBA mutations found in the given family, indicating heterogeneity of the aetiology, but 46% of  the unaffected relatives were GBA mutation carriers. 
+These genotype and clinical  analyses on the largest homogeneous sample of European patients studied to date confirmed that GBA mutations are the most common genetic risk factor for PD, particularly in familial forms. 
+Glucocerebrosidase mutations are not found in association with LRRK2 G2019S in subjects with parkinsonism.  
+Alteration G2019S in the leucine-rich repeat kinase 2 gene (LRRK2) has been identified in several populations of patients with parkinsonism, including Ashkenazi Jewish subjects with Parkinson disease. 
+Mutations in glucocerebrosidase (GBA), the enzyme deficient in Gaucher disease, are also identified at an increased frequency among Parkinson probands, including those of Ashkenazi Jewish ancestry. 
+A Taqman Assay-by-Design SNP genotyping strategy was utilized to establish whether G2019S was found in association with GBA mutations. 
+Among 37 subjects with parkinsonism who were heterozygous for a GBA mutation, none carried G2019S. 
+Furthermore, G2019S was not found in 18 patients with Gaucher disease who developed parkinsonian manifestations and 11 other Gaucher probands with parkinsonism in a first degree relative. 
+Among 45 patients with Gaucher disease without a history of parkinsonism, one G2019S carrier was found. 
+These findings suggest that GBA and LRRK2 mutations are discrete risk factors for parkinsonism in both Ashkenazi Jewish and non-Jewish subjects. 
+French results of enzyme replacement therapy in Gaucher's disease.  
+Gaucher disease is an inborn recessive autosomal disease due to a partial deficiency of the lysosomal enzyme beta glucocerebrosidase. 
+The deficient activity leads to accumulation of the lipid glucocerebroside in the liver, the spleen and bone marrow with concomitant anemia and thrombocytopenia. 
+Patients with Gaucher disease have been classified in three types: type I is the more common, neurological manifestations occur in types II and III. 
+Enzyme replacement therapy (ERT) with modified placental human glucocerebrosidase (ceredase) or recombinant glucocerebrosidase (cerezyme) is effective in most type I Gaucher disease and has become the current standard care administered to thousand of patients worldwide. 
+ERT has obviated the need for bone marrow transplantation and virtually eliminated the need for splenectomy. 
+We report here the French study including adults and children. 
+ERT of 30 to 60 U/K every two weeks as starting dose was administrated to 108 patients with severe type I Gaucher disease. 
+ERT fully reverse many of the manifestations of the disease. 
+ERT regimen alleviated fatigue, and hematological and visceral signs and symptoms in nearly all severely-ill patients. 
+Skeletal responses to treatment develop much more slowly than hematological or visceral responses. 
+Studies in pediatrics show that the disease is more severe in children. 
+These children should be treated early in the course of their disease to avoid irreparable damage. 
+Hematological manifestation  in type II cannot be reversed with enzyme replacement. 
+In type III treatment can  rarely reverse neurological deficit. 
+Gaucher disease is also an excellent candidate for gene therapy. 
+Current development and usefulness of biomarkers for Gaucher disease follow up.  
+Gaucher's disease is due to glucocerebrosidase deficiency which is responsible for the accumulation of non degraded glucosylceramide within the lysosomes of macrophages: these "Gaucher cells", overloaded and alternatively activated, release in patient's plasma numerous compounds (cytokines, chemokines, hydrolases...) some of which contribute to the various tissue damages. 
+Some of these compounds are surrogate biomarkers which contribute to the evaluation of disease severity, progression and stabilisation or regression during treatment. 
+To date, the most interesting biomarkers are chitotriosidase and the chemokine CCL18/PARC, especially in chitotriosidase deficient patients. 
+These biomarkers together with the clinical evaluation help to therapeutic choice (treatment by enzyme replacement therapy or substrate reduction therapy) and initiation decision, response follow-up and dose adjustments. 
+Biomarkers should be assessed  every 12 months together with clinical evaluation in patients not receiving specific treatments. 
+An assessment every 3 months is recommended during the first year of treatment. 
+Then when clinical goals have been achieved, the frequency can be reduced to every 12 months if the therapeutic scheme is not modified. 
+Alglucerase. A review of its therapeutic use in Gaucher's disease.  
+Alglucerase is a mannose-terminated form of human placental glucocerebrosidase, developed to treat patients with Gaucher's disease. 
+Functional glucocerebrosidase is deficient in Gaucher's disease, an autosomal recessive lipid storage disorder  that affects people of all ethnic backgrounds, but has a higher incidence among East European Jews (Ashkenazim). 
+Gaucher's disease manifests with hepatosplenomegaly, bleeding disorders and bone disease, with the more rare subtypes (types 2 and 3) featuring neurological dysfunction. 
+Prior to the development of enzyme replacement therapy, treatment for Gaucher's disease was mainly symptomatic relief. 
+Primary treatment with glucocerebrosidase focuses on removal of the lipid metabolite that causes the pathology. 
+Because of the rarity  of Gaucher's disease clinical trials are small, and much of the data investigating alglucerase therapy have been obtained from studies of patients with type 1 disease, the prevalent subtype. 
+Nonetheless, after intravenous administration of alglucerase, improvements are evident within 6 months of therapy. 
+Patients have increased haemoglobin levels and platelet counts, and decreased incidences of epistaxis and bruising. 
+Spleen and liver size are reduced, and skeletal parameters improve. 
+Children gain height and most patients  receiving alglucerase therapy are able to resume work and daily activities. 
+Alglucerase is well tolerated, with few mild adverse reactions reported. 
+Although the pharmacokinetic and pharmacodynamic information for alglucerase is limited, its unequivocal efficacy justifies enzyme replacement therapy with this compound  as first-line treatment for patients with Gaucher's disease, for whom treatment options are limited. 
+Alglucerase. A pharmacoeconomic appraisal of its use in the treatment of Gaucher's disease.  
+Comment in     Pharmacoeconomics. 
+1995 Jul;8(1):82-3. 
+Lysosomal integral membrane protein-2: a new player in lysosome-related pathology.  
+Lysosomes require the presence of many specialized proteins to facilitate their roles in cellular maintenance. 
+One such protein that has proven to be an important player in the lysosomal field is lysosomal integral membrane protein-2  (LIMP-2), encoded by the gene SCARB2. 
+LIMP-2 is required for the normal biogenesis and maintenance of lysosomes and endosomes and has been identified as  the specific receptor for glucocerebrosidase, the enzyme deficient in Gaucher disease. 
+Research into LIMP-2 and the SCARB2 gene indicate that it may be a factor contributing to the clinical heterogeneity seen among patients with Gaucher disease. 
+Mutations in SCARB2 have also been identified as the cause of action myoclonus renal failure (AMRF), and in some cases progressive myoclonic epilepsy. 
+A total of 14 disease-causing SCARB2 mutations have been identified to  date. 
+The role of LIMP-2 in human pathology has expanded with its identification  as a component of the intercalated disk in cardiac muscle and as a receptor for specific enteroviruses, two unanticipated findings that reaffirm the myriad roles of lysosomal proteins. 
+Studies into the full impact of LIMP-2 deficiency and the  LIMP2/glucocerebrosidase molecular pathway will lead to a better understanding of disease pathogenesis in Gaucher disease and AMRF, and to new insights into lysosomal processing, trafficking and function. 
+A novel SCARB2 mutation in progressive myoclonus epilepsy indicated by reduced β-glucocerebrosidase activity.  
+Action myoclonus renal failure (AMRF) syndrome is a rare form of progressive myoclonus epilepsy with renal dysfunction related to mutations in the SCARB2 gene. 
+This gene is involved in lysosomal mannose-6-phosphate-independent trafficking of β-glucocerebrosidase (GC), an enzyme deficient in Gaucher disease. 
+We report a family with myoclonic epilepsy, ataxia and skeletal muscle atrophy but without cognitive impairment or overt renal disease. 
+A novel SCARB2 mutation  was indicated by a striking discrepancy between lymphocyte and fibroblast GC activity in the proband evaluated for possible Gaucher disease. 
+Our findings expand the genetic and phenotypic diversity of AMRF and suggest that low GC activity may present an important biochemical clue to the diagnosis of AMRF. 
+Replacement therapy for inherited enzyme deficiency--macrophage-targeted glucocerebrosidase for Gaucher's disease.  
+Comment in     N Engl J Med. 
+1991 Dec 19;325(25):1809-11. 
+    N Engl J Med. 
+1993 May 27;328(21):1564; author reply 1567-8. 
+The role of saposin C in Gaucher disease.  
+Saposin C is one of four homologous proteins derived from sequential cleavage of  the saposin precursor protein, prosaposin. 
+It is an essential activator for glucocerebrosidase, the enzyme deficient in Gaucher disease. 
+Gaucher disease is a rare autosomal recessive lysosomal storage disorder caused by mutations in the GBA gene that exhibits vast phenotypic heterogeneity, despite its designation as  a "simple" Mendelian disorder. 
+The observed phenotypic variability has led to a search for disease modifiers that can alter the Gaucher phenotype. 
+The PSAP gene  encoding saposin C is a prime candidate modifier for Gaucher disease. 
+In humans,  saposin C deficiency due to mutations in PSAP results in a Gaucher-like phenotype, despite normal in vitro glucocerebrosidase activity. 
+Saposin C deficiency has also been shown to modify phenotype in one mouse model of Gaucher  disease. 
+The role of saposin C as an activator required for normal glucocerebrosidase function, and the consequences of saposin C deficiency are described, and are being explored as potential modifying factors in patients with Gaucher disease. 
+Diurnal cortisol profile in Williams syndrome in novel and familiar settings.  
+Williams syndrome (WS) is a neurodevelopmental genetic disorder associated with high rates of anxiety and social issues. 
+We examined diurnal cortisol, a biomarker of the stress response, in adults with WS in novel and familiar settings, and compared these profiles to typically developing (TD) adults. 
+WS and TD participants had similar profiles in a familiar setting, while participants with WS had elevated cortisol late in the day in the novel setting when social demands were higher. 
+The cortisol awakening response in WS was associated with parent-reported levels of somatic complaints and social difficulties. 
+Results suggest that adults with WS have a typical diurnal cortisol profile that may be sensitive to social and activity transitions throughout the day. 
+Successful treatment of a morbidly obese and growth-retarded adolescent with Williams-Beuren Syndrome by combining the medication of growth hormone and sibutramine.  
+A 16-year-old male adolescent diagnosed to have the Williams-Beuren syndrome was  referred to our obesity outpatient clinic, due to his morbid obesity (body mass index 39.2 kilograms per square metre) and gluttony. 
+After several unsuccessful dietary treatments, we started therapy with sibutramine. 
+As growth hormone (GH) deficiency was diagnosed by an additional GH-stimulation test, we commenced with  a GH-treatment. 
+This well-tolerated combination therapy led to a remarkable weight loss of 10 kg and a growth-rate acceleration of 3.7 cm/year. 
+Nine months after stopping the treatment with sibutramine, a partial weight gain was noticed. 
+This case report justifies further research work on a combination therapy with sibutramine and GH for similar cases. 
+Growth hormone treatment in a child with Williams-Beuren syndrome: a case report.  
+Growth retardation is a consistent finding in Williams-Beuren syndrome. 
+The cause of short stature in this syndrome is unknown. 
+Endocrine studies have failed to reveal abnormalities in the growth hormone-insulin-like growth factor I axis. 
+We  report a boy with confirmed Williams-Beuren syndrome, who was found to have classical growth hormone deficiency and responded well to growth hormone therapy.CONCLUSION: Although growth hormone deficiency is not likely to be a common cause of short stature in Williams-Beuren syndrome, we nevertheless recommend evaluation of the growth hormone-insulin-like growth factor I axis in all cases. 
+Growth hormone deficiency in a child with Williams-Beuren syndrome. The response  to growth hormone therapy.  
+Pre- and postnatal growth retardation of unknown pathogenesis is a common clinical feature in patients with Williams-Beuren syndrome (WBS). 
+However, growth hormone deficiency (GHD) has not been considered a major cause of growth retardation. 
+There is only one patient in the literature with confirmed GHD who responded well to human growth hormone (hGH) therapy. 
+We report a female infant with confirmed WBS who, through provocative testing, was found to have GHD and who responded satisfactorily to hGH therapy. 
+Height SDS was -4.2 at the age of 12 months when hGH was initiated and increased to -0.8 at the age of 4.25 years. 
+The pathogenesis of GHD in our patient is unclear. 
+Nevertheless, the elevated levels  of prolactin and the response of hGH to growth hormone releasing hormone (GHRH) administration are indicative of a hypothalamic rather than pituitary defect. 
+In  conclusion, GH deficiency might contribute to the growth failure in a number of patients with WBS and in such cases hGH therapy will most likely improve final height. 
+Thyroid function and morphology in patients affected by Williams syndrome.  
+OBJECTIVE: To evaluate the prevalence of abnormalities of thyroid function and morphology in a cohort of patients with Williams syndrome (WS). 
+METHODS: Serum concentrations of free-T3, free-T4, TSH, thyroperoxidase antibodies (TPOA) and thyroglobulin antibodies (TgA), as well as ultrasonographic data, of 20 patients with WS (12 females and eight males), aged 1.7-34.9 years, were evaluated. 
+RESULTS: Three cases (15%) of subclinical hypothyroidism were identified. 
+Overt hypothyroidism was diagnosed in two cases (10%). 
+Thyroid antibodies were negative in all patients. 
+Fourteen patients (70%) showed thyroid hypoplasia involving the  entire gland. 
+In these patients, the left thyroid lobe appeared usually, but not  significantly, reduced compared with the right thyroid lobe. 
+One patient (5%) showed thyroid hemiagenesis. 
+Only five patients (25%) showed a thyroid with normal volume, and of these five, one patient showed marked thyroid hypoplasia of the left lobe. 
+In all WS patients with diagnosis of subclinical or overt hypothyroidism, thyroid hypoplasia was detected. 
+No cases of subclinical or overt hypothyroidism were found in WS with normal thyroid volume. 
+CONCLUSIONS: This study confirms the presence of alterations of thyroid function  in WS and also suggests the frequent occurrence of abnormalities of thyroid morphology in these patients. 
+Patients with WS should be monitored for thyroid function and a thyroid ultrasound screening should be considered, especially in those patients with changes in thyroid function. 
+Oxytocin and vasopressin are dysregulated in Williams Syndrome, a genetic disorder affecting social behavior.  
+The molecular and neural mechanisms regulating human social-emotional behaviors are fundamentally important but largely unknown; unraveling these requires a genetic systems neuroscience analysis of human models. 
+Williams Syndrome (WS), a  condition caused by deletion of ~28 genes, is associated with a gregarious personality, strong drive to approach strangers, difficult peer interactions, and attraction to music. 
+WS provides a unique opportunity to identify endogenous human gene-behavior mechanisms. 
+Social neuropeptides including oxytocin (OT) and  arginine vasopressin (AVP) regulate reproductive and social behaviors in mammals, and we reasoned that these might mediate the features of WS. 
+Here we established  blood levels of OT and AVP in WS and controls at baseline, and at multiple timepoints following a positive emotional intervention (music), and a negative physical stressor (cold). 
+We also related these levels to standardized indices of social behavior. 
+Results revealed significantly higher median levels of OT in WS  versus controls at baseline, with a less marked increase in AVP. 
+Further, in WS,  OT and AVP increased in response to music and to cold, with greater variability and an amplified peak release compared to controls. 
+In WS, baseline OT but not AVP, was correlated positively with approach, but negatively with adaptive social behaviors. 
+These results indicate that WS deleted genes perturb hypothalamic-pituitary release not only of OT but also of AVP, implicating more complex neuropeptide circuitry for WS features and providing evidence for their roles in endogenous regulation of human social behavior. 
+The data suggest a possible biological basis for amygdalar involvement, for increased anxiety, and for the paradox of increased approach but poor social relationships in WS. 

@@ -1,0 +1,800 @@
+Hirschsprung associated GDNF mutations do not prevent RET activation.  
+Hirschsprung disease (HSCR) is a complex disorder characterised by aganglia of distal gastrointestinal tracts. 
+The highest proportion of both familial and sporadic cases is due to mutations of the RET proto-oncogene. 
+Five germline mutations in the glial cell-line-derived neurotrophic factor (GDNF) gene, one of  the RET ligands, have been detected in HSCR patients. 
+Pedigrees analysis and the  observed association between these GDNF alterations and RET variants in the same  patients raised the question of whether the GDNF gene plays any causative/predisposing role in HSCR pathogenesis. 
+In the present work, we have studied the ability of GDNF proteins, each bearing one of the reported mutations, to activate RET by performing a functional test in cultured neuroblastoma cells. 
+ Consistently with the lack of genotype/phenotype correlation in human subjects, our results indicate absence of detectable alterations of mutant GDNF induced RET activation. 
+Grb2 binding to the different isoforms of Ret tyrosine kinase.  
+The RET proto-oncogene encodes two isoforms of a receptor tyrosine kinase which plays a role in neural crest and kidney development. 
+Ret ligands have been recently identified as the neuron survival factor GDNF (Glial-Derived Neurotrophic Factor) and Neurturin. 
+Somatic rearrangements of RET, designated RET/PTCs, have been frequently detected in papillary thyroid carcinomas. 
+In addition, distinct germ-line mutations of RET gene have been associated with the  inherited cancer syndromes MEN (Multiple Endocrine Neoplasia) 2A, 2B and FMTC (Familial Medullar Thyroid Carcinomas) as well as with the congenital megacolon or Hirschsprung's disease, thus enlightening a significant role of this receptor  gene in diverse human pathologic conditions. 
+In this study, by performing classical inhibition experiments using synthetic phosphopeptides and by site-directed mutagenesis of the putative docking site, we have determined that for Grb2 the latter is provided by the tyrosine 620 of Ret/ptc2 long isoform (corresponding to Tyr 1096 on proto-Ret). 
+However, in intact cells, the interaction of Grb2 with the two short and long Ret isoforms expressed separately is of similar strength, thus suggesting that Ret short isoform interaction with Grb2 could be mediated not only by Shc but also by a molecule that binds preferentially to this isoform. 
+This possibility is supported by the evidence that the mutant Ret/ptc2Y620F long isoform displays a weak coimmunoprecipitation  with Grb2 and that this mutant, lacking the docking site for Grb2 but owing all the others phosphotyrosines, surprisingly displays a reduced transforming activity compared to that of the two WTs oncogenes. 
+We thus conclude that in intact cells both Ret isoforms bind to Grb2, although with different modalities. 
+ In addition, the present results are in agreement with the possibility that different signal transduction pathways are associated with the two isoforms of Ret. 
+Mutation analysis of glial cell line-derived neurotrophic factor, a ligand for an RET/coreceptor complex, in multiple endocrine neoplasia type 2 and sporadic neuroendocrine tumors.  
+Causative germline missense mutations in the RET proto-oncogene have been associated with over 92% of families with the inherited cancer syndrome multiple  endocrine neoplasia type 2 (MEN 2). 
+MEN 2A is characterized primarily by medullary thyroid carcinoma (MTC) and pheochromocytoma, both tumors of neural crest origin. 
+Parathyroid hyperplasia or adenoma is also seen in MEN 2A, but rarely in MEN 2B, which has additional stigmata, including a marfanoid habitus, mucosal neuromas, and ganglioneuromatosis of the gastrointestinal tract. 
+In familial MTC, MTC is the only lesion present. 
+Somatic RET mutations have also been identified in a subset of sporadic MTCs, pheochromocytomas, and rarely, small cell lung cancer, but not in sporadic parathyroid hyperplasias/adenomas or  other neuroendocrine tumors. 
+Glial cell line-derived neurotrophic factor (GDNF) and its receptor molecule GDNFR-alpha, have recently been identified as members of the RET ligand binding complex. 
+Therefore, the genes encoding both GDNF and GDNFR-alpha are excellent candidates for a role in the pathogenesis of those MEN  2 families and sporadic neuroendocrine tumors without RET mutations. 
+No mutations were found in the coding region of GDNF in DNA samples from 9 RET mutation negative MEN 2 individuals (comprising 6 distinct families), 12 sporadic MTCs, 17 sporadic cases of parathyroid adenoma, and 10 small cell lung cancer cell lines. 
+ Therefore, we find no evidence that mutation within the coding regions of GDNF plays a role in the genesis of MEN 2 and sporadic neuroendocrine tumors. 
+Molecular genetics of Hirschsprung disease: a model of multigenic neurocristopathy.  
+Hirschsprung's disease (HSCR, aganglionic megacolon) is a frequent congenital malformation regarded as a multigenic neurocristopathy. 
+Three susceptibility genes have been recently identified in HSCR, namely the RET proto-oncogene, the endothelin B receptor (EDNRB) gene, and the endothelin 3 (EDN3) gene. 
+RET gene mutations were found in significant proportions of familial (50%) and sporadic (15-20%) HSCR, while homozygosity for EDNRB or EDN3 mutations accounted for the rare HSCR-Waardenburg syndrome (WS) association. 
+More recently, heterozygous EDNRB an EDN3 missense mutations have been reported in isolated HSCR patients. 
+Some of these results were obtained after the identification of mouse genes whose natural or site-directed mutations resulted in megacolon and coat color spotting. 
+There is also conclusive evidence for the involvement of other independent loci in HSCR. 
+In particular, the recent identification of neurotrophic factors acting  as RET ligands (GDNF and Neurturin) provide additional candidate genes for HSCR. 
+ The dissection of the genetic etiology of HSCR disease may then provide a unique  opportunity to distinguish between a polygenic and a genetically heterogeneous disease, thereby helping to understand other complex disorders and congenital malformations hitherto considered as multifactorial in origin. 
+Finally, the study of the molecular bases of HSCR is also a step towards the understanding of developmental genetics of the enteric nervous system giving support to the role of the tyrosine kinase and endothelin-signaling pathways in the development of neural crest-derived enteric neurons in human. 
+The RET kinase inhibitor NVP-AST487 blocks growth and calcitonin gene expression  through distinct mechanisms in medullary thyroid cancer cells.  
+The RET kinase has emerged as a promising target for the therapy of medullary thyroid cancers (MTC) and of a subset of papillary thyroid cancers. 
+NVP-AST487, a N,N'-diphenyl urea with an IC(50) of 0.88 mumol/L on RET kinase, inhibited RET autophosphorylation and activation of downstream effectors, and potently inhibited the growth of human thyroid cancer cell lines with activating mutations of RET but not of lines without RET mutations. 
+NVP-AST487 induced a dose-dependent growth inhibition of xenografts of NIH3T3 cells expressing oncogenic RET, and of the MTC cell line TT in nude mice. 
+MTCs secrete calcitonin, a useful indicator of tumor burden. 
+Human plasma calcitonin levels derived from the TT cell xenografts were inhibited shortly after treatment, when tumor volume  was still unchanged, indicating that the effects of RET kinase inhibition on calcitonin secretion were temporally dissociated from its tumor-inhibitory properties. 
+Accordingly, NVP-AST487 inhibited calcitonin gene expression in vitro in TT cells, in part, through decreased gene transcription. 
+These data point to a previously unknown physiologic role of RET signaling on calcitonin gene expression. 
+Indeed, the RET ligands persephin and GDNF robustly stimulated calcitonin mRNA, which was blocked by pretreatment with NVP-AST487. 
+Antagonists of RET kinase activity in patients with MTC may result in effects on plasma calcitonin that are either disproportionate or dissociated from the effects on tumor burden, because RET kinase mediates a physiologic pathway controlling calcitonin secretion. 
+The role of traditional tumor biomarkers may need to be reassessed as targeted therapies designed against oncoproteins with key roles in  pathogenesis are implemented. 
+From monogenic to polygenic: model of Hirschsprung disease.  
+Hirschsprung's disease (HSCR, aganglionic megacolon) is a frequent congenital malformation regarded as a multigenic neurocristopathy. 
+Three susceptibility genes have been recently identified in HSCR, namely the RET proto-oncogene, the endothelin B receptor (EDNRB) gene, and the endothelin 3 (EDN3) gene. 
+RET gene mutations were found in significant proportions of familial (50%) and sporadic (15-20%) HSCR, while homozygosity for EDNRB or EDN3 mutations accounted for the rare HSCR-Waardenburg syndrome (WS) association. 
+More recently, heterozygous EDNRB and EDN3 missense mutations have been reported in isolated HSCR patients. 
+Some of these results were obtained after the identification of mouse genes whose natural or site-directed mutations resulted in megacolon and coat color spotting. 
+There is also conclusive evidence for the involvement of other independent loci in HSCR. 
+In particular, the recent identification of neurotrophic factors acting  as RET ligands (GDNF and Neurturin) provide additional candidate genes for HSCR. 
+ The dissection of the genetic etiology of HSCR disease may then provide a unique  opportunity to distinguish between a polygenic and a genetically heterogeneous disease, thereby helping to understand other complex disorders and congenital malformations hitherto considered as multifactorial in origin. 
+Finally, the study of the molecular bases of HSCR is also a step towards the understanding of developmental genetics of the enteric nervous system giving support to the role of the tyrosine kinase and endothelin-signaling pathways in the development of neural crest-derived enteric neurons in human. 
+GDNF availability determines enteric neuron number by controlling precursor proliferation.  
+To clarify the role of Ret signaling components in enteric nervous system (ENS) development, we evaluated ENS anatomy and intestinal contractility in mice heterozygous for Ret, GFRalpha1 and Ret ligands. 
+These analyses demonstrate that  glial cell line-derived neurotrophic factor (GDNF) and neurturin are important for different aspects of ENS development. 
+Neurturin is essential for maintaining  the size of mature enteric neurons and the extent of neuronal projections, but does not influence enteric neuron number. 
+GDNF availability determines enteric neuron number by controlling ENS precursor proliferation. 
+However, we were unable to find evidence of programmed cell death in the wild type ENS by immunohistochemistry for activated caspase 3. 
+In addition, enteric neuron number  is normal in Bax(-/-) and Bid(-/-) mice, suggesting that, in contrast to most of  the rest of the nervous system, programmed cell death is not important for determining enteric neuron numbers. 
+Only mild reductions in neuron size and neuronal fiber counts occur in Ret(+/-) and Gfra1(+/-) mice. 
+All of these heterozygous mice, however, have striking problems with intestinal contractility  and neurotransmitter release, demonstrating that Ret signaling is critical for both ENS structure and function. 
+GDNF deficit in Hirschsprung's disease.  
+BACKGROUND/PURPOSE: In 1996, the glial cell line-derived neurotrophic factor (GDNF) was identified as one of the ligands of the RET transmembrane receptor. 
+In the same year, GDNF mutations were found in association with RET protooncogene mutations in Hirschsprung patients. 
+Mutations in GDNF per se are thought neither  necessary nor sufficient to cause Hirschsprung's disease (HD). 
+To date, our study group has identified GDNF mutations only in 2 of 98 cases of intestinal dysganglionosis. 
+The aim of our study was to investigate a possible expression deficit of GDNF in the enteric nervous system of Hirschsprung patients not mutated for the GDNF gene. 
+METHODS: We used rabbit polyclonal antibodies raised against a peptide corresponding to amino acids 186-205 mapping within the carboxy-terminal domain of human GDNF. 
+GDNF expression was studied immunohistochemically in surgical specimens from 30 HD cases (27 classic forms and 3 ultralong forms) and from 10 age-matched controls. 
+Serial sections from the same full-thickness specimens were investigated with the following histochemical and immunohistochemical techniques: acetylcholinesterase, lactate dehydrogenase, succinic dehydrogenase, alpha-naphthyl-esterase, glial fibrillary acid protein, S-100 protein, and neuron-specific enolase. 
+RESULTS: A high level of GDNF expression was found in normal intestine and in Hirschsprung ganglionic segment. 
+Satellite elements of myenteric ganglia presented a strong immunoreactivity to GDNF. 
+Conversely, the aganglionic segment  showed cholinergic hyperinnervation and hypertrophic trunks of nerve fibers in the muscular interstitium with complete absence of GDNF expression. 
+The small ganglia of the hypoganglionic segment showed a reduced GDNF immunoreactivity. 
+CONCLUSIONS: GDNF, a distantly related member of the transforming growth factor-beta superfamily, is a potent neurotrophic and survival factor for neurons and enteric ganglion cells. 
+Mutations of the GDNF gene or GDNF expression deficit interrupt the faithful GDNF signaling via Ret, contributing to HD pathogenesis. 
+Differential effects of glial cell line-derived neurotrophic factor and neurturin in RET/GFRalpha1-expressing cells.  
+The c-ret protooncogene, RET, encodes a receptor tyrosine kinase. 
+RET is activated by members of the glial cell line-derived neurotrophic factor (GDNF) family of ligands, which include GDNF, neurturin, artemin, and persephin. 
+The ligands bind RET through GDNF family receptor alpha, termed GFRalpha1-4. 
+Despite  the importance of RET signaling in the development of the enteric nervous system  and the kidney, the differential signaling mechanisms between RET ligands are poorly established. 
+It has been suggested that signal specificity is achieved through binding of the ligand to its preferred GFRalpha. 
+To compare the signaling profiles of GDNF and neurturin, we have identified a cell line, NG108-15, which endogenously expresses RET and GFRalpha1 but not GFRalpha2-4. 
+Immunoblot data showed that GDNF caused a transient activation, whereas neurturin caused a sustained activation, of both p44/p42 MAP kinases and PLCgamma. 
+Under serum starvation, NG108-15 cells differentiate and form neurites. 
+Neurturin but not GDNF stimulated neurite outgrowth, which could be blocked by the selective PLC inhibitor U73122. 
+On the other hand, GDNF but not neurturin promoted cell survival, and this could be blocked by the p44/p42 MAP kinase inhibitor PD98059. 
+ Our findings not only show the differential signaling of GDNF and neurturin but also suggest that this can be achieved through binding to the same GFRalpha subtype, leading to distinct biological responses. 
+Genetics of Hirschsprung disease.  
+Hirschsprung disease (HSCR), or congenital intestinal aganglionosis, is a relatively common disorder of neural crest migration. 
+It has a strong genetic basis, although simple Mendelian inheritance is rarely observed. 
+Hirschsprung disease is associated with several other anomalies and syndromes, and animal models for these conditions exist. 
+Mutations in the RET gene are responsible for  approximately half of familial cases and a smaller fraction of sporadic cases. 
+Mutations in genes that encode RET ligands (GDNF and NTN); components of another  signaling pathway (EDNRB, EDN3, ECE-1); and the transcription factor, SOX10, have been identified in HSCR patients. 
+A subset of these mutations is associated with  anomalies of pigmentation and/or hearing loss. 
+For almost every HSCR gene, incomplete penetrance of the HSCR phenotype has been observed, probably due to genetic modifier loci. 
+Thus, HSCR has become a model of a complex polygenic disorder in which the interplay of different genes is currently being elucidated. 
+A GPI-linked protein that interacts with Ret to form a candidate neurturin receptor.  
+Erratum in     Nature 1998 Mar 12;392(6672):210. 
+GDNF: a novel factor with therapeutic potential for neurodegenerative disorders.  
+The identification of novel factors that promote neuronal survival could have profound effects on developing new therapeutics for neurodegenerative disorders. 
+ Glial cell line-derived neurotrophic factor (GDNF) is a novel protein purified and cloned based on its marked ability to promote dopaminergic neuronal function. 
+GDNF, now known to be the first identified member of a family of factors, signals through the previously known receptor tyrosine kinase, Ret. 
+Unlike most ligands for receptor tyrosine kinases, GDNF does not bind and activate Ret directly, but  requires the presence of GPI-linked coreceptors. 
+There are several coreceptors with differing affinities for the GDNF family members. 
+The profile of coreceptors in a cell may determine which factor preferentially activates Ret. 
+In vivo differences in localization of the GDNF family members, its coreceptors and Ret suggest this ligand/receptor interaction has extensive and multiple functions in  the CNS as well as in peripheral tissues. 
+GDNF promotes survival of several neuronal populations both in vitro and in vivo. 
+Dopaminergic neuronal survival and function are preserved by GDNF in vivo when challenged by the toxins MPTP and 6-hydroxydopamine. 
+Furthermore, GDNF improves the symptoms of pharmacologically induced Parkinson's disease in monkeys. 
+Several motor neuron populations isolated in vitro are also rescued by GDNF. 
+In vivo, GDNF protects these neurons from programmed cell death associated with development and death induced by neuronal transection. 
+These experiments suggest that GDNF may provide significant therapeutic opportunities in several neurodegenerative disorders. 
+Mechanisms of development of multiple endocrine neoplasia type 2 and Hirschsprung's disease by ret mutations.  
+The ret proto-oncogene encodes a receptor tyrosine kinase whose ligands belong to the glial cell line-derived neurotrophic factor (GDNF) protein family. 
+Its germline mutations are responsible for the development of multiple endocrine neoplasia (MEN) types 2A and 2B and Hirschsprung's disease (HSCR). 
+MEN2A and MEN2B mutations result in the constitutive activation of Ret by different molecular mechanisms. 
+MEN2A mutations involve cysteine residues present in the Ret extracellular domain and induce disulfide-linked Ret dimerization on the cell surface. 
+MEN2B mutations were identified in methionine 918 in the tyrosine kinase domain and activate Ret without dimerization, probably due to a conformational change of its catalytic core region. 
+In contrast to MEN2 mutations, HSCR mutations represent loss of function mutations. 
+We found that most of HSCR mutations detected in the extracellular domain impair the Ret cell surface expression. 
+More interestingly, ret mutations in cysteines 618 and 620 were reported in several families who developed both MEN2A and HSCR. 
+It was suggested  that these mutations might have two biological effects on Ret function, leading to the development of different clinical phenotypes in the same patients. 
+Cloning and characterization of the human GFRA2 locus and investigation of the gene in Hirschsprung disease.  
+The glial-cell-line-derived neurotrophic factor (GDNF) family receptors alpha (GFRalpha) are cell surface bound glycoproteins that mediate interactions of the  GDNF ligand family with the RET receptor. 
+These interactions are crucial to the development of the kidney and some peripheral nerve lineages. 
+In humans, mutations of RET or RET ligands are associated with the congenital abnormality Hirschsprung disease (HSCR) in which nerves and ganglia of the hind gut are absent. 
+As the GFRalpha family are required for normal activation of the RET receptor, they are also candidates for a role in HSCR. 
+The GFRA2 gene, which is required for the development of the myenteric nerve plexus, is an excellent candidate gene for HSCR. 
+In this study, we cloned the human GFRA2 locus, characterized the gene structure, and compared it with other GFRA family members. 
+We further investigated the GFRA2 gene for mutations in a panel of HSCR patients. 
+GFRA2 has nine coding exons that are similar in size and organization to those of other GFRA family genes. 
+We identified six sequence variants of GFRA2, four of which did not affect the amino acid sequence of the GFRalpha-2 protein. 
+Two further changes that resulted in amino acid substitutions were found in exon 9 and were predicted to lie in the amino acid sequence encoding the glycosylphosphatidylinositol-linkage signal of GFRalpha-2. 
+There was no difference in frequency of any of the sequence variants between control and HSCR  populations. 
+Our data indicate that members of the GFRA gene family are closely related in intron/exon structure and in sequence. 
+We have not detected any correlation between sequence variants of GFRA2 and the HSCR phenotype. 
+Functional mapping of receptor specificity domains of glial cell line-derived neurotrophic factor (GDNF) family ligands and production of GFRalpha1 RET-specific agonists.  
+The glial cell line-derived neurotrophic factor (GDNF) family ligands (GFLs) (GDNF, neurturin, artemin, and persephin) are critical regulators of neurodevelopment and support the survival of midbrain dopaminergic and spinal motor neurons in vitro and in animal disease models making them attractive therapeutic candidates for treatment of neurodegenerative diseases. 
+The GFLs signal through a multicomponent receptor complex comprised of a high affinity binding component (GDNF-family receptor alpha-component (GFRalpha1-GFRalpha4)) and the receptor tyrosine kinase RET. 
+To begin characterization of GFL receptor specificity at the molecular level, we performed comprehensive homologue-scanning mutagenesis of GDNF, the prototypical member of the GFLs. 
+Replacing short segments of GDNF with the homologous segments from persephin (PSPN) (which cannot bind or activate GFRalpha1.RET or GFRalpha2.RET) identified sites along the second finger of GDNF critical for activating the GFRalpha1.RET and GFRalpha2.RET receptor complexes. 
+Furthermore, introduction of these regions from GDNF, neurturin, or artemin into PSPN demonstrated that they are sufficient for activating GFRalpha1. 
+RET, but additional determinants are required for interaction with the other GFRalphas. 
+This difference in the molecular basis of GFL-GFRalpha specificity allowed the production of GFRalpha1. 
+RET-specific agonists and provides a foundation for understanding of GFL-GFRalpha.RET signaling at the molecular level. 
+Expression of RET and its ligand complexes, GDNF/GFRalpha-1 and NTN/GFRalpha-2, in medullary thyroid carcinomas.  
+OBJECTIVE: Mutations in the RET proto-oncogene are found in about one third of sporadic medullary thyroid carcinomas (MTCs), mostly affecting codon 918. 
+Glial cell line derived neurotropic factor (GDNF) and its membrane-bound GDNF family receptor alpha (GFRalpha-1), as well as neurturin (NTN) and its membrane-bound receptor GFRalpha-2 form a complex with the RET product, a receptor tyrosine kinase, resulting in downstream signaling to the nucleus. 
+DESIGN: To elucidate the role of these RET ligands in MTC tumorigenesis, their expression was determined in 15 MTC samples, one papillary thyroid carcinoma (PTC) and three normal thyroid tissue specimens. 
+METHODS: The mRNA expression of RET, GDNF, GFRalpha-1, NTN and GFRalpha-2 was investigated by mRNA in situ hybridization, and confirmed by reverse transcription-PCR analysis. 
+RESULTS: None of the five genes was expressed in the normal thyroids or in the PTC. 
+All MTCs showed expression of RET, 13 expressed GDNF, 12 expressed GFRalpha-1 and 9 expressed NTN and GFRalpha-2. 
+In 7 of the tumors RET, GDNF and GFRalpha-1 were expressed at high levels, and in five of these seven tumors NTN and GFRalpha-2 genes were also expressed at high levels. 
+The high level of expression was preferentially seen in tumor cells adjacent to stroma and connective tissue. 
+All MTCs without expression of the RET ligands harbored the RET codon 918 mutation. 
+CONCLUSIONS: The results suggest that this signaling pathway is important for MTC development, and that it may be activated by expression of the RET ligand complexes by the tumor cells themselves. 
+RET and GDNF gene scanning in Hirschsprung patients using two dual denaturing gel systems.  
+Hirschsprung disease (HSCR) is a congenital disorder characterised by intestinal  obstruction due to an absence of intramural ganglia along variable lengths of the intestine. 
+RET is the major gene involved in HSCR. 
+Mutations in the GDNF gene, and encoding one of the RET ligands, either alone or in combination with RET mutations, can also cause HSCR, as can mutations in four other genes (EDN3, EDNRB, ECE1, and SOX10). 
+The rare mutations in the latter four genes, however, are more or less restricted to HSCR associated with specific phenotypes. 
+We have  developed a novel comprehensive mutation detection system to analyse all but three amplicons of the RET and GDNF genes, based on denaturing gradient gel electrophoresis. 
+We make use of two urea-formamide gradients on top of each other, allowing mutation detection over a broad range of melting temperatures. 
+For the three remaining (GC-rich) PCR fragments we use a combination of DGGE and  constant denaturing gel electrophoresis (CDGE). 
+These two dual gel systems substantially facilitate mutation scanning of RET and GDNF, and may also serve as a model to develop mutation detection systems for other disease genes. 
+In a screening of 95 HSCR patients, RET mutations were found in nine out of 17 familial cases (53%), all containing long segment HSCR. 
+In 11 of 78 sporadic cases (14%), none had long segment HSCR. 
+Only one GDNF mutation was found, in a sporadic case. 
+RET and neuroendocrine tumors.  
+Glial cell line-derived neurotrophic factor (GDNF), a ligand of RET tyrosine kinase, and its family ligands promote the survival and differentiation of a variety of neurons. 
+Gene ablation studies have revealed that the GDNF-RET receptor system is essential for the development of kidney and peripheral neurons, including sympathetic, parasympathetic and enteric neurons. 
+RET can activate various signaling pathways such as RAS/extracellular signal-regulated kinase (ERK), phosphatidylinositol 3-kinase (PI3K)/AKT, p38 mitogen-activated protein kinase (MAPK) and c-Jun N-terminal kinase (JNK) pathways. 
+These signaling pathways are activated via binding of adaptor proteins to intracellular tyrosine  residues of RET phosphorylated by its own kinase activity. 
+The RET is profoundly  involved in the development of several human neuroendocrine diseases. 
+The constitutive activation of the RET by somatic rearrangement with other partner genes or germ-line mutations causes a considerable population of human papillary  thyroid carcinomas or multiple endocrine neoplasia (MEN) type 2A and 2B, respectively, whereas the dysfunction of RET by germ-line missense and/or nonsense mutations causes Hirschsprung's disease. 
+Biological properties of mutant RET protein determine the disease phenotype. 
+For example, the MEN 2B mutation alters the substrate specificity of RET tyrosine kinase and RET carrying the MEN  2B mutation hereby induces the different set of genes from that carrying the MEN  2A mutation. 
+In this review, we describe the current knowledge about the molecular mechanism of RET activation in human neuroendocrine tumors as well as the physiological roles and signal transduction of RET tyrosine kinase. 
+c-Jun in Schwann cells promotes axonal regeneration and motoneuron survival via paracrine signaling.  
+The AP-1 transcription factor c-Jun is a master regulator of the axonal response  in neurons. 
+c-Jun also functions as a negative regulator of myelination in Schwann cells (SCs) and is strongly reactivated in SCs upon axonal injury. 
+We demonstrate here that, after injury, the absence of c-Jun specifically in SCs caused impaired axonal regeneration and severely increased neuronal cell death. 
+c-Jun deficiency resulted in decreased expression of several neurotrophic factors, and GDNF and Artemin, both of which encode ligands for the Ret receptor  tyrosine kinase, were identified as novel direct c-Jun target genes. 
+Genetic inactivation of Ret specifically in neurons resulted in regeneration defects without affecting motoneuron survival and, conversely, administration of recombinant GDNF and Artemin protein substantially ameliorated impaired regeneration caused by c-Jun deficiency. 
+These results reveal an unexpected function for c-Jun in SCs in response to axonal injury, and identify paracrine Ret signaling as an important mediator of c-Jun function in SCs during regeneration. 
+Germline mutations of the RET ligand GDNF are not sufficient to cause Hirschsprung disease.  
+Hirschsprung disease (HSCR, aganglionic megacolon) is a common congenital malformation leading to bowel obstruction, with an incidence of 1/5,000 live births. 
+It is characterized by the absence of intrinsic ganglion cells in the myenteric and submucosal plexuses along variable lengths of the gastrointestinal  tract. 
+As enteric neurons are derived from the vagal neural crest, HSCR is regarded as a neurocristopathy. 
+On the basis of a skewed sex-ratio (M/F = 4/1) and a risk to relatives much higher than the incidence in the general population, HSCR has long been regarded as a sex-modified multifactorial disorder. 
+Accordingly, segregation analysis suggested an incompletely penetrant dominant inheritance in HSCR families with aganglionosis extending beyond the sigmoid colon. 
+We and others have mapped a dominant gene for HSCR to chromosome 10q11.2 and have ascribed the disease to mutations in the RET proto-oncogene. 
+However, the lack of genotype-phenotype correlation, the low penetrance and the sex-dependent effect of RET mutations supported the existence of one or more modifier gene(s) in familial HSCR. 
+In addition, thus far, RET mutations only accounted for 50% and 15-20% of familial and sporadic HSCR patients, respectively. 
+RET encodes a tyrosine kinase receptor whose ligand was unknown. 
+Recently, the Glial cell line-derived neurotrophic factor (GDNF) has been identified to be a ligand for RET. 
+Moreover, Gdnf-/- knockout mutant mice display congenital intestinal aganglionosis and renal agenesis, a phenotype very similar  to the Ret-/- mouse. 
+These data prompted us to hypothesize that mutations of the  gene encoding GDNF could either cause or modulate the HSCR phenotype in some cases. 
+Mutation of the RET ligand, neurturin, supports multigenic inheritance in Hirschsprung disease.  
+Erratum in     Hum Mol Genet 1998 Oct;7(11):1831. 
+Polymorphisms in the genes encoding the 4 RET ligands, GDNF, NTN, ARTN, PSPN, and susceptibility to Hirschsprung disease.  
+PURPOSE: Hirschsprung disease (HSCR) is a developmental disorder caused by a failure of neural crest cells to migrate, proliferate, and/or differentiate during the enteric nervous system development. 
+It presents a multifactorial, nonmendelian pattern of inheritance, with several genes playing some role in its  pathogenesis. 
+Its major susceptibility gene is the RET protooncogene, which encodes a receptor tyrosine kinase activating several key signaling pathways in the enteric nervous system development. 
+Given the pivotal role of RET in HSCR, the genes encoding their ligands (GDNF, NRTN, ARTN, and PSPN) are also good candidates for the disease. 
+METHODS: We have performed a case-control study using Taqman technology to evaluate 10 polymorphisms within these genes, as well as haplotypes comprising them, as susceptibility factors for HSCR. 
+RESULTS: No differences were found in the allelic frequencies of the variants or  in the haplotype distribution between patients and controls. 
+In addition, no particular association was detected of the variants/haplotypes to any demographic/clinical parameters within the group of patients. 
+CONCLUSION: These data would be consistent with the lack of association between these polymorphisms and HSCR, although they do not permit to completely discard a possible role of other variants within these genes in the disease. 
+Moreover, because the gene-by-gene approach does not take into account the polygenic nature of HSCR disease, it would be interesting to investigate sets of variants in many  other different susceptibility loci described for HSCR, which may permit to consider possible interactions among susceptibility genes. 
+Analysis of banana transcriptome and global gene expression profiles in banana roots in response to infection by race 1 and tropical race 4 of Fusarium oxysporum f. sp. cubense.  
+BACKGROUND: Cavendish, the most widely grown banana cultivar, is relatively resistant to Race 1 of Fusarium oxysporum f. 
+sp. 
+cubense (Foc1) which caused widespread Panama disease during the first half of the 20th century but is susceptible to Tropical Race 4 of Foc (Foc TR4) which is threatening world banana production. 
+The genome of the diploid species Musa acuminata which is the ancestor of a majority of triploid banana cultivars has recently been sequenced. 
+ Availability of banana transcriptomes will be highly useful for improving banana  genome annotation and for biological research. 
+The knowledge of global gene expression patterns influenced by infection of different Foc races will help to understand the host responses to the infection. 
+RESULTS: RNA samples from different organs of the Cavendish cultivar were pooled  for deep sequencing using the Illumina technology. 
+Analysis of the banana transcriptome led to identification of over 842 genes that were not annotated by  the Musa genome project. 
+A large number of simple nucleotide polymorphisms (SNPs) and short insertions and deletion (indels) were identified from the transcriptome data. 
+GFP-expressing Foc1 and Foc TR4 were used to monitor the infection process. 
+Both Foc1 and Foc TR4 were found to be able to invade banana roots and spread to  root vascular tissues in the first two days following inoculation. 
+Digital gene expression (DGE) profiling analysis reveal that the infection by Foc1 and Foc TR4 caused very similar changes in the global gene expression profiles in the banana  roots during the first two days of infection. 
+The Foc infection led to induction  of many well-known defense-related genes. 
+Two genes encoding the ethylene biosynthetic enzyme ACC oxidase and several ethylene-responsive transcription factors (ERF) were among the strongly induced genes by both Foc1 and Foc TR4. 
+CONCLUSIONS: Both Foc1 and Foc TR4 are able to spread into the vascular system of banana roots during the early infection process and their infection led to similar gene expression profiles in banana roots. 
+The transcriptome profiling analysis indicates that the ethylene synthetic and signalling pathways were activated in response to the Foc infection. 
+Fusarium Wilt of Banana Is Caused by Several Pathogens Referred to as Fusarium oxysporum f. sp. cubense.  
+Effect of menadione sodium bisulfite, an inducer of plant defenses, on the dynamic of banana phytoalexin accumulation during pathogenesis.  
+Using an authentic sample of 2-hydroxy-9-(p-hydroxyphenyl)-phenalen-1-one, a banana phenalenone-type phytoalexin, we studied its dynamic of accumulation during pathogenesis of banana plants (Musa acuminata (AAA), Grand Nain) inoculated with Fusarium oxysporum f.sp. 
+cubense (FOC), Race 4, the causal agent  of Panama disease. 
+The results obtained demonstrate that banana plants treated prior inoculation with menadione sodium bisulfite (MSB), an inducer of plant defenses, are capable of changing the dynamic of accumulation (higher amount and  speed of biosynthesis) of this banana phytoalexin, biosynthesized by the banana plant during pathogenesis. 
+Induction of Defense-Related Enzymes in Banana Plants: Effect of Live and Dead Pathogenic Strain of Fusarium oxysporum f. sp. cubense.  
+The aim of the present study was to scrutinize the response of banana (Grand Naine variety) plants when interacting with dead or live pathogen, Fusarium oxysporum f.sp. 
+cubense, a causative agent of Panama disease. 
+Response of plants  was evaluated in terms of induction of defense-related marker enzyme activity, namely, peroxidase (POX), polyphenol oxidase (PPO), β-1,3 glucanase, chitinase, and phenolics. 
+Plant's interaction with live pathogen resulted in early induction of defense to restrain penetration as well as antimicrobial productions. 
+However, pathogen overcame the defense of plant and caused disease. 
+Interaction with dead  pathogen resulted in escalating defense response in plants. 
+Later on plants inoculated with dead pathogen showed resistance to even forced inoculation of live pathogen. 
+Results obtained in the present study suggest that dead pathogen was able to mount defense response in plants and provide resistance to Panama disease upon subsequent exposure. 
+Therefore, preparation from dead pathogen could be a potential candidate as a biocontrol agent or plant vaccine to combat Panama  disease. 
+Multiple evolutionary origins of the fungus causing Panama disease of banana: concordant evidence from nuclear and mitochondrial gene genealogies.  
+Panama disease of banana, caused by the fungus Fusarium oxysporum f. 
+sp. 
+cubense, is a serious constraint both to the commercial production of banana and cultivation for subsistence agriculture. 
+Previous work has indicated that F. 
+oxysporum f. 
+sp. 
+cubense consists of several clonal lineages that may be genetically distant. 
+In this study we tested whether lineages of the Panama disease pathogen have a monophyletic origin by comparing DNA sequences of nuclear and mitochondrial genes. 
+DNA sequences were obtained for translation elongation factor 1alpha and the mitochondrial small subunit ribosomal RNA genes for F. 
+oxysporum strains from banana, pathogenic strains from other hosts and putatively nonpathogenic isolates of F. 
+oxysporum. 
+Cladograms for the two genes were highly  concordant and a partition-homogeneity test indicated the two datasets could be combined. 
+The tree inferred from the combined dataset resolved five lineages corresponding to "F. 
+oxysporum f. 
+sp. 
+cubense" with a large dichotomy between two taxa represented by strains most commonly isolated from bananas with Panama disease. 
+The results also demonstrate that the latter two taxa have significantly different chromosome numbers. 
+F. 
+oxysporum isolates collected as nonpathogenic or pathogenic to other hosts that have very similar or identical elongation factor 1alpha and mitochondrial small subunit genotypes as banana pathogens were shown to cause little or no disease on banana. 
+Taken together, these results indicate Panama disease of banana is caused by fungi with independent evolutionary origins. 
+Development of a real-time fluorescence loop-mediated isothermal amplification assay for rapid and quantitative detection of Fusarium oxysporum f. sp. cubense tropical race 4 in soil.  
+Erratum in     PLoS One. 
+2014;9(1). 
+doi:10.1371/annotation/8a1fd6a3-754f-42e2-a906-9d224167344e. 
+Control of Panama disease of banana by rotating and intercropping with Chinese chive (Allium tuberosum Rottler): role of plant volatiles.  
+Intercropping and rotating banana (Musa spp.) with Chinese chive (Allium tuberosum Rottler) has been used as an effective method to control Panama disease (Fusarium wilt) of banana in South China. 
+However, the underlying mechanism is unknown. 
+In this study, we used aqueous leachates and volatiles from Chinese chive to evaluate their antimicrobial activity on Fusarium oxysporum f. 
+sp. 
+cubense race 4 (FOC), the causal agent of Panama disease in banana, and identified the antifungal compounds. 
+Both leaf and root leachates of Chinese chive displayed strong inhibition against FOC, but the concentrated leachates showed lower inhibition than the original leachates. 
+In a sealed system volatiles emitted from the leaves and roots of Chinese chive inhibited mycelial growth of FOC. 
+Volatile compounds emitted from the intact growing roots mimicking natural environment inhibited spore germination of FOC. 
+We identified five volatiles including 2-methyl-2-pentenal and four organosulfur compounds (dimethyl trisulfide, dimethyl disulfide, dipropyl disulfide, and dipropyl trisulfide) from the leaves and roots of Chinese chive. 
+All these compounds exhibited inhibitory effects on FOC, but 2-methyl-2-pentenal and dimethyl trisulfide showed stronger inhibition than the other three compounds. 
+2-Methyl-2-pentenal at 50-100 μl/l completely inhibited the mycelial growth of FOC. 
+Our results demonstrate that antifungal volatiles released from Chinese chive help control Panama disease in banana. 
+We conclude that intercropping and rotating banana with Chinese chive can control Panama disease and increase cropland biodiversity. 
+Flecainide reduces Ca(2+) spark and wave frequency via inhibition of the sarcolemmal sodium current.  
+Comment in     Cardiovasc Res. 
+2013 May 1;98(2):326-7. 
+    Cardiovasc Res. 
+2013 May 1;98(2):327-8. 
+Multiple modes of ryanodine receptor 2 inhibition by flecainide.  
+Catecholaminergic polymorphic ventricular tachycardia (CPVT) causes sudden cardiac death due to mutations in cardiac ryanodine receptors (RyR2), calsequestrin, or calmodulin. 
+Flecainide, a class I antiarrhythmic drug, inhibits Na(+) and RyR2 channels and prevents CPVT. 
+The purpose of this study is to identify inhibitory mechanisms of flecainide on RyR2. 
+RyR2 were isolated from sheep heart, incorporated into lipid bilayers, and investigated by single-channel recording under various activating conditions, including the presence of cytoplasmic ATP (2 mM) and a range of cytoplasmic [Ca(2+)], [Mg(2+)], pH, and [caffeine]. 
+Flecainide applied to either the cytoplasmic or luminal sides of the  membrane inhibited RyR2 by two distinct modes: 1) a fast block consisting of brief substate and closed events with a mean duration of ∼1 ms, and 2) a slow block consisting of closed events with a mean duration of ∼1 second. 
+Both inhibition modes were alleviated by increasing cytoplasmic pH from 7.4 to 9.5 but were unaffected by luminal pH. 
+The slow block was potentiated in RyR2 channels that had relatively low open probability, whereas the fast block was unaffected by RyR2 activation. 
+These results show that these two modes are independent mechanisms for RyR2 inhibition, both having a cytoplasmic site of action. 
+The slow mode is a closed-channel block, whereas the fast mode blocks RyR2 in the open state. 
+At diastolic cytoplasmic [Ca(2+)] (100 nM), flecainide possesses an additional inhibitory mechanism that reduces RyR2 burst duration. 
+Hence, multiple modes of action underlie RyR2 inhibition by flecainide. 
+Arrhythmogenic effect of flecainide toxicity.  
+Flecainide is a class 1C antiarrhythmic drug especially used for the management of supraventricular arrhythmia. 
+In overdose cases, flecainide can induce life treating ventricular arrhythmias and cardiogenic shock. 
+We report the case of a 72-year-old woman admitted to our intensive care unit for a regular monomorphic wide complex tachycardia (QRS duration 240 ms, right bundle branch block and superior axis morphology) without apparent P waves. 
+Clinical examination showed slight left congestive heart failure signs without cardiogenic shock. 
+An intravenous bolus of 10 mg adenosine 5'-triphosphate (ATP) was ineffective to stop the tachycardia. 
+The diagnosis of ventricular tachycardia induced by flecainide overdose was considered. 
+500 mL of intravenous 84‰ sodium bicarbonate  was administrated. 
+The patient's QRS narrowed immediately and 12-lead ECG showed  sinus rhythm. 
+Blood samples confirmed the flecainide overdose and the clinical status progressively improved. 
+Flecainide-induced myoclonus.  
+Flecainide is a class 1c antiarrhythmic that acts by blocking sodium channels to  reduce intracardiac conduction and is used mainly in the treatment of supraventricular arrhythmias. 
+Dizziness, visual disturbances, headache, and nausea are commonly associated with flecainide, but severe central nervous system toxicity is rare. 
+Here, we report the case of a 71-year-old woman with a history  of renal transplantation who developed severe myoclonus 24 hours after being started on flecainide, 100 mg 2 times a day, because of atrial fibrillation. 
+This symptom completely disappeared once the drug was removed. 
+Only 2 patients presenting with flecainide-induced myoclonus have been previously reported. 
+Although the exact pathophysiologic explanation of this phenomenon remains unclear, it is well known that the susceptibility to severe flecainide toxicity is increased in patients with chronic kidney disease. 
+An unusual case of flecainide-induced QT prolongation leading to cardiac arrest.  
+Flecainide is recommended as a first-line antiarrhythmic drug to maintain normal  sinus rhythm in patients with atrial fibrillation (AF) who have structurally normal hearts or hypertension without left ventricular hypertrophy. 
+Flecainide is a sodium channel blocker with minimal effects expected on ventricular repolarization. 
+We describe the case of a 32-year-old man with a structurally normal heart and persistent AF who was started on diltiazem and flecainide 50 mg  twice/day approximately a year prior to presentation. 
+Due to persistent and bothersome symptoms, his dose was increased to 150 mg twice/day, which was associated with a progressive lengthening of his corrected QT interval. 
+On the day of presentation, he underwent an exercise test as part of his job requirements. 
+While running, he felt lightheaded and experienced a syncopal event and cardiac arrest. 
+An automated external defibrillator was available that displayed polymorphic ventricular tachycardia. 
+The patient was successfully resuscitated. 
+Although rare, this case suggests that flecainide can induce QT prolongation leading to torsades de pointes. 
+Clinicians should be aware and consider periodic evaluations with electrocardiograms. 
+Effects of flecainide on left ventricular pressure gradient and symptoms in obstructive hypertrophic cardiomyopathy: a comparison of flecainide and disopyramide.  
+It remains unclear whether flecainide, a Class I antiarrhythmic drug, improves left ventricular pressure gradient (LVPG) or symptoms in patients with obstructive hypertrophic cardiomyopathy (HCM). 
+Our study evaluated the long-term  efficacy of flecainide, compared to disopyramide, when administered orally, on LVPG and symptoms in obstructive HCM patients. 
+Among 164 obstructive HCM patients, 15 were administered oral flecainide therapy and 33 administered oral disopyramide therapy. 
+LVPG declined from 79.8 ± 36.6 to 39.2 ± 36.7 mmHg (p = 0.003) after flecainide therapy and from 74.5 ± 26.4 to 31.4 ± 24.8 mmHg (p < 0.001) after disopyramide therapy. 
+The percent reduction in LVPG was -47.9 ± 43.2 % in patients treated with flecainide, comparable to the results for those treated with disopyramide (-57.1 ± 33.0 %; p = 0.425). 
+We found no significant differences in improvement in NYHA functional class between patients  treated with flecainide and those treated with disopyramide (p = 0.331). 
+Patients treated with flecainide exhibited no significant adverse side effects, and there  was no need for myectomy or alcohol septal ablation to reduce LVPG and symptoms. 
+ Improvements in LVPG and symptoms were similar in patients treated with flecainide and patients treated with disopyramide, suggesting that flecainide is  a potentially useful alternative for symptomatic obstructive HCM patients, particularly those with disopyramide-induced vagolytic side effects, narrow angle glaucoma, or prostatic hyperplasia and pre-existing urination difficulties. 
+Our data must be viewed with caution, however, in view of the small number of study patients. 
+Flecainide therapy will require further proof of safety before it can be routinely recommended in patients with symptomatic obstructive HCM. 
+Arrhythmogenic effects by local left ventricular stretch: effects of flecainide and streptomycin.  
+Mechanical stretch has been shown to provoke arrhythmia. 
+We wanted to analyze ventricular arrhythmia induced by local left ventricular stretch in order to find out, where arrhythmias originate and whether they can be prevented pharmacologically. 
+Isolated rabbit hearts (Langendorff technique) were submitted  to increased left ventricular stretch at the left wall by insertion of an additional intraventricular balloon and adjusting the end-diastolic pressure (EDP) to 25 mmHg for 10 min followed by 20 min recovery at normal EDP of 5-8 mmHg. 
+Activation and repolarization processes were investigated by ventricular 256 electrode epicardial mapping. 
+The hearts were treated during the whole procedure either with vehicle, 0.5 μM flecainide (sodium channel blocker) or 100  μM streptomycin (here used as stretch-activated ion-channel blocker). 
+In addition, we performed a series of experiments, in which we enhanced EDP to 30 mmHg (global stretch instead of local stretch) by inflating the left ventricular  pressure balloon (strain, 0.148 ± 0.034). 
+Each series was performed with n = 6. 
+Stretch resulted in local strain of 25% at the left wall together with a local slowing of the activation process at the left wall, in a change in the activation pattern, and in ventricular arrhythmia. 
+Coronary flow was not affected. 
+Ventricular arrhythmias originated from the border between the stretched area and the non-stretched region. 
+Flecainide and streptomycin reduced the prolongation of the activation process at the stretched left wall and mitigated the difference in total activation time between left and front wall but only partially prevented arrhythmia. 
+In the additional global stretch experiments relative coronary flow and the other parameters remained unchanged, in particular TAT. 
+Thus, in contrast to the local stretch series, there was no difference in the change in TAT between left and front wall. 
+Only rare single ventricular extrasystoles (<1/min; originating from LV (front and left wall) i.e. 
+from within the stretched region)  were seen during stretch (but not at the beginning) and during recovery. 
+Local left ventricular stretch can elicit ventricular arrhythmias. 
+Local slowing of electrical activation seems involved so that the difference in total activation time of the stretched free left wall and the non-stretched increased. 
+An infant with cytomegalovirus-induced subacute thyroiditis.  
+Viruses and thyroiditis: an update.  
+Viral infections are frequently cited as a major environmental factor involved in subacute thyroiditis and autoimmune thyroid diseases This review examines the data related to the role of viruses in the development of thyroiditis. 
+Our research has been focused on human data. 
+We have reviewed virological data for each type of thyroiditis at different levels of evidence; epidemiological data, serological data or research on circulating viruses, direct evidence of thyroid tissue infection. 
+Interpretation of epidemiological and serological data must be  cautious as they don't prove that this pathogen is responsible for the disease. 
+However, direct evidence of the presence of viruses or their components in the organ are available for retroviruses (HFV) and mumps in subacute thyroiditis, for retroviruses (HTLV-1, HFV, HIV and SV40) in Graves's disease and for HTLV-1, enterovirus, rubella, mumps virus, HSV, EBV and parvovirus in Hashimoto's thyroiditis. 
+However, it remains to determine whether they are responsible for thyroid diseases or whether they are just innocent bystanders. 
+Further studies are needed to clarify the relationship between viruses and thyroid diseases, in order to develop new strategies for prevention and/or treatment. 
+Subacute thyroiditis in the course of novel H1N1 influenza infection.  
+To describe the first documented case of subacute (De Quervain) thyroiditis in the course of novel H1N1 influenza infection. 
+This is a case report of a patient  diagnosed at the General Hospital "G. 
+Hatzikosta" of Ioannina, Greece. 
+A 55-year-old previously healthy male developed an influenza-like syndrome that was accompanied by severe neck pain, palpitations, weight loss, and disproportionately increased erythrocyte sedimentation rate. 
+Polymerase chain reaction assay of pharyngeal swabs confirmed the diagnosis of novel H1N1 influenza infection. 
+Serum thyroid-stimulating hormone was suppressed to zero and levels of free thyroxine and particularly triiodothyronine were increased. 
+Technetium-99m-pertechnetate scintigraphy showed diffuse and inhomogeneous very low technetium trapping. 
+The patient was treated with non-steroidal anti-inflammatory drugs and thyroid function gradually normalized without evolving to a hypothyroid phase. 
+This is the first case of subacute thyroiditis associated with novel H1N1 influenza infection. 
+Furthermore, this is the first case to definitely demonstrate active influenza infection of any type concurrent  with thyroiditis, and one of the very rare similar cases for any active viral disease etiologically implicated in the pathogenesis of subacute thyroiditis. 
+Subacute thyroiditis associated with positive antibodies to the Epstein-Barr virus.  
+Subacute thyroiditis is an inflammatory disorder of the thyroid caused probably by viruses. 
+It is clinically characterized by the presence of anterior cervical pain and/or painful goiter, and rarely as fever of unknown origin or as prolonged fever syndrome. 
+We report a case of a 49-year-old female admitted to the hospital because of fever during last month, leukocytosis and accelerated erythrocyte sedimentation rate. 
+Following observation, slight tenderness over the thyroid gland and signs of hyperthyroidism occurred. 
+After the laboratory studies, low thyroidal radioactive iodine uptake and fine-needle aspiration cytology (FNAC) of thyroid, she was diagnosed of subacute thyroiditis with hyperthyroidism. 
+We believe that the etiologic agent was the Epstein-Barr virus because heterophile and Epstein-Barr virus-specific antibodies were positive. 
+The patient was treated with acetaminophen (1.500 mg/day) with prompt and complete resolution of the clinical and laboratory abnormalities. 
+There has been no recurrence of the disease during a 1 year follow-up. 
+Initial treatment with 15 mg of prednisolone daily is sufficient for most patients with subacute thyroiditis in Japan.  
+BACKGROUND: Oral glucocorticoids are administered in moderate and severe cases of subacute thyroiditis (SAT), providing dramatic relief from pain and fever. 
+However, there have been no reports regarding the optimal dose of prednisolone (PSL) for treatment of SAT. 
+In this study, we used 15 mg/day of PSL as the initial dosage and tapered it by 5 mg every 2 weeks. 
+We assessed the effectiveness of this treatment protocol. 
+METHODS: We examined 384 consecutive and untreated patients with SAT who visited  our thyroid clinic between February 2005 and December 2008. 
+We excluded patients  who did not fit our protocol, and the final number of subjects was 219. 
+When patients complained of pain in their neck or C-reactive protein (CRP) was still high, physicians were able to extend the tapering of the dose of PSL or increase  it at 2-week intervals. 
+The endpoint of the study was the duration of the PSL medication. 
+We also compared the severity of thyrotoxicosis and rate of hypothyroidism after SAT between the short medication group (patients who recovered within 6 weeks) and long medication group (patients who recovered in 12 weeks or more). 
+RESULTS: The number of patients whose thyroiditis improved within 6 weeks and did not recur was 113 (51.6%), and 61 (27.9%) improved within 7 to 8 weeks and did not have a recurrence. 
+The longest duration was 40 weeks. 
+Seven patients (3.2%) needed increases in the dosage of PSL. 
+Thyroid hormone (free thyroxine and free triiodothyronine) levels measured at the initial visit in the short medication group were significantly higher than those in the long medication group (p<0.05). 
+Serum CRP, male-to-female ratio, body weight, and age showed no differences between the two groups. 
+There were no differences in the rate of hypothyroidism after SAT between the two groups (p=0.0632). 
+CONCLUSIONS: The treatment protocol that we employed had 15 mg/day of PSL as the  initial dosage for the treatment of SAT, with tapering by 5 mg every 2 weeks, and was effective and safe for Japanese patients. 
+However, 20% of patients with SAT needed longer than 8 weeks to recover from the inflammation. 
+Subacute thyroiditis (de Quervain's) due to influenza A: presenting as fever of unknown origin (FUO).  
+Subacute (de Quervain's) thyroiditis is a rare but important cause of fever of unknown origin. 
+Most cases of subacute thyroiditis are caused by a variety of viruses, for example, Coxsackie, cytomegalovirus, Epstein-Barr virus, and adenovirus. 
+Influenza immunization or infection may cause subacute thyroiditis. 
+We present the first reported case of a fever of unknown origin due to seasonal influenza A in a 67-year-old woman. 
+Pegylated-interferon alpha plus ribavirin-induced subacute thyroiditis in chronic hepatitis C.  
+Chronic hepatitis C virus infection may be associated with extrahepatic manifestations. 
+Thyroid disease related to chronic hepatitis C virus infection has been associated with interferon-alpha treatment. 
+We present the case of a 40-year-old woman with chronic hepatitis C virus infection, who developed subacute thyroiditis during treatment with pegylated interferon-alpha plus ribavirin. 
+Subacute thyroiditis following the H1N1 vaccine.  
+Can subacute thyroiditis be associated with acute hepatitis B virus infection?  
+The incidence of thyroid stimulating blocking antibodies during the hypothyroid phase in patients with subacute thyroiditis.  
+The etiology of subacute (de Quervain's) thyroiditis (SAT) is uncertain, although it probably represents a nonspecific inflammatory response by the thyroid to a variety of viruses. 
+It has been suggested that nonimmune processes are involved in SAT patients who have negative autoantibody titers. 
+The disease has a variable course; although it is self-limited in most cases, some patients develop transient hypothyroidism, and others do not during the recovery period. 
+The present study was performed to evaluate the occurrence of TSH receptor antibody (TRAb), measured by RRA (TSH binding inhibitor), TRAb measured by stimulation assay (thyroid-stimulating antibody), and TRAb measured by blocking assay [TSH-blocking antibody (TSH-BAb)] activity in 68 patients with SAT who had negative autoantibody titers. 
+The patients were divided into 2 groups: group I, 31 patients who developed hypothyroidism during the recovery period; and group II, 37 patients who remained euthyroid during recovery. 
+Positive immunoglobulin activity occurred in about 20% of group I patients during follow-up, but in only  3% of group II patients. 
+About 20% of group I patients developed positive TSH-BAb activity and were hypothyroid, requiring exogenous hormone therapy for 1.2-3.5 yr, whereas hypothyroidism was relatively transient in group I patients who had negative TSH-BAb activity (2-6 months). 
+Although increased TSH-BAb activity may account for hypothyroidism in some patients with SAT, the precise mechanism for the development of transient hypothyroidism in SAT remains enigmatic. 
+Effects of human recombinant alpha and gamma and of highly purified natural beta  interferons on simian Spumavirinae prototype (simian foamy virus 1) multiplication in human cells.  
+The present study demonstrates the inhibitory effect of human recombinant interferons (r-Hu-IFN) alpha and gamma, and that of highly purified natural human interferon beta on the replication of simian foamy virus type 1 (SFV1) in human AV3-cell cultures. 
+All IFN led to strong inhibition of the SFV1 cytopathic effect. 
+Electron microscopy showed a 70 to 95% decrease in viral particles. 
+Significant inhibition of virus-associated reverse transcriptase activity was found in supernatant fluids of infected IFN-treated cultures. 
+Metabolic labelling of the virus confirmed the inhibition of extracellular release of SFV1. 
+PAGE analysis of immunoprecipitates indicated a reduction in viral-specific protein bands. 
+Altogether, these results indicate that the mechanism of inhibition of Spumavirinae infection by interferon differs from that described for the other Retroviridae, and particularly for types B, C and D viruses. 
+Our data is of therapeutic interest since Spumavirinae have been linked to pathological processes such as de Quervain thyroiditis. 
+Clinical characteristics of 852 patients with subacute thyroiditis before treatment.  
+OBJECTIVE: Subacute thyroiditis (SAT) is a transient inflammatory disease of the  thyroid. 
+We evaluated the clinical characteristics based on laboratory and imaging studies in patients with SAT before treatment. 
+PATIENTS: We reviewed the medical records of 852 patients (107 men and 745 women) with SAT who visited our thyroid clinic at Kuma Hospital from 1996 through 2004. 
+RESULTS: SAT developed most often in female patients aged 40 to 50 years, with significant seasonal clusters during summer to early autumn. 
+While the rates of any virus infections and diseases did not differ from those in the general population, recurrent episodes of SAT at intervals of 13.6+/-5.6 years accounted  for 1.6% of all cases. 
+At the onset of SAT, 28.2% of patients had temperatures greater than 38 degrees C and typical symptoms associated with thyrotoxicosis developed in more than 60% of patients. 
+Before treatment, most of the abnormal laboratory findings associated with thyrotoxicosis, inflammation, and liver dysfunction reached peak levels within 1 week after onset. 
+Ultrasound examination showed that half of the patients with unilateral thyroid pain presented with bilateral hypoechogenic area in the thyroid and the rate of bilateral hypoechogenic area tended to increase 2 months after onset. 
+CONCLUSION: Laboratory studies of thyroid dysfunction and inflammation related to SAT presented peak levels within 1 week after onset. 
+Cellular composition of subacute thyroiditis. an immunohistochemical study of six cases.  
+To clarify the cellular composition of subacute thyroiditis, histologic and immunohistochemical studies were performed. 
+Histologically, the lesion presented  a patchy distribution of non-caseous granulomas comprising colloid, small lymphocytes, neutrophils, macrophages with or without epithelioid features, and multinucleated giant cells of foreign body type. 
+In addition, numerous plasmacytoid monocytes were closely associated with the granulomas. 
+The giant cells were CD68+, thyroglobulin- and cytokeratin-. 
+Usually, small lymphocytes in  the granulomas are CD3+, CD8+, CD45RO+ cytotoxic T-cells. 
+In the non-granulomatous lesion, the follicles were often infiltrated by CD8+ T-lymphocytes, plasmacytoid monocytes and histiocytes, resulting in disrupted basement membrane and rupture of the follicles. 
+Lymphoid follicles with or without active germinal centers were not observed. 
+Moreover, no residual follicular dendritic cell networks were detected by CD23 and CAN.42 immunostains. 
+In the interfollicular area, scattered plasma cells were observed among infiltrating cells. 
+Neither human herpes virus 8 nor EBER-positive cells were detected in the six patients. 
+The findings of our study suggest that cellular immune response may play an important role in the pathogenesis of subacute thyroiditis. 
+Quick recovery of myocardium damage in a case of subacute thyroiditis.  
+We describe a case of quick recovery of myocardium damage in a 15-year-old adolescent with subacute thyroiditis. 
+After 1 week of admission, his cardiovascular status began to show signs of improvement accompanied by the recovery of electrocardiogram and indicators of myocardial damage. 
+We speculate that myocardium damage associated with subacute thyroiditis is a complication of  common virus, although we did not detect any abnormal virus antibody and deoxyribonucleic acid in the patient's serum. 
+de Quervain thyroiditis in a young boy following hand-foot-mouth disease.  
+de Quervain thyroiditis, also known as subacute thyroiditis, is a self-limited inflammatory disease of the thyroid gland. 
+It is extremely rare in children. 
+The  hallmarks for diagnosis are painful thyroid enlargement, elevated inflammatory markers, and decreased uptake of the thyroid gland on thyroid scintigraphy. 
+Viral infection has been proposed to be associated with de Quervain thyroiditis. 
+Coxsackie virus has been reported to be one of the viruses associated with the disease. 
+To our knowledge, childhood de Quervain thyroiditis associated with hand-foot-mouth disease caused by coxsackie infection has never been reported. 
+We report a 2.7-year-old boy who presented with typical features of de Quervain thyroiditis following hand-foot-mouth disease caused by coxsackie B4 infection. 
+He had a brief thyrotoxic phase initially, followed by transient hypothyroid phase and euthyroidism thereafter. 
+His thyroid scintigraphy showed a typical faint uptake at the diagnosis, and an improvement of the thyroid scan and uptake  was shown 8 weeks later. 
+He was treated with prednisolone and nearly complete resolution was documented within 2 months. 
+Careful evaluation of the patient led  to the correct diagnosis and appropriate management. 
+Amyloid goiter presented as a subacute thyroiditis-like symptom in a patient with hypersensitivity vasculitis.  
+We present a 25-year-old woman with amyloid goiter due to hypersensitivity vasculitis, who developed transient thyrotoxicosis resembling subacute thyroiditis. 
+She received prednisolone (20 mg/ day) for three years for hypersensitivity vasculitis, and was diagnosed as having secondary amyloidosis by biopsies of the stomach, rectum and kidneys. 
+She noticed neck swelling with severe right neck tenderness, palpitation, hyperhidrosis and weight loss. 
+An elastic firm diffuse goiter was palpable, and the upper pole of the right lobe was extremely tender. 
+Her serum free T4 and T3 levels were high, and the serum TSH was suppressed to subnormal. 
+She was positive for serum C-reactive protein. 
+Anti-thyroidal autoantibodies were all negative. 
+Her thyrotoxicosis subsided spontaneously within one week. 
+Serum titers of antibodies to various viruses were unchanged during the clinical course for two weeks, but she was positive for HLA  B35. 
+Examination of a needle-biopsy specimen of the thyroid gland showed extensive amyloid deposition and no evidence of subacute thyroiditis. 
+We considered her transient thyrotoxicosis to be associated with amyloid goiter. 
+The clinical course of this case was similar to the subacute thyroiditis-like syndrome, first described by Ikenoue et al. 
+When patients with primary or secondary amyloidosis have symptoms and signs of subacute thyroiditis, but develop an unusual course, amyloid goiter should be considered. 
+Subacute thyroiditis during treatment with combination therapy (interferon plus ribavirin) for hepatitis C virus.  
+Autoimmune thyroiditis has been frequently reported during interferon monotherapy for hepatitis C, but there are few reports concerning subacute thyroiditis. 
+Recently, combination therapy of IFN plus ribavirin has become the preferred therapeutic schedule for chronic hepatitis C. 
+Similarly to interferon monotherapy, there are no reports concerning subacute thyroiditis during combination therapy. 
+We described four episodes of subacute thyroiditis occurring in three patients during antiviral combination therapy. 
+All patients had symptoms compatible with hyperthyroidism, which could be misdiagnosed as IFN side-effects. 
+The antiviral treatment was continued in all three patients and thyroid function  increased progressively with pharmacological treatment for hyperthyroidism. 
+We concluded that subacute thyroiditis may be a complication of combination antiviral therapy and should be investigated in patients presenting with compatible symptoms, in order to differentiate from IFN side-effects. 
+Subacute thyroiditis.  
+Subacute thyroiditis presenting as pyrexia of unknown origin in a patient with human immunodeficiency virus infection.  
+Simultaneous occurrence of subacute thyroiditis and Graves' disease.  
+BACKGROUND: Rare cases of Graves' disease occurring years after subacute thyroiditis (SAT) have been reported. 
+Here, we present the first known case of simultaneous occurrence of Graves' disease and SAT. 
+PATIENT FINDINGS: A 41-year-old woman presented with 10 days of neck pain, dysphagia, and hyperthyroid symptoms. 
+Neck pain had initially started at the base of the right anterior neck and gradually spread to her upper chest, the left side of her neck, and bilateral ears. 
+Physical examination revealed a heart rate of 110 beats/minute and a diffusely enlarged tender thyroid gland without evidence of orbitopathy. 
+There was a resting tremor of the fingers and brisk deep tendon reflexes. 
+Laboratory values: thyrotropin<0.01 mcIU/mL (nL 0.39-5.33), free thyroxine 2.0 ng/dL (nL 0.59-1.60), free T3 6.6 pg/mL (nL 2.3-4.2), thyroglobulin 20.1 ng/mL (nL 2.0-35.0), thyroglobulin antibody 843 IU/mL (nL 0-80), thyroperoxidase antibody 130 IU/mL (nL 0-29), thyroid stimulating hormone receptor antibody 22.90 IU/L (nL<1.22), thyroid stimulating immunoglobulins 299 units (nL<140), erythrocyte sedimentation rate 120 mm/h (nL 0-20), and C-reactive protein 1.117 mg/dL (nL 0-0.5). 
+Human leukocyte antigen (HLA) typing revealed DRB1, DR8, B35, B39, DQB1, DQ4, and DQ5. 
+A thyroid ultrasound showed an enlarged  heterogeneous gland with mild hypervascularity. 
+Fine-needle aspiration (FNA) biopsies of both thyroid lobes revealed granulomatous thyroiditis. 
+The thyroid scan showed a diffusely enlarged gland and heterogeneous trapping. 
+There was a focal area of relatively increased radiotracer accumulation in the right upper pole. 
+The 5-hour uptake ((123)I) was 6.6% (nL 4-15). 
+The patient was symptomatically treated. 
+Over the next several weeks, she developed hypothyroidism requiring levothyroxine treatment. 
+SUMMARY: This case illustrates a rare simultaneous occurrence of Graves' disease  and SAT. 
+Previous case studies have shown that Graves' disease may develop months to years after an episode of SAT. 
+A strong family history of autoimmune thyroid disorders was noted in this patient. 
+Genetic predilection was also shown by HLA typing. 
+CONCLUSION: Although the occurrence of SAT with Graves' disease may be coincidental, SAT-induced autoimmune alteration may promote the development of Graves' disease in susceptible patients. 
+Genetically mediated mechanisms, as seen in this patient by HLA typing and a strong family history, may also be involved. 
+Odynophagia after viral infection.  
+Atypical subacute thyroiditis caused by Epstein-Barr virus infection in a three-year-old girl.  
+Subacute thyroiditis is a rare disease in childhood and is considered postviral in origin. 
+Epstein-Barr virus (EBV) involvement has been suspected, but just once demonstrated in an adult female. 
+We report a case of subacute thyroiditis during  infectious mononucleosis in a 3-year-old girl. 
+The diagnosis of infectious mononucleosis was supported, in addition to the typical clinical symptoms, by presence of EBV DNA both in plasma and leukocytes. 
+Subacute thyroiditis was diagnosed based on elevated thyroid hormone levels with thyrotropin (TSH) suppression, high inflammation markers and almost absent (99)TC uptake by thyroid. 
+Moreover after 3 months from diagnosis thyroid function went back to normal as well as the (99)TC uptake. 
+Failure in detection of Epstein-Barr virus and cytomegalovirus in specimen obtained by fine needle aspiration biopsy of thyroid in patients with subacute thyroiditis.  
+To study the possible role of viral infection in the etiology of subacute thyroiditis (SAT), we measured serum virus-specific antibodies to measles, rubella, mumps, type I herpes, chicken pox, human parvovirus B19 and cytomegalovirus (CMV) in 10 patients with SAT during the course of illness. 
+In spite of the presence of IgG to each virus in more than 70% of patients, no significant changes in the IgG titers were observed except those to measles, rubella, chicken pox or CMV in only 10% of patients, respectively. 
+Then we examined the presence of virus DNA in specimens of 9 patients with SAT obtained by fine-needle aspiration biopsy (FNAB) of the thyroid. 
+DNA was amplified to detect that of Epstein-Barr virus and CMV by polymerase chain reaction. 
+However,  none of them were detected in all the specimens. 
+Whereas previous studies suggest the involvement of viral infection in the pathogenesis of SAT, we failed to demonstrate significant changes in serum antiviral antibody titers or to detect viral DNA in the specimens obtained by FNAB of the thyroid. 
+Thus further studies  are clearly required to establish the definite role of viral infection in the pathogenesis of SAT. 
+The Oral Bacterial Communities of Children with Well-Controlled HIV Infection and without HIV Infection.  
+The oral microbial community (microbiota) plays a critical role in human health and disease. 
+Alterations in the oral microbiota may be associated with disorders  such as gingivitis, periodontitis, childhood caries, alveolar osteitis, oral candidiasis and endodontic infections. 
+In the immunosuppressed population, the spectrum of potential oral disease is even broader, encompassing candidiasis, necrotizing gingivitis, parotid gland enlargement, Kaposi's sarcoma, oral warts and other diseases. 
+Here, we used 454 pyrosequencing of bacterial 16S rRNA genes  to examine the oral microbiome of saliva, mucosal and tooth samples from HIV-positive and negative children. 
+Patient demographics and clinical characteristics were collected from a cross-section of patients undergoing routine dental care. 
+Multiple specimens from different sampling sites in the mouth were collected for each patient. 
+The goal of the study was to observe the potential diversity of the oral microbiota among individual patients, sample locations, HIV status and various dental characteristics. 
+We found that there were significant differences in the microbiome among the enrolled patients, and between sampling locations. 
+The analysis was complicated by uneven enrollment in  the patient cohorts, with only five HIV-negative patients enrolled in the study and by the rapid improvement in the health of HIV-infected children between the time the study was conceived and completed. 
+The generally good oral health of the HIV-negative patients limited the number of dental plaque samples that could be collected. 
+We did not identify significant differences between well-controlled HIV-positive patients and HIV-negative controls, suggesting that well-controlled  HIV-positive patients essentially harbor similar oral flora compared to patients  without HIV. 
+Nor were significant differences in the oral microbiota identified between different teeth or with different dental characteristics. 
+Additional studies are needed to better characterize the oral microbiome in children and those with poorly-controlled HIV infections. 
+Protective effects of the mechanistic target of rapamycin against excess iron and ferroptosis in cardiomyocytes.  
+Comment in     Am J Physiol Heart Circ Physiol. 
+2018 Apr 1;314(4):H772-H775. 
+Heme oxygenase-1 mediates BAY 11-7085 induced ferroptosis.  
+Ferroptosis is a form of oxidative cell death and has become a chemotherapeutic target for cancer treatment. 
+BAY 11-7085 (BAY), which is a well-known IκBα inhibitor, suppressed viability in cancer cells via induction of ferroptotic death in an NF-κB-independent manner. 
+Reactive oxygen species scavenging, relief  of lipid peroxidation, replenishment of glutathione and thiol-containing agents,  as well as iron chelation, rescued BAY-induced cell death. 
+BAY upregulated a variety of Nrf2 target genes related to redox regulation, particularly heme oxygenase-1 (HO-1). 
+Studies with specific inhibitors and shRNA interventions suggested that the hierarchy of induction is Nrf2-SLC7A11-HO-1. 
+SLC7A11 inhibition by erastin, sulfasalazine, or shRNA interference sensitizes BAY-induced cell death. 
+Overexperession of SLC7A11 attenuated BAY-inhibited cell  viability. 
+The ferroptotic process induced by hHO-1 overexpression further indicated that HO-1 is a key mediator of BAY-induced ferroptosis that operates through cellular redox regulation and iron accumulation. 
+BAY causes compartmentalization of HO-1 into the nucleus and mitochondrion, and followed mitochondrial dysfunctions, leading to lysosome targeting for mitophagy. 
+In this  study, we first discovered that BAY induced ferroptosis via Nrf2-SLC7A11-HO-1 pathway and HO-1 is a key mediator by responding to the cellular redox status. 
+To eat or not to eat-the metabolic flavor of ferroptosis.  
+Ferroptosis is a newly defined iron-dependent, non-apoptotic mode of cell death with necrotic morphology. 
+Distinctive from other death mechanisms, ferroptosis requires cellular iron and lipid peroxides, and is dictated by specific cellular  metabolic processes. 
+Importantly, ferroptosis has been implicated in a plethora of human diseases. 
+This paper reviews the recent advances and outstanding questions of the field by focusing on the role of cellular metabolism in ferroptosis. 
+The relevance of ferroptosis to disease and therapy is also discussed. 
+Heme oxygenase-1 mitigates ferroptosis in renal proximal tubule cells.  
+Comment in     Am J Physiol Renal Physiol. 
+2017 Oct 1;313(4):F959-F960. 
+Ferroptosis: A Novel Anti-tumor Action for Cisplatin.  
+PURPOSE: Ferroptosis is a new mode of regulated cell death, which is completely distinct from other cell death modes based on morphological, biochemical, and genetic criteria. 
+This study evaluated the therapeutic role of ferroptosis in classic chemotherapy drugs, including the underlying mechanism. 
+MATERIALS AND METHODS: Cell viabilitywas detected by using the methylthiazoltetrazlium dye uptake method. 
+RNAiwas used to knockout iron-responsive element binding protein 2, and polymerase chain reaction, western blot was used to evaluate the efficiency. 
+Intracellular reduced glutathione level and glutathione peroxidases activitywere determined by related assay kit. 
+Intracellularreactive oxygen species levelswere determined by flowcytometry. 
+Electron microscopywas used to observe ultrastructure changes in cell. 
+RESULTS: Among five chemotherapeutic drugs screened in this study, cisplatin was  found to be an inducer for both ferroptosis and apoptosis in A549 and HCT116 cells. 
+The depletion of reduced glutathione caused by cisplatin and the inactivation of glutathione peroxidase played the vital role in the underlying mechanism. 
+Besides, combination therapy of cisplatin and erastin showed significant synergistic effect on their anti-tumor activity. 
+CONCLUSION: Ferroptosis had great potential to become a new approach in anti-tumor therapies and make up for some classic drugs, which open up a new way  for their utility in clinic. 
+Paternal origin of FGFR3 mutations in Muenke-type craniosynostosis.  
+Muenke syndrome, also known as FGFR3-associated coronal synostosis, is defined molecularly by the presence of a heterozygous nucleotide transversion, c.749C>G,  encoding the amino acid substitution Pro250Arg, in the fibroblast growth factor receptor type 3 gene (FGFR3). 
+This frequently occurs as a new mutation, manifesting one of the highest documented rates for any transversion in the human genome. 
+To understand the biology of this mutation, we have investigated its parental origin, and the ages of the parents, in 19 families with de novo c.749C>G mutations. 
+All ten informative cases originated from the paternal allele (95% confidence interval 74-100% paternal); the average paternal age at birth overall was 34.7 years. 
+An exclusive paternal origin of mutations, and increased  paternal age, were previously described for a different mutation (c.1138G>A) of the FGFR3 gene causing achondroplasia, as well as for mutations of the related FGFR2 gene causing Apert, Crouzon and Pfeiffer syndromes. 
+We conclude that similar biological processes are likely to shape the occurrence of this c.749C>G  mutation as for other mutations of FGFR3 as well as FGFR2. 
+Trigonocephaly in Muenke syndrome.  
+Saethre-Chotzen syndrome is caused by mutations in the TWIST gene on chromosome 7p21.2. 
+However, Muenke et al. 
+[(1997); Am J Hum Genet 91: 555-564] described a new subgroup carrying the Pro250Arg mutation in the fibroblast growth factor receptor (FGFR) 3 gene on chromosome 4p16. 
+Uni or bicoronal synostosis appears to be the main clinical finding in both syndromes. 
+We observed trigonocephaly as a new manifestation in Muenke syndrome. 
+As a consequence we advise to routinely perform mutation analysis of the FGFR1, 2, and 3 genes in children with non-syndromic trigonocephaly. 
+Significant phenotypic variability of Muenke syndrome in identical twins.  
+Muenke syndrome (MS), also known as Muenke nonsyndromic coronal craniosynostosis, is an autosomal dominant condition which can be distinguished from the more common forms of acrocephalosyndactyly but presents a significant variable phenotype. 
+We report on a set of identical twins with a de novo C749G mutation in the FGFR3 gene codon 250 after a pregnancy complicated by prenatal exposure to Nortriptyline. 
+These patients illustrate the variable expressivity of MS in association with an identical gene mutation. 
+Sudden infant death in a patient with FGFR3 P250R mutation.  
+P250R mutation in the FGFR3 gene also known as Muenke syndrome is associated with coronal craniosynostosis, sensorineural deafness, craniofacial, and digital abnormalities. 
+We report a family with this mutation associated with sudden death in an affected newborn, most probably due to upper airway obstruction. 
+A familial case of Muenke syndrome. Diverse expressivity of the FGFR3 Pro252Arg mutation--case report and review of the literature.  
+Muenke is a fibroblast growth factor receptor 3 (FGFR-3)-associated syndrome, which was first described in late 1990 s. 
+Muenke syndrome is an autosomal dominant disorder characterized mainly by coronal suture craniosynostosis, hearing impairment and intellectual disability. 
+The syndrome is defined molecularly by a unique point mutation c.749C > G in exon 7 of the FGFR3 gene which results to an amino acid substitution p.Pro250Arg of the protein product. 
+Despite the fact that the mutation rate at this nucleotide is one of the most frequently described in human genome, few Muenke familial case reports are published in current literature. 
+We describe individuals among three generations  of a Greek family who are carriers of the same mutation. 
+Medical record and physical examination of family members present a wide spectrum of clinical manifestations. 
+In particular, a 38-year-old woman and her father appear milder clinical findings regarding craniofacial characteristics compared to her uncle and newborn female child. 
+This familial case illustrates the variable expressivity of Muenke syndrome in association with an identical gene mutation. 
+Clinical and molecular diagnosis of the skeletal dysplasias associated with mutations in the gene encoding Fibroblast Growth Factor Receptor 3 (FGFR3) in Portugal.  
+Mutations in the gene that encodes Fibroblast Growth Factor Receptor 3 (FGFR3) are associated with Achondroplasia (MIM 100800), Hypochondroplasia (MIM 146000),  Muenke Syndrome (MIM 602849), Thanatophoric Dysplasia (MIM 187600, MIM 187601) and Lacrimo-Auriculo-Dento-Digital Syndrome (MIM 149730).Here we report a clinical and molecular study in a large cohort of 125 Portuguese patients with these skeletal disorders. 
+The identification of the P250R mutation allowed the confirmation of the Muenke Syndrome in 9 out of the 52 cases referred. 
+Two known  mutations were found in the Thanatophoric Dysplasia referred cases. 
+No mutations  were identified in the LADD syndrome patient. 
+In Achondroplasia and Hypochondroplasia, genetic heterogeneity was present amongst the 70 clinically diagnosed patients with 5 different mutations identified. 
+As in other studies, complex phenotypic heterogeneity amongst patients carrying the same gene defect was observed. 
+In several cases, the new amino acids encoded, as a consequence of  mutations, were related to the severity of patients' phenotype. 
+The presence of 10 misdiagnosed cases emphasizes the importance of performing mutation analysis of the hotspot regions responsible for both dysplasias (Ach and Hch). 
+For patients with an unquestionable clinical diagnosis, lacking the most common mutations, a complete screening of FGFR3 is necessary. 
+Craniofacial morphology in Muenke syndrome.  
+The purpose of this study was to test whether the severity of the cranial phenotype in Muenke syndrome infants with unicoronal synostosis is greater than in infants with nonsyndromic unicoronal synostosis. 
+A total of 23 infants were included in the study. 
+All infants included in the study had a computed tomography (CT)-verified synostosis of the coronal suture. 
+The patients were either placed into the "Muenke" group (n=11) or the "non-Muenke" control group (n=12) on the basis of a test for the P250R mutation in the FGFR3 gene. 
+On the basis of CT scans, a three-dimensional surface model corresponding to bone was created for each individual. 
+The sutures were inspected for synostosis, and the degree of synostosis was assessed. 
+Increased digital markings were recorded for both groups. 
+Craniofacial morphology was assessed quantitatively using bony landmarks and recording of the midsagittal surface of the calvaria, cranial base, and maxillary complex. 
+Increased digital markings were more severe posteriorly in Muenke patients than in non-Muenke patients. 
+The Muenke patients with unilateral  coronal synostosis showed a somewhat more severe asymmetry in the anterior part of the skull than the non-Muenke patients. 
+The study indicates differences with regard to severity of increased digital markings and craniofacial asymmetry between the infants with Muenke syndrome and the infants with nonsyndromic unilateral coronal synostosis. 
+Muenke syndrome mutation, FgfR3P²⁴⁴R, causes TMJ defects.  
+Muenke syndrome is characterized by various craniofacial deformities and is caused by an autosomal-dominant activating mutation in fibroblast growth factor receptor 3 (FGFR3(P250R) ). 
+Here, using mice carrying a corresponding mutation (FgfR3(P244R) ), we determined whether the mutation affects temporomandibular joint (TMJ) development and growth. 
+In situ hybridization showed that FgfR3 was expressed in condylar chondroprogenitors and maturing chondrocytes that also expressed the Indian hedgehog (Ihh) receptor and transcriptional target Patched 1(Ptch1). 
+In FgfR3(P244R) mutants, the condyles displayed reduced levels of Ihh expression, H4C-positive proliferating chondroprogenitors, and collagen type II-  and type X-expressing chondrocytes. 
+Primary bone spongiosa formation was also disturbed and was accompanied by increased osteoclastic activity and reduced trabecular bone formation. 
+Treatment of wild-type condylar explants with recombinant FGF2/FGF9 decreased Ptch1 and PTHrP expression in superficial/polymorphic layers and proliferation in chondroprogenitors. 
+We also observed early degenerative changes of condylar articular cartilage, abnormal development of the articular eminence/glenoid fossa in the TMJ, and fusion of the articular disc. 
+Analysis of our data indicates that the activating FgfR3(P244R) mutation disturbs TMJ developmental processes, likely by reducing hedgehog signaling and endochondral ossification. 
+We suggest that a balance between FGF and hedgehog signaling pathways is critical for the integrity of TMJ development  and for the maintenance of cellular organization. 
+Scalp fibroblasts have a shared expression profile in monogenic craniosynostosis.  
+BACKGROUND: Craniosynostosis can be caused by both genetic and environmental factors, the relative contributions of which vary between patients. 
+Genetic testing identifies a pathogenic mutation or chromosomal abnormality in ∼ 21% of cases, but it is likely that further causative mutations remain to be discovered. 
+OBJECTIVE: To identify a shared signature of genetically determined craniosynostosis by comparing the expression patterns in three monogenic syndromes with a control group of patients with non-syndromic sagittal synostosis. 
+METHODS: Fibroblasts from 10 individuals each with Apert syndrome (FGFR2 substitution S252W), Muenke syndrome (FGFR3 substitution P250R), Saethre-Chotzen  syndrome (various mutations in TWIST1) and non-syndromic sagittal synostosis (no  mutation detected) were cultured. 
+The relative expression of ∼ 47,000 transcripts was quantified on Affymetrix arrays. 
+RESULTS: 435, 45 and 46 transcripts were identified in the Apert, Muenke and Saethre-Chotzen groups, respectively, that differed significantly from the controls. 
+Forty-six of these transcripts were shared between two or more syndromes and, in all but one instance, showed the same direction of altered expression level compared with controls. 
+Pathway analysis showed over-representation of the shared transcripts in core modules involving cell-to-cell communication and signal transduction. 
+Individual samples from the Apert syndrome cases could be reliably distinguished from non-syndromic samples based on the gene expression profile, but this was not possible for samples from  patients with Muenke and Saethre-Chotzen syndromes. 
+CONCLUSIONS: Common modules of altered gene expression shared by genetically distinct forms of craniosynostosis were identified. 
+Although the expression profiles cannot currently be used to classify individual patients, this may be overcome by using more sensitive assays and sampling additional tissues. 
+Medial temporal lobe dysgenesis in Muenke syndrome and hypochondroplasia.  
+Hypochondroplasia (HCH) and Muenke syndrome (MS) are caused by mutations on FGFR3 gene. 
+FGFR3 is known to play a role in controlling nervous system development. 
+We describe the clinical and neuroradiological findings of the first two patients, to our knowledge, affected by HCH and MS, respectively, in whom bilateral dysgenesis of the medial temporal lobe structures has been observed. 
+In both patients diagnosis was confirmed by molecular analysis. 
+They were mentally normal and showed similarities in early-onset temporal lobe-related seizures. 
+In both patients EEG recorded bilateral temporal region discharges. 
+MRI detected temporal lobe anomalies with inadequate differentiation between white and gray matter, defective gyri, and abnormally shaped hippocampus. 
+Additional phenotypic features of Muenke syndrome in 2 Dutch families.  
+In about 30% of the patients with syndromal craniosynostosis, a genetic mutation  can be traced. 
+For the purpose of adequate genetic counseling and treatment of these patients, the full spectrum of clinical findings for each specific mutation needs to be appreciated. 
+The Pro250Arg mutation in the FGFR3 gene is found in patients with Muenke syndrome and is one of the most frequently encountered mutations in craniosynostosis syndromes. 
+A number of studies on the relationship  between genotype and phenotype concerning this specific mutation have been published. 
+Two Dutch families with Muenke syndrome were screened for the reported characteristics of this syndrome and for additional features. 
+New phenotypical findings were hypoplasia of the frontal sinus, ptosis of the upper eyelids, dysplastic elbow joints with restricted elbow motion, and mild cutaneous syndactyly. 
+Incidentally, polydactyly, severe ankylosis of the elbow, fusion of cervical vertebrae, and epilepsy were found. 
+Upper eyelid ptosis is thought to be pathognomonic for Saethre-Chotzen syndrome but was also observed in our series of patients with Muenke syndrome. 
+Because Muenke and Saethre-Chotzen syndrome can have similar phenotypes, DNA analysis is needed to distinguish between these syndromes, even when a syndrome diagnosis is already made in a family member. 
+A Korean family with the Muenke syndrome.  
+The Muenke syndrome (MS) is characterized by unicoronal or bicoronal craniosynostosis, midfacial hypoplasia, ocular hypertelorism, and a variety of minor abnormalities associated with a mutation in the fibroblast growth factor receptor 3 (FGFR3) gene. 
+The birth prevalence is approximately one in 10,000 live births, accounting for 8-10% of patients with coronal synostosis. 
+Although MS is  a relatively common diagnosis in patients with craniosynostosis syndromes, with autosomal dominant inheritance, there has been no report of MS, in an affected Korean family with typical cephalo-facial morphology that has been confirmed by molecular studies. 
+Here, we report a familial case of MS in a female patient with a Pro250Arg mutation in exon 7 (IgII-IGIII linker domain) of the FGFR3 gene. 
+This patient had mild midfacial hypoplasia, hypertelorism, downslanting palpebral fissures, a beak shaped nose, plagio-brachycephaly, and mild neurodevelopmental delay. 
+The same mutation was confirmed in the patient's mother, two of the mother's sisters and the maternal grandfather. 
+The severity of the cephalo-facial anomalies was variable among these family members. 
+Muenke syndrome (FGFR3-related craniosynostosis): expansion of the phenotype and  review of the literature.  
+Muenke syndrome is an autosomal dominant disorder characterized by coronal suture craniosynostosis, hearing loss, developmental delay, carpal and tarsal fusions, and the presence of the Pro250Arg mutation in the FGFR3 gene. 
+Reduced penetrance  and variable expressivity contribute to the wide spectrum of clinical findings in Muenke syndrome. 
+To better define the clinical features of this syndrome, we initiated a study of the natural history of Muenke syndrome. 
+To date, we have conducted a standardized evaluation of nine patients with a confirmed Pro250Arg mutation in FGFR3. 
+We reviewed audiograms from an additional 13 patients with Muenke syndrome. 
+A majority of the patients (95%) demonstrated a mild-to-moderate, low frequency sensorineural hearing loss. 
+This pattern of hearing loss was not previously recognized as characteristic of Muenke syndrome. 
+ We also report on feeding and swallowing difficulties in children with Muenke syndrome. 
+Combining 312 reported cases of Muenke syndrome with data from the nine NIH patients, we found that females with the Pro250Arg mutation were significantly more likely to be reported with craniosynostosis than males (P < 0.01). 
+Based on our findings, we propose that the clinical management should include audiometric and developmental assessment in addition to standard clinical care and appropriate genetic counseling. 
+Muenke syndrome.  
+BACKGROUND: Muenke syndrome is a genetically determined craniosynostosis that involves one or both coronal sutures. 
+In some patients it is associated with skeletal abnormalities such as thimble-like middle phalanges, coned epiphysis, and/or neurological impairment, namely sensorineural hearing loss or mental retardation. 
+In spite of a variable phenotype, Muenke syndrome has been related to a unique mutation on the FGFR3 gene, Pro 250 to Arg, which is characteristic of this disease. 
+Because of the incomplete penetrance of this anomaly, the suspicion of Muenke syndrome must be raised in any child with uni- or bilateral coronal craniosynostosis, and the genetic analysis propounded even in the absence of extracranial features. 
+ILLUSTRATIVE CASES: We report the cases of two sisters who presented with Muenke  syndrome and whose affected mother did not have any form of craniosynostosis. 
+Epilepsy in Muenke syndrome: FGFR3-related craniosynostosis.  
+Epilepsy, a neurologic disorder characterized by the predisposition to recurrent  unprovoked seizures, is reported in more than 300 genetic syndromes. 
+Muenke syndrome is an autosomal-dominant craniosynostosis syndrome characterized by unilateral or bilateral coronal craniosynostosis, hearing loss, intellectual disability, and relatively subtle limb findings such as carpal bone fusion and tarsal bone fusion. 
+Muenke syndrome is caused by a single defining point mutation in the fibroblast growth factor receptor 3 (FGFR3) gene. 
+Epilepsy rarely occurs in individuals with Muenke syndrome, and little detail is reported on types of epilepsy, patient characteristics, and long-term outcomes. 
+We present seven patients with Muenke syndrome and seizures. 
+A review of 789 published cases of Muenke syndrome, with a focus on epilepsy and intracranial anomalies in Muenke syndrome, revealed epilepsy in six patients, with intracranial anomalies in five. 
+The occurrence of epilepsy in Muenke syndrome within our cohort of 58 patients, of whom seven manifested epilepsy, and the intracranial anomalies and epilepsy reported in the literature, suggest that patients with Muenke syndrome may be at  risk for epilepsy and intracranial anomalies. 
+Furthermore, the impact of Muenke syndrome on the central nervous system may be greater than previously thought. 
+Skeletal analysis of the Fgfr3(P244R) mouse, a genetic model for the Muenke craniosynostosis syndrome.  
+Muenke syndrome, defined by heterozygosity for a Pro250Arg substitution in fibroblast growth factor receptor 3 (FGFR3), is the most common genetic cause of  craniosynostosis in humans. 
+We have used gene targeting to introduce the Muenke syndrome mutation (equivalent to P244R) into the murine Fgfr3 gene. 
+A rounded skull and shortened snout (often skewed) with dental malocclusion was observed in a minority of heterozygotes and many homozygotes. 
+Development of this incompletely penetrant skull phenotype was dependent on genetic background and sex, with males more often affected. 
+However, these cranial abnormalities were rarely attributable to craniosynostosis, which was only present in 2/364 mutants; more commonly, we found fusion of the premaxillary and/or zygomatic sutures. 
+We also found decreased cortical thickness and bone mineral densities in long bones. 
+We conclude that although both cranial and long bone development is variably affected by the murine Fgfr3(P244R) mutation, coronal craniosynostosis is not reliably reproduced. 
+Talocalcaneal coalition in Muenke syndrome: report of a patient, review of the literature in FGFR-related craniosynostoses, and consideration of mechanism.  
+Muenke syndrome is an autosomal dominant craniosynostosis syndrome resulting from a defining point mutation in the Fibroblast Growth Factor Receptor3 (FGFR3) gene. 
+Muenke syndrome is characterized by coronal craniosynostosis (bilateral more often than unilateral), hearing loss, developmental delay, and carpal and/or tarsal bone coalition. 
+Tarsal coalition is a distinct feature of Muenke syndrome  and has been reported since the initial description of the disorder in the 1990s. 
+Although talocalcaneal coalition is the most common tarsal coalition in the general population, it has never previously been reported in a patient with Muenke syndrome. 
+We present a 7-year-old female patient with Muenke syndrome and  symptomatic talocalcaneal coalition. 
+She presented at the age of 7 with limping,  tenderness and pain in her right foot following a fall and strain of her right foot. 
+She was treated with ibuprofen, shoe inserts, a CAM walker boot, and stretching exercises without much improvement in symptoms. 
+A computed tomography  (CT) scan revealed bilateral talocalcaneal coalitions involving the middle facet. 
+She underwent resection of the talocalcaneal coalitions, remaining pain-free post-operatively with an improvement in her range of motion, gait, and mobility. 
+ This report expands the phenotype of tarsal coalition in Muenke syndrome to include talocalcaneal coalition. 
+A literature review revealed a high incidence of tarsal coalition in all FGFR related craniosynostosis syndromes when compared to  the general population, a difference that is statistically significant. 
+The most  common articulation involved in all syndromic craniosynostoses associated with FGFR mutations is the calcaneocuboid articulation. 
+COUGER--co-factors associated with uniquely-bound genomic regions.  
+Most transcription factors (TFs) belong to protein families that share a common DNA binding domain and have very similar DNA binding preferences. 
+However, many paralogous TFs (i.e. 
+members of the same TF family) perform different regulatory  functions and interact with different genomic regions in the cell. 
+A potential mechanism for achieving this differential in vivo specificity is through interactions with protein co-factors. 
+Computational tools for studying the genomic binding profiles of paralogous TFs and identifying their putative co-factors are currently lacking. 
+Here, we present an interactive web implementation of COUGER, a classification-based framework for identifying protein co-factors that might provide specificity to paralogous TFs. 
+COUGER takes as input two sets of genomic regions bound by paralogous TFs, and it identifies a small set of putative co-factors that best distinguish the two sets of sequences. 
+To achieve this task, COUGER uses a classification approach, with features that reflect the DNA-binding specificities of the putative co-factors. 
+The identified  co-factors are presented in a user-friendly output page, together with information that allows the user to understand and to explore the contributions of individual co-factor features. 
+COUGER can be run as a stand-alone tool or through a web interface: http://couger.oit.duke.edu. 
+Predictors of outcome in prolonged posttraumatic disorders of consciousness and assessment of medication effects: A multicenter study.  
+OBJECTIVES: To develop predictive models of recovery from the vegetative state (VS) and minimally conscious state (MCS) after traumatic brain injury (TBI) and to gather preliminary evidence on the impact of various psychotropic medications  on the recovery process to support future randomized controlled trials. 
+Design Longitudinal observational cohort design, in which demographic information, injury and acute care history, neuroimaging data, and an initial Disability Rating Scale (DRS) score were collected at the time of study enrollment. 
+Weekly follow-up data, consisting of DRS score, current psychoactive medications, and medical complications, were gathered until discharge from inpatient rehabilitation. 
+SETTING: Seven acute inpatient rehabilitation facilities in the United States and Europe with specialized programs for treating patients in the VS and MCS. 
+PARTICIPANTS: People with TBI (N=124) who were in the VS or MCS 4 to 16 weeks after injury. 
+INTERVENTIONS: Not applicable. 
+MAIN OUTCOME MEASURES: DRS score at 16 weeks after injury and time until commands were first followed (among those participants demonstrating no command following  at study enrollment). 
+Results DRS score at enrollment, time between injury and enrollment, and rate of DRS change during the first 2 weeks of poststudy observation were all highly predictive of both outcomes. 
+No variables related to  injury characteristics or lesions on neuroimaging were significant predictors. 
+Of the psychoactive medications, amantadine hydrochloride was associated with greater recovery and dantrolene sodium was associated with less recovery, in terms of the DRS score at 16 weeks but not the time until commands were followed. 
+More detailed analysis of the timing of functional improvement, with respect to the initiation of amantadine provided suggestive, but not definitive, evidence of the drug's causal role. 
+CONCLUSIONS: These findings show the feasibility of improving outcome prediction  from the VS and MCS using readily available clinical variables and provide suggestive evidence for the effects of amantadine and dantrolene, but these results require confirmation through randomized controlled trials. 
+Amantadine sulfate (PK-Merz) in the treatment of ischemic stroke: a clinical-experimental study.  
+Pharmacokinetics of amantadine in children with impaired consciousness due to acquired brain injury: preliminary findings using a sparse-sampling technique.  
+OBJECTIVE: To evaluate the pharmacokinetics of amantadine in children with impaired consciousness from acquired brain injury. 
+DESIGN: Randomized, double-blind, placebo-controlled, crossover study with sparse sampling for pharmacokinetics. 
+SETTING: Tertiary care pediatric hospital. 
+PARTICIPANTS: Children, ages 6-18 years, with impaired consciousness 5-10 weeks after acquired brain injury. 
+METHODS: Subjects received amantadine for 3 weeks. 
+Subjects were randomized to placebo or amantadine 4 mg/kg/day for 7 days followed by 6 mg/kg/day for 14 days. 
+Crossover was after a 7-day washout period. 
+MAIN OUTCOME MEASURES: The Coma/Near-Coma Scale and Coma Recovery Scale-Revised were done 3 times per week to evaluate arousal and consciousness. 
+Plasma concentrations of amantadine were determined for pharmacokinetic parameter estimation and evaluation of the exposure-response relationship. 
+Adverse events were monitored. 
+RESULTS: Nine subjects met the final inclusion and exclusion criteria, 7 of whom  agreed to participate. 
+Five subjects completed both arms of the study. 
+Amantadine total body clearance was 0.17 L/h/kg with a half-life of 13.9 hours. 
+Higher exposure of amantadine (average concentration of amantadine during 6 mg/kg/day >  1.5 mg/L) may be associated with better recovery of consciousness. 
+CONCLUSIONS: Amantadine was well-tolerated in children with acquired brain injury and demonstrates pharmacokinetics similar to those reported for healthy young adults. 
+Based on the preliminary data, higher dosing may be considered in the setting of brain injury. 
+Use of amantadine sulfate (PK-MERZ) during emergence from coma: results of a multicenter study.  
+Awakenings and awareness recovery in disorders of consciousness: is there a role  for drugs?  
+Disorders of consciousness (DOC) include coma, vegetative state (VS) and minimally conscious state (MCS). 
+Coma is a condition of unarousability with a complete absence of wakefulness and awareness, whereas VS is characterized by a lack of awareness despite a preserved wakefulness. 
+Patients in coma are unconscious because they lack both wakefulness and awareness. 
+Patients in a VS are unconscious because, although they are wakeful, they lack awareness. 
+Patients in a MCS show minimal but definite behavioural evidence of self and environmental awareness. 
+Coma results from diffuse bilateral hemispheric lesions or selective damage to the ascending reticular system (which is functionally connected to the  cerebral cortex by intralaminar thalamic nuclei). 
+VS is a syndrome that is considered to be the result of a disconnection of different cortical networks rather than a dysfunction of a single area or a global reduction in cortical metabolism. 
+As revealed by functional imaging studies, clinical recovery is often associated with a functional restoration of cortico-thalamo-cortical connections. 
+Depending on the amount of network restored, patients may regain full consciousness or remain in a MCS. 
+Molecular and neural mediators may indirectly contribute to the above restoration processes owing to their role in the phenomenon of neural synaptic plasticity. 
+Therefore, there is growing interest in the possible effects of drugs that act at the level of the CNS in promoting emergence from DOC. 
+Sporadic cases of dramatic recovery from DOC after the administration of various pharmacological agents, such as baclofen, zolpidem and  amantadine, have been recently supported by intriguing scientific observations. 
+Analysis of the reported cases of recovery, with particular attention paid to the condition of the patients and to the association of their improvement with the start of drug administration, suggests that these treatments might have promoted  the clinical improvement of some patients. 
+These drugs are from various and diverging classes, but can be grouped into two main categories, CNS stimulants and CNS depressants. 
+Some of these treatments seem to directly encourage a consciousness restoration, while others play a more determinant role in improving cognitive domains, especially in patients with residual cognitive impairment, than in the field of consciousness. 
+Given the great interest recently generated in the scientific community by the increasing number of papers addressing this issue, further investigation of the above treatments, with particular attention paid to their mechanisms of action, the neurotransmitters involved and their effects on cortico-thalamo-cortical circuitry, is needed. 
+Placebo-controlled trial of amantadine for severe traumatic brain injury.  
+Comment in     N Engl J Med. 
+2012 Jun 21;366(25):2427; author reply 2427-8. 
+    N Engl J Med. 
+2012 Jun 21;366(25):2427; author reply 2427-8. 
+Vegetative state and minimally conscious state: a review of the therapeutic interventions.  

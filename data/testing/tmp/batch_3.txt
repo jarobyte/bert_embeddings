@@ -1,0 +1,400 @@
+Compliance and patience is needed when meeting patients with personality disorder To encounter patients with personality disorders in health care settings is often challenging. 
+Most treatment studies published have included only patients with borderline personality disorder. 
+Of evaluated psychological treatments in borderline personality disorder, dialectical behaviour therapy (DBT) has the strongest research support, followed by mentalization based therapy (MBT). 
+Pharmacological treatment in personality disorders should focus on time-limited crisis intervention and treatment of comorbidity. 
+There are few studies on inpatient care of persons with personality disorder. 
+However, there are some interesting projects on brief self-directed inpatient stays as crisis intervention. 
+There is a consensus to avoid long inpatient stays and coercive measures as far as possible. 
+Dialectical behavior therapy skills use as a mediator and outcome of treatment for borderline personality disorder.  
+A central component of Dialectical Behavior Therapy (DBT) is the teaching of specific behavioral skills with the aim of helping individuals with Borderline Personality Disorder (BPD) replace maladaptive behaviors with skillful behavior. 
+ Although existing evidence indirectly supports this proposed mechanism of action, no study to date has directly tested it. 
+Therefore, we examined the skills use of 108 women with BPD participating in one of three randomized control trials throughout one year of treatment and four months of follow-up. 
+Using a hierarchical linear modeling approach we found that although all participants reported using some DBT skills before treatment started, participants treated with DBT reported using three times more skills at the end of treatment than participants treated with a control treatment. 
+Significant mediation effects also indicated that DBT skills use fully mediated the decrease in suicide attempts and depression and the increase in control of anger over time. 
+DBT skills use also partially mediated the decrease of nonsuicidal self-injury over time. 
+Anger suppression and expression were not mediated. 
+This study is the first to clearly  support the skills deficit model for BPD by indicating that increasing skills use is a mechanism of change for suicidal behavior, depression, and anger control. 
+Neural correlates of distraction in borderline personality disorder before and after dialectical behavior therapy.  
+Neural underpinnings of emotion dysregulation in borderline personality disorder  (BPD) are characterized by limbic hyperactivity and disturbed prefrontal activity. 
+It is unknown whether neural correlates of emotion regulation change after a psychotherapy which has the goal to improve emotion dysregulation in BPD, such as dialectical behavioral therapy (DBT). 
+We investigated distraction as a main emotion regulation strategy before and after DBT in female patients with BPD. 
+Thirty-one BPD patients were instructed to either passively view or memorize letters before being confronted with negative or neutral pictures in a distraction task during functional magnetic resonance imaging. 
+This paradigm was  applied before and after a 12-week residential DBT-based treatment program. 
+We compared the DBT group to 15 BPD control patients, who continued their usual, non-DBT-based treatment or did not have any treatment, and 22 healthy participants. 
+Behaviorally, BPD groups and healthy participants did not differ significantly with respect to alterations over time. 
+On the neural level, BPD patients who received DBT-based treatment showed an activity decrease in the right inferior parietal lobe/supramarginal gyrus during distraction from negative rather than neutral stimuli when compared to both control groups. 
+This decrease was correlated with improvement in self-reported borderline symptom severity. 
+DBT responders exhibited decreased right perigenual anterior cingulate activity when  viewing negative (rather than neutral) pictures. 
+In conclusion, our findings reveal changes in neural activity associated with distraction during emotion processing after DBT in patients with BPD. 
+These changes point to lower emotional susceptibility during distraction after BPD symptom improvement. 
+The RAZOR (randomized open vs robotic cystectomy) trial: study design and trial update.  
+The purpose of the RAZOR (randomized open vs robotic cystectomy) study is to compare open radical cystectomy (ORC) vs robot-assisted RC (RARC), pelvic lymph node dissection (PLND) and urinary diversion for oncological outcomes, complications and health-related quality of life (HRQL) measures with a primary endpoint of 2-year progression-free survival (PFS). 
+RAZOR is a multi-institutional, randomized, non-inferior, phase III trial that will enrol at least 320 patients with T1-T4, N0-N1, M0 bladder cancer with ≈160 patients in both the RARC and ORC arms at 15 participating institutions. 
+Data will be collected prospectively at each institution for cancer outcomes, complications of surgery and HRQL measures, and then submitted to trial data management services Cancer Research and Biostatistics (CRAB) for final analyses. 
+To date, 306 patients have been randomized and accrual to the RAZOR trial is expected to conclude in 2014. 
+In this study, we report the RAZOR trial experimental design, objectives, data safety, and monitoring, and accrual update. 
+The RAZOR trial is a landmark study in urological oncology, randomizing T1-T4, N0-N1, M0 patients with bladder cancer to ORC vs RARC, PLND and urinary diversion. 
+RAZOR is a multi-institutional, non-inferiority trial evaluating cancer outcomes, surgical complications and HRQL measures of ORC vs RARC with a primary endpoint of 2-year  PFS. 
+Full data from the RAZOR trial are not expected until 2016-2017. 
+Robot-assisted radical cystectomy with intracorporeal urinary diversion - The new 'gold standard'? Evidence from a systematic review.  
+Objective: To investigate whether a totally intracorporeally radical cystectomy (RC) can be considered the new 'gold standard' in bladder cancer, as open RC (ORC) is the current 'gold standard' for surgical treatment of muscle-invasive and high-grade non-muscle-invasive bladder cancer. 
+However, robot-assisted radical cystectomy (RARC) is becoming the preferred surgical approach in many centres as it seems to maintain the oncological control of open surgery whilst offering improved perioperative benefits. 
+Materials and methods: A review of the literature was conducted using the Pubmed/MEDLINE, ISI Web of Knowledge and Cochrane Databases to identify studies that included both ORC and RARC with intracorporeal and extracorporeal urinary diversion (UD) published up to July 2017. 
+Results: Evidence from four single-centre randomised controlled trials and now the multicentre Randomized Trial of Open versus Robotic Cystectomy (RAZOR) trial  demonstrate the oncological equivalence of RARC to ORC. 
+The only convincing evidence for the superiority of RARC is in the area of blood loss and transfusion rates. 
+However, the UD procedure in these trials was performed extracorporeally and, to realise the full benefits of RARC, a totally intracorporeal approach is needed. 
+Intracorporeal UDs (ICUDs) have been shown to be technically feasible by  a few expert centres and have demonstrated some improved short-term perioperative outcomes compared to extracorporeal UDs. 
+Conclusions: Although initial outcomes appear promising, RARC with ICUD is far from gaining 'gold standard' status. 
+Further studies are needed to confirm that outcomes are reproducible widely. 
+Furthermore, the benefits of a totally intracorporeal approach must be confirmed in randomised controlled trials. 
+Robot-assisted radical cystectomy versus open radical cystectomy in patients with bladder cancer (RAZOR): an open-label, randomised, phase 3, non-inferiority trial.  
+Comment in     Lancet. 
+2018 Jun 23;391(10139):2479-2480. 
+    Eur Urol. 
+2018 Dec;74(6):840-841. 
+    Eur Urol. 
+2019 Jan;75(1):199. 
+    Eur Urol. 
+2019 Feb;75(2):e36. 
+    Lancet. 
+2019 Feb 16;393(10172):642-644. 
+    Lancet. 
+2019 Feb 16;393(10172):644-645. 
+    Lancet. 
+2019 Feb 16;393(10172):645. 
+Sirolimus and tuberous sclerosis-associated renal angiomyolipomas.  
+Tuberous sclerosis, caused by germline mutations in the TSC1 or TSC2 genes, is associated with aberrant upregulation of the mammalian target of rapamycin (mTOR) signalling pathway, resulting in growth of tumours, including renal angiomyolipomas (AMLs). 
+AMLs may cause hypertension, renal failure and spontaneous life-threatening haemorrhage. 
+Previously, invasive interventions were required to treat AMLs. 
+More recently, mTOR inhibitors have been used as molecularly targeted treatment to treat AMLs. 
+We present here the case of a paediatric patient with TSC in whom sirolimus has been used successfully to halt  growth of renal AMLs. 
+Genetics and molecular biology of tuberous sclerosis complex.  
+Tuberous Sclerosis Complex is a multisystem disorder exhibiting a wide range of manifestations characterized by tumour-like lesions called hamartomas in the brain, skin, eyes, heart, lungs and kidneys. 
+Tuberous Sclerosis Complex is genetically determined with an autosomal dominant inheritance and is caused by inactivating mutations in either the TSC1 or TSC2 genes. 
+TSC1/2 genes play a fundamental role in the regulation of phosphoinositide 3-kinase (PI3K) signalling pathway, inhibiting the mammalian target of rapamycin (mTOR) through activation of the GTPase activity of Rheb. 
+Mutations in TSC1/2 genes impair the inhibitory function of the hamartin/tuberin complex, leading to phosphorylation of the downstream effectors of mTOR, p70 S6 kinase (S6K), ribosomal protein S6 and the elongation factor binding protein 4E-BP1, resulting in uncontrolled cell growth and tumourigenesis.Despite recent promising genetic, diagnostic, and therapeutic  advances in Tuberous Sclerosis Complex, continuing research in all aspects of this complex disease will be pivotal to decrease its associated morbidity and mortality. 
+In this review we will discuss and analyse all the important findings  in the molecular pathogenesis of Tuberous Sclerosis Complex, focusing on genetics and the molecular mechanisms that define this multisystemic disorder. 
+Expression, purification, crystallization and preliminary structural characterization of the GTPase domain of human Rheb.  
+Ras homologue enriched in brain (Rheb) represents a unique group of small GTPases and shares moderate sequence identity with the Ras/Rap subfamily. 
+It acts downstream of nutrient signalling as the direct target of the tuberous sclerosis  complex (TSC) and upstream of mTOR/S6K1/4EBP in the insulin-signalling pathway. 
+The GTPase domain of human Rheb (hRheb) has been recombinantly expressed in Escherichia coli, purified and cocrystallized in complexes with GDP, GTP and GppNHp using the hanging-drop vapour-diffusion method. 
+Crystals of the hRheb-GDP  complex belong to space group P2(1)2(1)2(1), with unit-cell parameters a = 44.5,  b = 52.3, c = 70.6 A. 
+The hRheb-GppNHp complex crystallized in two crystal forms: one has the same space group and unit-cell parameters as the hRheb-GDP complex and the other belongs to space group C222(1), with unit-cell parameters a = 102.9, b = 99.2, c = 48.0 A. 
+The hRheb-GTP complex also crystallized in two crystal forms: one belongs to space group C222(1), with unit-cell parameters a =  102.4, b = 98.3, c = 47.9 A, and the other belongs to space group P2(1), with unit-cell parameters a = 77.3, b = 47.9, c = 71.9 A, beta = 89.0 degrees. 
+All these crystals diffract X-rays to better than 2.8 A resolution and at least one diffraction data set has been collected for each crystal form using an in-house R-AXIS IV++ diffractometer. 
+Structural studies of hRheb in complexes with various substrates may provide insights into the recognition and specificity of substrate and the catalytic mechanism of mammalian Rhebs and shed light on the biological functions of Rhebs in the mTOR signalling pathway. 
+Rheb promotes cell growth as a component of the insulin/TOR signalling network.  
+Erratum in     Nat Cell Biol. 
+2003 Jul;5(7):680. 
+Rheb is an essential regulator of S6K in controlling cell growth in Drosophila.  
+Understanding the mechanisms through which multicellular organisms regulate cell, organ and body growth is of relevance to developmental biology and to research on growth-related diseases such as cancer. 
+Here we describe a new effector in growth control, the small GTPase Rheb (Ras homologue enriched in brain). 
+Mutations in the Drosophila melanogaster Rheb gene were isolated as growth-inhibitors, whereas overexpression of Rheb promoted cell growth. 
+Our genetic and biochemical analyses suggest that Rheb functions downstream of the tumour suppressors Tsc1 (tuberous sclerosis 1)-Tsc2 in the TOR (target of rapamycin) signalling pathway to control  growth, and that a major effector of Rheb function is ribosomal S6 kinase (S6K). 
+Behavioural and EEG effects of chronic rapamycin treatment in a mouse model of tuberous sclerosis complex.  
+Tuberous Sclerosis Complex (TSC) is a multisystem genetic disorder caused by mutation in either Tsc1 or Tsc2 genes that leads to the hyper activation of the mTOR pathway, a key signalling pathway for synaptic plasticity. 
+TSC is characterized by benign tumors arising in different organs and severe neuropsychiatric symptoms, such as epilepsy, intellectual disability, autism, anxiety and depressive behaviour. 
+Rapamycin is a potent inhibitor of mTOR and its efficacy in treating epilepsy and neurological symptoms remains elusive. 
+In a mouse model in which Tsc1 has been deleted in embryonic telencephalic neural stem cells, we analyzed anxiety- and depression-like behaviour by elevated-plus maze (EPM), open-field test (OFT), forced-swim test (FST) and tail-suspension test (TST), after chronic administration of rapamycin. 
+In addition, spectral analysis  of background EEG was performed. 
+Rapamycin-treated mutant mice displayed a reduction in anxiety- and depression-like phenotype, as shown by the EPM/OFT and  FST, respectively. 
+These results were inline with EEG power spectra outcomes. 
+The same effects of rapamycin were observed in wild-type mice. 
+Notably, in heterozygous animals we did not observe any EEG and/or behavioural variation after rapamycin treatment. 
+Together these results suggest that both TSC1 deletion and chronic rapamycin treatment might have a role in modulating behaviour and brain activity, and point out to the potential usefulness of background EEG analysis in tracking brain dysfunction in parallel with behavioural testing. 
+Tuberous sclerosis: from tubers to mTOR.  
+Tuberous sclerosis (TSC) is an autosomal dominant hamartoma syndrome whose causative genes (TSC1 and TSC2) were identified 5 and 9 years ago respectively. 
+Their encoded proteins are large, and apart from a strong binding interaction with each other, relatively little was known about their biochemical function. 
+Recent studies in Drosophila have pinpointed a critical function for the DrosophilaTSC1/TSC2 homologues in the regulation of cell size. 
+Epistasis experiments and a variety of biochemical studies that followed have indicated a critical function for these proteins in the highly conserved PI-3-kinase-Akt-mTOR signalling pathway. 
+The mTOR/S6K signalling pathway: the role of the TSC1/2 tumour suppressor complex and the proto-oncogene Rheb.  
+Gene deletion studies in mice and in Drosophila have shown that the 40S ribosomal protein S6 Kinases, dS6K in Drosophila and S6K1 and S6K2 in mice are important regulators of cell growth in response to insulin stimulation and nutrition availability. 
+Here we chiefly focus on dS6k and S6K1, whose activities are regulated by an upstream kinase termed the mammalian target of rapamycin (mTOR, or dTOR in Drosophila). 
+Our understanding of the mechanisms regulating the mTOR/S6K1-signalling pathway will be fundamental in determining the mechanisms which control cell growth in response to insulin signalling. 
+Recent findings from this laboratory and others suggests that the tumour suppressor complex made of two proteins TSC1/hamartin and TSC2/tuberin, acts as a negative regulator of mTOR/S6K1 signalling. 
+Mutations in either TSC1 or TSC2 are genetically linked to  tuberous sclerosis complex (TSC) syndrome, which can lead to severe pathological  consequences, including mental retardation, epilepsy and autism, as well as cardiac, pulmonary and renal failure. 
+Despite a large number of initial reports on the TSC1/TSC2 complex, and the finding that its activity is regulated by protein kinase B (PKB), the direct target of the TSC1/TSC2 inhibitory complex was unknown until recently. 
+Since TSC2 has a GTPase-activating domain, or GAP-like sequence, others and we searched for a small GTP binding protein, which may serve as the target of TSC1/TSC2 inhibitory complex. 
+In our case we took advantage of a genome wide screen in Drosophila for effectors of cell growth and in parallel searched for a small GTPase whose activity is up-regulated in TSC2-deficient cells. 
+The identified gene was a member of the Ras family of GTPases termed Ras homologue enriched in brain or Rheb. 
+Here we review recent findings demonstrating that the TSC1/TSC2 inhibitory complex normally acts on Rheb to mediate mTOR/S6K1-signalling. 
+Mutation in TSC2 and activation of mammalian target of rapamycin signalling pathway in renal angiomyolipoma.  
+Mutations that inactivate either TSC1 or TSC2 cause tuberous sclerosis. 
+We have used immunoblotting and immunohistochemical analysis to see whether there is phosphorylation of p70 S6 kinase, and the ribosomal S6 protein in angiomyolipomas occurring in tuberous scierosis. 
+Hamartin (encoded by TSC1) and S6K was expressed in all samples. 
+Tuberin (TSC2) was weak or absent in angiomyolipomas, but present in healthy kidney, whereas, phosphorylated p70 S6 kinase and p56 were present only in angiomyolipomas. 
+Our results indicate activation of a mammalian target of rapamycin metabolic pathway in tuberous sclerosis lesions, which contributes to their growth. 
+We suggest that treatment with rapamycin and its analogues could benefit such patients. 
+Expression of tuberin and hamartin in tuberous sclerosis complex-associated and sporadic cortical dysplasia of Taylor's balloon cell type.  
+Focal cortical dysplasia (FCD) type IIB is a malformation of cortical development characterized by presence of balloon cells. 
+These cells share phenotypic features of giant cells found in tuberous sclerosis complex (TSC), but the relationship between FCD type IIB and TSC is not well established. 
+TSC is an autosomal dominant disorder caused by mutation in either of two genes: TSC1, encoding hamartin, and TSC2, encoding tuberin. 
+Both proteins form a complex inhibiting mTOR signalling pathway and thus regulate cell size and proliferation. 
+In this study, tuberin and hamartin expression was evaluated under a confocal microscope  in six cases of Taylor's balloon cell type FCD. 
+Three patients met the clinical criteria for TSC. 
+In three other patients, TSC was excluded based on a panel of clinical and radiological examinations. 
+Additionally, two cases of FCD type I and 3 samples of normal brain tissue were used as a reference group. 
+We found loss of tuberin and hamartin expression in FCD type IIB lesions from patients with TSC. 
+In sporadic FCD type IIB cases, only a few tuberin and hamartin positive cells were detected in the white-grey matter junction and in deeper parts of the white  matter. 
+Cortical balloon cells showed loss of both tuberin and hamartin. 
+In contrast, the expression of tuberin and hamartin in FCD type I samples was strong, similarly to normal brain tissue. 
+In conclusion, loss of TSC1 and TSC2 products expression in balloon cells of both cortical dysplasia type IIB in TSC-related and sporadic patients suggests that FCD type IIB may represent the focal form of TSC. 
+Tsc tumour suppressor proteins antagonize amino-acid-TOR signalling.  
+Comment in     Nat Cell Biol. 
+2002 Sep;4(9):E214-6. 
+Treatment and management of cluster headache.  
+Cluster headache is an uncommon yet well-defined neurovascular syndrome occurring in both episodic and chronic varieties. 
+The most striking feature of cluster headache is the unmistakable circadian and circannual periodicity. 
+Inheritance may play a role in some families. 
+The attacks are of extreme intensity, of short  duration, occur unilaterally, and are accompanied by signs and symptoms of autonomic dysfunction. 
+In contrast to migraine, during an attack the cluster patient prefers to pace about. 
+Attacks frequently occur at night. 
+Although the pathophysiology of cluster headache remains to be fully elucidated, several seminal observations have recently been made. 
+The medical treatment of cluster headache includes both acute therapy aimed at aborting individual attacks and prophylactic therapy aimed at preventing recurrent attacks during the cluster period. 
+Agents used for acute therapy include inhalation of oxygen, sumatriptan,  and dihydroergotamine. 
+Transitional prophylaxis involves the short-term use of either corticosteroids or ergotamine derivatives. 
+The cornerstone of maintenance  prophylaxis is verapamil, yet methysergide, lithium, and divalproex sodium may also be employed. 
+In some patients, melatonin or topiramate may be useful adjunctive therapies. 
+Diagnosis and treatment of cluster headache.  
+Cluster headache is an uncommon yet distinctive neurovascular syndrome occurring  in either episodic or chronic patterns. 
+The most unique feature of cluster headache is the unmistakable circadian and circannual periodicity. 
+The attacks are stereotypical, that is, of extreme intensity, of short duration, occurring unilaterally, and associated with robust signs and symptoms of autonomic dysfunction. 
+Unlike migraine, during an attack the patient with cluster headache  often paces about. 
+Attacks frequently occur at night, awakening the patient from  sleep. 
+Although the pathophysiology of cluster headache remains to be fully elucidated, several seminal observations have recently been made. 
+The medical treatment of cluster headache includes acute, transitional, and maintenance prophylaxis. 
+Agents used for acute therapy include inhalation of oxygen and triptans, such as sumatriptan, and dihydroergotamine. 
+Transitional prophylaxis refers to the short-term use of fast-acting agents. 
+This typically involves either corticosteroids or ergotamine derivatives. 
+The mainstay of prophylactic therapy is verapamil. 
+Lithium, divalproex sodium, or topiramate may also be useful. 
+As the sophistication of functional neuroimaging increases, so too will our ability to better understand the anatomic and metabolic perturbations that underlie cluster headache. 
+Cluster headache and other trigeminal autonomic cephalalgias: diagnosis and treatment.  
+Cluster headaches are characterized by strictly unilateral paroxysmal attacks of  severe pain with associated autonomic sign and symptom. 
+Prevalence is 5 times higher in men than in women in our cases. 
+About 10-15% of patients have chronic symptoms without remissions, but we estimated less frequent in Japanese (6.6% in  our series). 
+Pain almost invariably recurs on the same side, but in some patients (16.4%) the affected site switches. 
+Cluster headache may be inherited in about 5% of our cases. 
+Attacks frequently occur at night (60.7%). 
+The patients (64.8%) are restless or agitated during an attack. 
+Recent PET studies elucidated that acute attacks causes activation of the posterior hypothalamic grey matter. 
+The excitement of the area might be responsible for peculiar clinical characteristics of agitation. 
+Some patients (66.0%) have also have symptoms (especially a visual  aura) usually attributed to migraine. 
+Treatment of cluster headache includes both acute therapy aimed at aborting individual attacks and prophylactic therapy aimed at preventing recurrent attacks during the cluster period. 
+There are many choices using for both therapies. 
+Based on our clinical experience, we recommended the combination of nasal sumatriptan for acute attacks and verapamil 240 mg/day for prophylaxis. 
+Cluster headache--acute and prophylactic therapy.  
+Cluster headache (CH) pain is the most severe of the primary headache syndromes. 
+ It is characterized by periodic attacks of strictly unilateral pain associated with ipsilateral cranial autonomic symptoms. 
+The majority of patients have episodic CH, with cluster periods that typically occur in a circannual rhythm, while 10% suffer from the chronic form, with no significant remissions between cluster periods. 
+Sumatriptan injection or oxygen inhalation is the first-line therapy for acute CH attacks, with the majority of patients responding to either  treatment. 
+The calcium channel blocker verapamil is the drug of choice for CH prevention. 
+Other drugs that may be used for this purpose include lithium carbonate, topiramate, valproic acid, gabapentin, and baclofen. 
+Transitional prophylaxis, most commonly using corticosteroids, helps to control the attacks at the beginning of a cluster period. 
+Peripheral neural blockade is effective for short-term pain control. 
+Recently, the therapeutic options for refractory CH patients have expanded with the emergence of both peripheral (mostly occipital nerve) and central (hypothalamic) neurostimulation. 
+With the emergence of these novel treatments, the role of ablative surgery in CH has declined. 
+Botulinum toxin type-A therapy in cluster headache: an open study.  
+Comment in     J Headache Pain. 
+2008 Apr;9(2):133. 
+Cluster headache.  
+We present a review of 60 cases of cluster headache. 
+Most patients were males, ranging from 19 to 65 years of age at the time of the first visit. 
+Headaches consisted of short-lasting (from 15 to 210 minutes), intense, unilateral pain attacks, most frequently in the periorbital area, with ipsilateral autonomic signs (rhinorrhea, ptosis, tearing and conjunctival injection). 
+Between attacks,  patients were completely free of pain. 
+The attacks occurred in bouts lasting 1 to 6 months, in which patients had daily headaches (one to three times a day). 
+Headaches responded well to oxygen or ergotamine. 
+Prophylactic therapy in most cases consisted of verapamil, also with a good response. 
+We present this review in order to draw attention to this relatively rare form of headache with a specific therapy. 
+Treatment of headache.  
+Headache is the most common complaint encountered in clinical practice. 
+Approximately 45 million people in the United States experience chronic headaches. 
+The management of migraine headache involves both pharmacologic and nondrug therapy. 
+Drug therapy for migraine involves the use of abortive and prophylactic agents. 
+Abortive agents, such as ergotamine tartrate and ketoprofen, may be used to relieve the acute attack. 
+Prophylactic therapy is focused on reducing the frequency and severity of the attacks. 
+beta-Adrenergic blocking agents, such as propranolol, remain the primary agents for many migraine patients, although other drugs, such as nonsteroidal anti-inflammatory drugs (NSAIDs), including ketoprofen, or calcium-channel blocking agents, such as verapamil, may be beneficial for many patients. 
+For cluster headache and its variants, methysergide and corticosteroids are usually the drugs of choice. 
+Patients with chronic cluster headache may achieve good results from long-term treatment with other therapies, including lithium carbonate, verapamil, and ketoprofen. 
+Prophylaxis of migraine, transformed migraine, and cluster headache with topiramate.  
+OBJECTIVE: To assess the efficacy and tolerability of topiramate for prophylaxis  of migraine and cluster headache via a retrospective chart analysis. 
+BACKGROUND: Topiramate has multiple mechanisms of action that could potentially contribute to migraine prophylaxis. 
+We conducted a retrospective chart review to  assess the efficacy of topiramate as add-on therapy in patients with transformed  migraine or cluster headache, and as first-line therapy in patients with episodic migraine. 
+METHODS: Patients diagnosed with transformed migraine, episodic migraine, or cluster headache, who received topiramate either as add-on therapy or monotherapy were selected via retrospective chart review. 
+Patients had begun topiramate therapy at 25 mg/day for the first week and increased their dosage by 25 mg/week  to a maximum of 200 mg/day. 
+Topiramate was used as add-on therapy for patients with transformed migraine and cluster headache, and as a first-line monotherapy in patients with episodic migraine who had no previous prophylactic therapy. 
+The  outcome parameters examined included a mean 28-day migraine frequency, migraine severity, number of headache days/month, number of abortive medication tablets/month, patient global evaluation, and the MIDAS scale. 
+RESULTS: One hundred seventy-eight patients (transformed migraine: n = 96; episodic migraine: n = 70; and cluster headache: n = 12) were included in the retrospective analysis. 
+The mean dose of topiramate for all patients was 87.5 mg/day. 
+For patients with transformed migraine, mean migraine frequency decreased from 6.3/28 days to 3.7 (P = 0.005). 
+Mean severity decreased from 7.1 to 3.8 on a 10-point scale, with 10 representing the most severe pain (P = 0.003). 
+The mean number of headache days/month decreased from 22.1 to 9.6 (P = 0.001), and the mean number of abortive medication tablets decreased from 28.7/month to 10.6 (P = 0.001). 
+Patient global evaluation indicated substantial or moderate improvement in 53% of patients with transformed migraine who used topiramate as add-on therapy. 
+Mean MIDAS scale values decreased from 90.2 to 24.9 (P< 0.0001). 
+The 70  episodic migraine patients who were administered topiramate as first-line therapy exhibited a decrease in mean migraine frequency (5.8/28 days to 1.9, P = 0.001),  while mean migraine severity decreased from 8.1 to 2.0 (P = 0.003). 
+Sixty-one percent of patients reported marked improvement. 
+Nine of the 12 cluster headache  patients exhibited substantial or moderate improvement in symptoms, whereas three had no improvement. 
+The most common adverse effects were paresthesias (12%), cognitive effects (11%), and dizziness (6%). 
+Eight patients discontinued topiramate due to adverse effects; cognitive effects were the most common reason. 
+No patient discontinued topiramate treatment due to lack of efficacy. 
+Twelve percent of patients lost more than 5 lbs during treatment (a range of 5-120 lbs). 
+CONCLUSION: For both patients with transformed migraine (add-on therapy) and patients with episodic migraine (first-line monotherapy), topiramate yielded significant reductions in migraine frequency, migraine severity, number of headache days/month, and use of abortive medications. 
+Topiramate also appears to  be well tolerated and useful in the adjunctive treatment of cluster headache. 
+Prospective double-blind, placebo-controlled trials will be required to confirm our results. 
+Cluster headache: diagnosis and treatment.  
+Cluster headache is a rare yet exquisitely painful primary headache disorder occurring in either episodic or chronic patterns. 
+The unique feature of cluster headache is the distinctive circadian and circannual periodicity in the episodic  forms. 
+The attacks are stereotypic--they are of extreme intensity and short duration, occur unilaterally, and are associated with robust signs and symptoms of autonomic dysfunction. 
+Although the pathophysiology of cluster headache remains to be fully understood, there have been a number of recent seminal observations. 
+To exclude structural mimics, patients presenting with symptoms suggestive of cluster headache warrant at least a brain magnetic resonance imaging (MRI) scan in their work-up. 
+The medical treatment of cluster headache includes acute, transitional, and maintenance prophylaxis. 
+Agents used for acute  therapy include inhalation of oxygen, triptans, such as sumatriptan, and dihydroergotamine. 
+Transitional prophylaxis refers to the short-term use of fast-acting agents. 
+This typically involves either corticosteroids or an occipital nerve block. 
+The mainstay of prophylactic therapy is verapamil. 
+Yet, other medications, including lithium, divalproex sodium, topiramate, methysergide, gabapentin, and even indomethacin, may be useful when the headache  fails to respond to verapamil. 
+For medically refractory patients, surgical interventions, occipital nerve stimulation, and deep brain stimulation remain an  option. 
+As the sophistication of functional neuroimaging increases, better insight into the pathophysiological mechanisms that underlie cluster headache is  expected. 
+Cluster headache pharmacotherapy.  
+Cluster headache is a well-known primary headache syndrome with a prevalence of about 5/10,000 of the adult population, making it much less common than migraine. 
+Diagnostic terms such as histaminic cephalalgia, Horton's headache and ciliary neuralgia have been used for what is now known as cluster headache. 
+This disorder can be differentiated from migraine by clinical and pathophysiologic features. 
+Cluster headache also exhibits a differing therapeutic response to medications when compared with migraine. 
+The pharmacologic treatment of cluster is reviewed in this article. 
+In contrast to migraine, men are 3-4 times more likely to be diagnosed with cluster headache than women, and the cluster headache population is older. 
+Cluster attacks are known for their brief intense unilateral excruciating pain during susceptible periods known as cluster periods, which typically last weeks. 
+Attack-free months generally follow. 
+Pain is experienced in the distribution of the trigeminal nerve, with unilateral autonomic features. 
+Most patients are successfully managed with medical therapy. 
+Medication management can be divided into abortive treatments for an ongoing attack and prophylactic treatment. 
+Prophylaxis aims to induce and maintain a remission. 
+There are a variety of different medications for abortive and prophylactic therapy, accompanied by a variable amount of evidence-based medicine. 
+For patients refractory to medical management, interventional procedures are available as a last resort. 
+Most procedures are directed against the sensory trigeminal nerve and associated ganglia, eg, anesthetizing the sphenopalatine ganglion. 
+MARS: improving multiple circular sequence alignment using refined sequences.  
+BACKGROUND: A fundamental assumption of all widely-used multiple sequence alignment techniques is that the left- and right-most positions of the input sequences are relevant to the alignment. 
+However, the position where a sequence starts or ends can be totally arbitrary due to a number of reasons: arbitrariness in the linearisation (sequencing) of a circular molecular structure; or inconsistencies introduced into sequence databases due to different linearisation standards. 
+These scenarios are relevant, for instance, in the process of multiple sequence alignment of mitochondrial DNA, viroid, viral or other genomes, which have a circular molecular structure. 
+A solution for these inconsistencies would be to identify a suitable rotation (cyclic shift) for each sequence; these refined sequences may in turn lead to improved multiple sequence alignments using the preferred multiple sequence alignment program. 
+RESULTS: We present MARS, a new heuristic method for improving Multiple circular  sequence Alignment using Refined Sequences. 
+MARS was implemented in the C++ programming language as a program to compute the rotations (cyclic shifts) required to best align a set of input sequences. 
+Experimental results, using real and synthetic data, show that MARS improves the alignments, with respect to standard genetic measures and the inferred maximum-likelihood-based phylogenies,  and outperforms state-of-the-art methods both in terms of accuracy and efficiency. 
+Our results show, among others, that the average pairwise distance in the multiple sequence alignment of a dataset of widely-studied mitochondrial DNA  sequences is reduced by around 5% when MARS is applied before a multiple sequence alignment is performed. 
+CONCLUSIONS: Analysing multiple sequences simultaneously is fundamental in biological research and multiple sequence alignment has been found to be a popular method for this task. 
+Conventional alignment techniques cannot be used effectively when the position where sequences start is arbitrary. 
+We present here a method, which can be used in conjunction with any multiple sequence alignment program, to address this problem effectively and efficiently. 
+Maternal epilepsy and birth defects: a case-control study in the Italian Multicentric Registry of Birth Defects (IPIMC).  
+Should folic acid be given to women treated with valproic acid and/or carbamazepine? Folic acid and pregnancy in epilepsy.  
+Fetal exposure to valproic acid or carbamazepine increases the risk of neural tube defect (NTD). 
+The risk of a mother having a baby with spina bifida has been  estimated at 1-2 p. 
+100, close to the rate of risk of recurrent cases. 
+No study has evaluated the effect of folic acid in neonates of women treated with valproic acid or carbamazepine although the protective effect against NTD has been proven  in other populations. 
+Periconceptional folic acid supplementation, 0.4 to 1 mg/day, for at least one month prior to conception and until the date of the second missed menstrual period or later decreases the incidence of a first occurrence of neural tube defect. 
+Periconceptional folic acid supplementation, 4  mg/day, decreases the recurrence of NTD in women who had previously had a child with NTD. 
+It seems pertinent to recommend periconceptional folic acid supplementation in women treated with carbamazepine or valporic acid. 
+There are very few data in women on which to base a decision to advise taking 4 mg/day (as  used in recurrence prevention) or low doses of 0.4 mg/day (used in primary prevention). 
+Maternal carbamazepine and infant spina bifida.  
+Women with epilepsy giving birth during 1973 to 1991 were identified by record linkage of Swedish health registries. 
+Among 3,625 identified infants, 9 had spina bifida. 
+A nested case-control study was performed, comparing drugs used in early  pregnancy in the 9 cases and in 18 controls, matched for year of delivery, maternal age, and parity. 
+Six of the spina bifida mothers had used carbamazepine  and two had used valproic acid. 
+Among the controls, 5 women used carbamazepine and one valproic acid. 
+There is an apparent excess risk for spina bifida after use of either of these two drugs, but it is not statistically significant when the analysis is restricted to drug-using women. 
+The findings support earlier reports in the literature of an association between carbamazepine and spina bifida. 
+Fetal hydantoin syndrome and its anaesthetic implications: a case report.  
+Fetal hydantoin syndrome is a rare disorder that is believed to be caused by exposure of a fetus to the anticonvulsant drug phenytoin. 
+The classic features of fetal hydantoin syndrome include craniofacial anomalies, prenatal and postnatal growth deficiencies, underdeveloped nails of the fingers and toes, and mental retardation. 
+Less frequently observed anomalies include cleft lip and palate, microcephaly, ocular defects, cardiovascular anomalies, hypospadias, umbilical and inguinal hernias, and significant developmental delays. 
+Anaesthesia for incidental surgery in such a patient poses unique challenges for the anesthesiologist. 
+We report the successful management of a 4-year-old male child  with fetal hydantoin syndrome, cleft palate, spina bifida, atrial septal defect,  and dextrocardia for tibialis anterior lengthening under subarachnoid block. 
+Multiple point action mechanism of valproic acid-teratogenicity alleviated by folic acid, vitamin C, and N-acetylcysteine in chicken embryo model.  
+Comment in     Toxicology. 
+2012 Mar 11;293(1-3):132-3. 
+Valproic acid-induced fetal malformations are reduced by maternal immune stimulation with granulocyte-macrophage colony-stimulating factor or interferon-gamma.  
+Valproic acid, a drug commonly used to treat seizures and other psychiatric disorders, causes neural tube defects (NTDs) in exposed fetuses at a rate 20 times higher than in the general population. 
+Failure of the neural tube to close  during development results in exencephaly or anencephaly, as well as spina bifida. 
+In mice, nonspecific activation of the maternal immune system can reduce  fetal abnormalities caused by diverse etiologies, including diabetes-induced NTDs. 
+We hypothesized that nonspecific activation of the maternal immune system with interferon-gamma (IFN-gamma) and granulocyte-macrophage colony-stimulating factor (GM-CSF) could reduce valproic acid (VA)-induced defects as well. 
+Female CD-1 mice were given immune stimulant prebreeding: either IFN-gamma or GM-CSF. 
+Approximately half of the control and immune-stimulated pregnant females were then exposed to 500 mg/kg VA on the morning of gestational day 8. 
+The incidence of developmental defects was determined on gestational day 17 from at least eight litters in each of the following treatment groups: control, VA only, IFN-gamma only, IFN-gamma+VA, GM-CSF only, and GM-CSF+VA. 
+The incidence of NTDs was 18% in  fetuses exposed to VA alone, compared to 3.7% and 2.9% in fetuses exposed to IFN-gamma+VA, or GM-CSF+VA respectively. 
+Ocular defects were also significantly reduced from 28.0% in VA exposed groups to 9.8% in IFN-gamma+VA and 12.5% in GM-CSF+VA groups. 
+The mechanisms by which maternal immune stimulation prevents birth defects remain unclear, but may involve maternal or fetal production of cytokines or growth factors which protect the fetus from the dysregulatory effects of teratogens. 
+Pregnancy, delivery, and outcome for the child in maternal epilepsy.  
+PURPOSE: To investigate pregnancy, delivery, and child outcome in an unselected population of women with both treated and untreated epilepsy. 
+METHODS: In the compulsory Medical Birth Registry of Norway, all 2,861 deliveries by women with epilepsy recorded from 1999-2005 were compared to all 369,267 nonepilepsy deliveries in the same period. 
+RESULTS: The majority (66%, n = 1900) in the epilepsy group did not use antiepileptic drugs (AEDs) during pregnancy. 
+A total of 961 epilepsy-pregnancies  were exposed to AEDs. 
+Compared to nonepilepsy controls, AED-exposed infants were  more often preterm (p = 0.01), and more often had birth weight <2,500 g (p < 0.001), head circumference <2.5 percentile (p < 0.001), and low Apgar score (p =  0.03). 
+Small-for-gestational-age (SGA) infants (<10 percentile) occurred more frequently in both AED-exposed (p = 0.05) and unexposed (p = 0.02) epilepsy-pregnancies. 
+Frequency of major congenital malformations (MCMs) was 2.8% (n = 81) in the epilepsy group versus 2.5% in controls (p = 0.3). 
+Increased risk  for MCMs could be demonstrated only for exposure to valproate (5.6%, p = 0.005) and AED polytherapy (6.1%, p = 0.02). 
+Neonatal spina bifida was not significantly increased, but was a major indication for elective pregnancy termination among women with epilepsy. 
+Cesarean section was performed more often in maternal epilepsy, regardless of AED-exposure (p < 0.001). 
+DISCUSSION: Adverse pregnancy and birth outcome in women with epilepsy is mainly  confined to AED-exposed pregnancies, although some risks are associated also with untreated epilepsy. 
+The risk for congenital malformations was lower than previously reported. 
+This could be due to a shift in AED selection, folic acid supplement, or possibly reflect the true risks in an unselected epilepsy population. 
+Teratogenic effects of antiepileptic drugs: use of an International Database on Malformations and Drug Exposure (MADRE).  
+PURPOSE: The study goal was to assess teratogenic effects of antiepileptic drugs  (AEDs) through the use of a surveillance system (MADRE) of infants with malformations. 
+METHODS: Information on all malformed infants (1990-1996) with maternal first-trimester drug exposure was collected by the International Clearinghouse for Birth Defects and Monitoring Systems (ICBDMS). 
+Cases were defined as infants  presenting with a specific malformation, and controls were defined as infants presenting with any other birth defect. 
+Exposure was defined by the use of AEDs during the first trimester of pregnancy. 
+The association of AEDs with malformations was then estimated by calculating the odds ratios with 95% confidence intervals and testing their homogeneity among registries. 
+RESULTS: Among 8005 cases of malformations, 299 infants were exposed in utero to  AEDs. 
+Of those exposed to monotherapy, 65 were exposed to phenobarbital, 10 to methylphenobarbital, 80 to valproic acid, 46 to carbamazepine, 24 to phenytoin, and 16 to other AEDs. 
+Associations were found for spina bifida with valproic acid. 
+Infants exposed to phenobarbital and to methylphenobarbital showed an increased risk of oral clefts. 
+Cardiac malformations were found to be associated  with phenobarbital, methylphenobarbital, valproic acid, and carbamazepine. 
+Hypospadias was associated with valproic acid. 
+Porencephaly and other specified anomalies of brain, anomalies of face, coarctation of aorta, and limb reduction defects were found to be associated with valproic acid. 
+CONCLUSIONS: Using the MADRE system, we confirmed known teratogenic effects of AEDs. 
+We also found increased risks for malformations that had never been reported associated with AEDs or for which the association was suggested by case  reports. 
+Anticonvulsant drugs and malformations is there a drug specificity?  
+The distribution of anticonvulsant drug therapy was studied in 318 malformed infants with known histories of maternal epilepsy. 
+Data on the infants was collected from six birth defect monitoring programs in Europe and South America. 
+ Use of specific types of anticonvulsants varies widely among reporting countries. 
+Heterogeneity of drug-malformation distribution, was analyzed to determine whether use of specific drugs were linked to specific malformations. 
+A significant association was seen between maternal use of valproic acid and spina  bifida, and a weaker, non-significant one between carbamazepine and spina bifida. 
+Facial clefts were associated with both diphenylhydantoin and phenobarbitone use  and also with polytherapy. 
+These differences indicate that the actual drug used is significant for the teratogenic process. 
+The technique may be useful in analysis of other drug-related teratogenic questions. 
+Influencing clinical practice regarding the use of antiepileptic medications during pregnancy: modeling the potential impact on the prevalences of spina bifida and cleft palate in the United States.  
+Selected antiepileptic drugs (AEDs) increase the risk of birth defects. 
+To assess the impact of influencing AED prescribing practices on spina bifida and cleft palate we searched the literature for estimates of the association between valproic acid or carbamazepine use during pregnancy and these defects and summarized the associations using meta-analyses. 
+We estimated distributions of the prevalence of valproic acid and carbamazepine use among women of childbearing age based on analyses of four data sets. 
+We estimated the attributable fractions  and the number of children born with each defect that could be prevented annually in the United States if valproic acid and carbamazepine were not used during pregnancy. 
+The summary odds ratio estimate for the association between valproic acid and spina bifida was 11.9 (95% uncertainty interval (UI): 4.0-21.2); for valproic acid and cleft palate 5.8 (95% UI: 3.3-9.5); for carbamazepine and spina bifida 3.6 (95% UI: 1.3-7.8); and for carbamazepine and cleft palate 2.4 (95% UI: 1.1-4.5) in the United States. 
+Approximately 40 infants (95% UI: 10-100) with spina bifida and 35 infants (95% UI: 10-70) with cleft palate could be born without these defects each year if valproic acid were not used during pregnancy;  5 infants (95% UI: 0-15) with spina bifida and 5 infants (95% UI: 0-15) with cleft palate could be born without these defects each year if carbamazepine were  not used during pregnancy. 
+This modeling approach could be extended to other medications to estimate the impact of translating pharmacoepidemiologic data to evidence-based prenatal care practice. 
+Romosozumab Improves Bone Mass and Strength While Maintaining Bone Quality in Ovariectomized Cynomolgus Monkeys.  
+Romosozumab (Romo), a humanized sclerostin antibody, is a bone-forming agent under development for treatment of osteoporosis. 
+To examine the effects of Romo on bone quality, mature cynomolgus monkeys (cynos) were treated 4 months post- ovariectomy (OVX) with vehicle, 3 mg/kg, or 30 mg/kg Romo for 12 months, or with  30 mg/kg Romo for 6 months followed by vehicle for 6 months (30/0). 
+Serum bone formation markers were increased by Romo during the first 6 months, corresponding to increased cancellous, endocortical, and periosteal bone formation in rib and iliac biopsies at months 3 and 6. 
+Dual-energy X-ray absorptiometry (DXA) bone mineral density (BMD) was increased by 14% to 26% at the lumbar spine and proximal femur at month 12, corresponding to significant increases in bone strength at 3 and 30 mg/kg in lumbar vertebral bodies and cancellous cores, and at 30 mg/kg in the femur diaphysis and neck. 
+Bone mass remained positively correlated with strength at these sites, with no changes in calculated material properties at cortical sites. 
+These bone-quality measures were also maintained in the 30/0 group, despite a gradual loss of accrued bone mass. 
+Normal bone mineralization was confirmed by histomorphometry and ash analyses. 
+At the radial  diaphysis, a transient, reversible 2% reduction in cortical BMD was observed with Romo at month 6, despite relative improvements in bone mineral content (BMC). 
+High-resolution pQCT confirmed this decline in cortical BMD at the radial diaphysis and metaphysis in a second set of OVX cynos administered 3 mg/kg Romo for 6 months. 
+Radial diaphyseal strength was maintained and metaphyseal strength  improved with Romo as estimated by finite element modeling. 
+Decreased radial cortical BMD was a consequence of increased intracortical remodeling, with no increase in cortical porosity. 
+Romo resulted in marked improvements in bone mass, architecture, and bone strength, while maintaining bone quality in OVX cynos, supporting its bone efficacy and safety profile. 
+© 2016 American Society for Bone and Mineral Research. 
+Update on romosozumab : a humanized monoclonal antibody to sclerostin.  
+INTRODUCTION: Disorders with inactivating mutations of the SOST gene result in reduced or absent expression of sclerostin and are associated with high bone mass. 
+Sclerostin is an important regulator of bone formation due to its inhibitory actions in the osteoanabolic Wnt signaling pathway. 
+Advances in understanding the mechanisms of action of this signaling molecule have led to the development of a pharmacological inhibitor of sclerostin with potential clinical  applications as an osteoanabolic drug for the treatment of osteoporosis. 
+AREAS COVERED: Romosozumab is the first humanized monoclonal sclerostin antibody  to be tested in clinical trials. 
+Similar to preclinical animal studies with sclerostin antibodies, initial clinical studies show that romosozumab increases bone formation and bone mineral density. 
+EXPERT OPINION: Blocking sclerostin action with romosozumab is a promising new therapeutic approach to osteoanabolic therapy of osteoporosis; efficacy and safety data on large controlled studies are awaited. 
+Kinetic reconstruction reveals time-dependent effects of romosozumab on bone formation and osteoblast function in vertebral cancellous and cortical bone in cynomolgus monkeys.  
+Romosozumab, a humanized monoclonal sclerostin antibody under development for the treatment of osteoporosis, has a unique mechanism of action on bone-increasing bone formation and decreasing bone resorption. 
+The effects on bone formation are  transient, eliciting a rapid increase in bone formation that attenuates with continued treatment. 
+Although bone formation attenuates, bone mineral density (BMD) continues to increase. 
+To explore potential tissue-level mechanisms that could contribute to a progressive increase in spine BMD, we used kinetic reconstruction techniques to examine the effects of romosozumab on modeling and remodeling units in vertebral cancellous bone from adult cynomolgus monkeys administered romosozumab for 10 and 28weeks. 
+The 10-week study duration captured  a period of high modeling-based bone formation, and the 28-week study duration followed the self-regulation or attenuation of bone formation in cancellous bone  that occurs with long-term treatment. 
+Sequential fluorochrome labels applied for  the kinetic reconstruction were also used to evaluate treatment effects on osteoblast function as early as 3weeks, and on bone formation and bone accrual in the vertebral cortex over 28weeks. 
+Kinetic reconstruction of remodeling and modeling formation sites in vertebral cancellous bone revealed that romosozumab effected significant transient increases in mineral apposition rate in remodeling sites at week 3 that was not sustained with continued treatment. 
+However, romosozumab treatment caused sustained improvement in fractional labeling of osteoid, an index of osteoblast efficiency, at remodeling formative sites at both weeks 10 and 28 that was the major contributor to significant increases in final  wall thickness (W.Th) of remodeling packets. 
+Remodeling W.Th matched the final W.Th of modeling packets at week 10. 

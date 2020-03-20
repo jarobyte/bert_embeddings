@@ -1,0 +1,300 @@
+Many Gaucher disease mutations encoded highly disruptive amino acid substitutions (e.g. 
+P289L and D409V) and produced severely compromised proteins with very reduced activity (kcat < 1% of normal) and/or stability. 
+Six mutant enzymes had sufficient catalytic activity (kcat approximately 5-30% of normal) for extensive studies. 
+The highly conservative substitutions, i.e. 
+F216Y or S364T and V394L, led to severe, but selective, abnormalities of enzyme stability or large decreases in catalytic activity, respectively. 
+The T323I, N370S, and V394L  enzymes interacted abnormally with active site-directed inhibitors and localized  these residues to the glycon binding region. 
+Selected mutant enzymes were poorly  activated by phosphatidylserine (V394L, L444P, and R463C) or by saposin C (L444P  and T323I), indicating that the enzyme sites for interaction with these activators were within the carboxyl one-third of the enzyme. 
+Substitutions of Ser, Glu, and/or Gly at residues Asp-443 and/or Asp-445 demonstrated important steric roles for these residues in the active site, but neither is the catalytic  nucleophile. 
+Together with previous studies, the present analyses provide an insight into the pathogenesis of Gaucher disease and the functional organization  of acid beta-glucosidase. 
+A novel alteration in metaxin 1, F202L, is associated with N370S in Gaucher disease.  
+The gene for glucocerebrosidase ( GBA), the enzyme deficient in Gaucher disease,  is located in a gene-rich region on 1q21. 
+Metaxin 1( MTX1) is a convergently transcribed gene contiguous to the 3' end of the GBA pseudogene. 
+A single nucleotide alteration in MTX1, 628T-->C, resulting in the amino acid change F202L, was identified in patients with Gaucher disease in association with the common N370S mutation in GBA. 
+The polymorphism was also present on 4.6% of 152 control alleles, but could have functional consequences that have a modifying role in Gaucher disease. 
+Spontaneous regression of disease manifestations can occur in type 1 Gaucher disease; results of a retrospective cohort study.  
+Gaucher disease (GD) is a lysosomal storage disorder, caused by deficient activity of the enzyme glucocerebrosidase. 
+GD is classically divided into three major phenotypes. 
+The most prevailing form is type 1, which presents with variable hepatosplenomegaly, cytopenia, and/or bone disease. 
+In adult patients with mild manifestations, progress of disease might be slow or even absent. 
+As a  consequence, treatment with intravenous enzyme replacement or substrate reduction is not always necessary. 
+In the Netherlands, the follow-up of GD patients is centralized, which allows detailed investigation of untreated patients. 
+A retrospective study was conducted in 18 type 1 GD patients, (2 teenagers: 15 and  16 years of age at first visit) who were not treated for at least one year. 
+The chitotriosidase activity, platelet count, hemoglobin level, lumbar bone marrow fat content measured with quantitative chemical shift imaging (QCSI), liver ratio (ml/kg body weight), and spleen volume were recorded. 
+Criteria were developed to  score regression, stability or progression of disease. 
+During a mean follow up of 4.5 years (range 1.1-12.2) seven patients (39%) showed spontaneous regression of  GD. 
+Eight patients (44%) were stable. 
+Two patients had progressive disease, solely based upon a sustained increase in chitotriosidase activity. 
+A pediatric patient had an increase in splenomegaly but an improvement in bone marrow fat fraction, probably due to aging. 
+Nine patients fulfilled the local criteria to start treatment at first visit, of whom six started treatment within 1.1 to 6.8 years. 
+The other three refused therapy, but nevertheless showed stability or even regression of the disease during a follow up of 4.6, 9.5 and 11.4 years respectively. 
+None of the parameters was predictive of progression or regression  of disease. 
+In conclusion, GD in adults can, in some cases, regress spontaneously. 
+No parameters for accurately predicting future disease course exist. 
+Neurologic improvement in a type 3 Gaucher disease patient treated with imiglucerase/miglustat combination.  
+PURPOSE: Gaucher disease (GD) is an autosomal recessive lysosomal disorder caused by a deficiency of glucocerebrosidase. 
+The neurologic manifestations of GD patients have to date been refractory to any treatment approach. 
+We present a report of a neuronopathic GD patient whose myoclonic epilepsy improved after combination therapy with imiglucerase and miglustat. 
+METHODS: In an adult type 3 GD patient who, despite good visceral and analytic response to ERT, developed progressive neurologic deterioration with marked myoclonic epilepsy and dystonia, we added miglustat to the enzyme-replacement therapy. 
+RESULTS: After 2 years of combined miglustat (200 mg, 3 t.i.d.) and imiglucerase  (60 IU/kg every 2 weeks), generalized tonic-clonic seizures decreased, speech improved, and the general neurologic clinical picture improved markedly. 
+The EEG  showed a reduction in focal and generalized paroxysmal discharges. 
+No significant adverse effects were observed. 
+CONCLUSIONS: Combined imiglucerase and miglustat therapy may be beneficial for some neuronopathic forms of GD. 
+Gaucher's disease uncovered late.  
+Gaucher's disease is an uncommon inborn recessive autosomal disease, due to a deficient activity of the lysosomal enzyme beta glucocerebrosidase. 
+This disease  is usually diagnosed in the first or second decade of life with the arising of bone pains, splenomegaly and hemorragic manifestations due to thrombocytopenia. 
+When the enlarged spleen is not evident, or after splenectomy, patients may be mis-identified as having Gaucher's disease. 
+We present here two cases of elderly  patients aged 70 and 46 years respectively, in whom the disease was a surprising  finding of bone marrow examination, during check up for pancytopenia. 
+Alpha-synuclein interacts with Glucocerebrosidase providing a molecular link between Parkinson and Gaucher diseases.  
+The presynaptic protein α-synuclein (α-syn), particularly in its amyloid form, is widely recognized for its involvement in Parkinson disease (PD). 
+Recent genetic studies reveal that mutations in the gene GBA are the most widespread genetic risk factor for parkinsonism identified to date. 
+GBA encodes for glucocerebrosidase (GCase), the enzyme deficient in the lysosomal storage disorder, Gaucher disease (GD). 
+In this work, we investigated the possibility of  a physical linkage between α-syn and GCase, examining both wild type and the GD-related N370S mutant enzyme. 
+Using fluorescence and nuclear magnetic resonance spectroscopy, we determined that α-syn and GCase interact selectively under lysosomal solution conditions (pH 5.5) and mapped the interaction site to the α-syn C-terminal residues, 118-137. 
+This α-syn-GCase complex does not form at pH  7.4 and is stabilized by electrostatics, with dissociation constants ranging from 1.2 to 22 μm in the presence of 25 to 100 mm NaCl. 
+Intriguingly, the N370S mutant form of GCase has a reduced affinity for α-syn, as does the inhibitor conduritol-β-epoxide-bound enzyme. 
+Immunoprecipitation and immunofluorescence studies verified this interaction in human tissue and neuronal cell culture, respectively. 
+Although our data do not preclude protein-protein interactions in other cellular milieux, we suggest that the α-syn-GCase association is favored in the lysosome, and that this noncovalent interaction provides the groundwork to explore molecular mechanisms linking PD with mutant GBA alleles. 
+Chimerism after liver transplantation for type IV glycogen storage disease and type 1 Gaucher's disease.  
+Comment in     N Engl J Med. 
+1993 Mar 18;328(11):801-2. 
+Large-scale screening of the Gaucher's disease-related glucocerebrosidase gene in Europeans with Parkinson's disease.  
+Pathogenic variants in the glucocerebrosidase gene (GBA) encoding the enzyme deficient in Gaucher's disease (GD) are associated with Parkinson's disease (PD). 
+To investigate the sequence variants, their association with PD and the related phenotypes in a large cohort of European, mostly French, patients and controls, we sequenced all exons of GBA in 786 PD patients from 525 unrelated multiplex families, 605 patients with apparently sporadic PD and 391 ethnically matched controls. 
+GBA mutations were significantly more frequent (odds ratio=6.98, 95% confidence interval 2.54-19.21; P=0.00002) in the PD patients (76/1130=6.7%) than in controls (4/391=1.0%) and in patients with family histories of PD (8.4%) than  in isolated cases (5.3%). 
+Twenty-eight different mutations were identified in patient and control groups, including seven novel variants. 
+N370S and L444P accounted for 70% of all mutant alleles in the patient group. 
+PD patients with GBA mutations more frequently had bradykinesia as the presenting symptom and levodopa-induced dyskinesias. 
+The phenotype was similar in patients with one, two or complex GBA mutations, although the two patients with c.1263del+RecTL and N370S/RecΔ55 mutations had signs of GD. 
+Segregation analyses in 21 multiplex families showed that 17% of the affected relatives did not carry GBA mutations found in the given family, indicating heterogeneity of the aetiology, but 46% of  the unaffected relatives were GBA mutation carriers. 
+These genotype and clinical  analyses on the largest homogeneous sample of European patients studied to date confirmed that GBA mutations are the most common genetic risk factor for PD, particularly in familial forms. 
+Glucocerebrosidase mutations are not found in association with LRRK2 G2019S in subjects with parkinsonism.  
+Alteration G2019S in the leucine-rich repeat kinase 2 gene (LRRK2) has been identified in several populations of patients with parkinsonism, including Ashkenazi Jewish subjects with Parkinson disease. 
+Mutations in glucocerebrosidase (GBA), the enzyme deficient in Gaucher disease, are also identified at an increased frequency among Parkinson probands, including those of Ashkenazi Jewish ancestry. 
+A Taqman Assay-by-Design SNP genotyping strategy was utilized to establish whether G2019S was found in association with GBA mutations. 
+Among 37 subjects with parkinsonism who were heterozygous for a GBA mutation, none carried G2019S. 
+Furthermore, G2019S was not found in 18 patients with Gaucher disease who developed parkinsonian manifestations and 11 other Gaucher probands with parkinsonism in a first degree relative. 
+Among 45 patients with Gaucher disease without a history of parkinsonism, one G2019S carrier was found. 
+These findings suggest that GBA and LRRK2 mutations are discrete risk factors for parkinsonism in both Ashkenazi Jewish and non-Jewish subjects. 
+French results of enzyme replacement therapy in Gaucher's disease.  
+Gaucher disease is an inborn recessive autosomal disease due to a partial deficiency of the lysosomal enzyme beta glucocerebrosidase. 
+The deficient activity leads to accumulation of the lipid glucocerebroside in the liver, the spleen and bone marrow with concomitant anemia and thrombocytopenia. 
+Patients with Gaucher disease have been classified in three types: type I is the more common, neurological manifestations occur in types II and III. 
+Enzyme replacement therapy (ERT) with modified placental human glucocerebrosidase (ceredase) or recombinant glucocerebrosidase (cerezyme) is effective in most type I Gaucher disease and has become the current standard care administered to thousand of patients worldwide. 
+ERT has obviated the need for bone marrow transplantation and virtually eliminated the need for splenectomy. 
+We report here the French study including adults and children. 
+ERT of 30 to 60 U/K every two weeks as starting dose was administrated to 108 patients with severe type I Gaucher disease. 
+ERT fully reverse many of the manifestations of the disease. 
+ERT regimen alleviated fatigue, and hematological and visceral signs and symptoms in nearly all severely-ill patients. 
+Skeletal responses to treatment develop much more slowly than hematological or visceral responses. 
+Studies in pediatrics show that the disease is more severe in children. 
+These children should be treated early in the course of their disease to avoid irreparable damage. 
+Hematological manifestation  in type II cannot be reversed with enzyme replacement. 
+In type III treatment can  rarely reverse neurological deficit. 
+Gaucher disease is also an excellent candidate for gene therapy. 
+Current development and usefulness of biomarkers for Gaucher disease follow up.  
+Gaucher's disease is due to glucocerebrosidase deficiency which is responsible for the accumulation of non degraded glucosylceramide within the lysosomes of macrophages: these "Gaucher cells", overloaded and alternatively activated, release in patient's plasma numerous compounds (cytokines, chemokines, hydrolases...) some of which contribute to the various tissue damages. 
+Some of these compounds are surrogate biomarkers which contribute to the evaluation of disease severity, progression and stabilisation or regression during treatment. 
+To date, the most interesting biomarkers are chitotriosidase and the chemokine CCL18/PARC, especially in chitotriosidase deficient patients. 
+These biomarkers together with the clinical evaluation help to therapeutic choice (treatment by enzyme replacement therapy or substrate reduction therapy) and initiation decision, response follow-up and dose adjustments. 
+Biomarkers should be assessed  every 12 months together with clinical evaluation in patients not receiving specific treatments. 
+An assessment every 3 months is recommended during the first year of treatment. 
+Then when clinical goals have been achieved, the frequency can be reduced to every 12 months if the therapeutic scheme is not modified. 
+Alglucerase. A review of its therapeutic use in Gaucher's disease.  
+Alglucerase is a mannose-terminated form of human placental glucocerebrosidase, developed to treat patients with Gaucher's disease. 
+Functional glucocerebrosidase is deficient in Gaucher's disease, an autosomal recessive lipid storage disorder  that affects people of all ethnic backgrounds, but has a higher incidence among East European Jews (Ashkenazim). 
+Gaucher's disease manifests with hepatosplenomegaly, bleeding disorders and bone disease, with the more rare subtypes (types 2 and 3) featuring neurological dysfunction. 
+Prior to the development of enzyme replacement therapy, treatment for Gaucher's disease was mainly symptomatic relief. 
+Primary treatment with glucocerebrosidase focuses on removal of the lipid metabolite that causes the pathology. 
+Because of the rarity  of Gaucher's disease clinical trials are small, and much of the data investigating alglucerase therapy have been obtained from studies of patients with type 1 disease, the prevalent subtype. 
+Nonetheless, after intravenous administration of alglucerase, improvements are evident within 6 months of therapy. 
+Patients have increased haemoglobin levels and platelet counts, and decreased incidences of epistaxis and bruising. 
+Spleen and liver size are reduced, and skeletal parameters improve. 
+Children gain height and most patients  receiving alglucerase therapy are able to resume work and daily activities. 
+Alglucerase is well tolerated, with few mild adverse reactions reported. 
+Although the pharmacokinetic and pharmacodynamic information for alglucerase is limited, its unequivocal efficacy justifies enzyme replacement therapy with this compound  as first-line treatment for patients with Gaucher's disease, for whom treatment options are limited. 
+Alglucerase. A pharmacoeconomic appraisal of its use in the treatment of Gaucher's disease.  
+Comment in     Pharmacoeconomics. 
+1995 Jul;8(1):82-3. 
+Lysosomal integral membrane protein-2: a new player in lysosome-related pathology.  
+Lysosomes require the presence of many specialized proteins to facilitate their roles in cellular maintenance. 
+One such protein that has proven to be an important player in the lysosomal field is lysosomal integral membrane protein-2  (LIMP-2), encoded by the gene SCARB2. 
+LIMP-2 is required for the normal biogenesis and maintenance of lysosomes and endosomes and has been identified as  the specific receptor for glucocerebrosidase, the enzyme deficient in Gaucher disease. 
+Research into LIMP-2 and the SCARB2 gene indicate that it may be a factor contributing to the clinical heterogeneity seen among patients with Gaucher disease. 
+Mutations in SCARB2 have also been identified as the cause of action myoclonus renal failure (AMRF), and in some cases progressive myoclonic epilepsy. 
+A total of 14 disease-causing SCARB2 mutations have been identified to  date. 
+The role of LIMP-2 in human pathology has expanded with its identification  as a component of the intercalated disk in cardiac muscle and as a receptor for specific enteroviruses, two unanticipated findings that reaffirm the myriad roles of lysosomal proteins. 
+Studies into the full impact of LIMP-2 deficiency and the  LIMP2/glucocerebrosidase molecular pathway will lead to a better understanding of disease pathogenesis in Gaucher disease and AMRF, and to new insights into lysosomal processing, trafficking and function. 
+A novel SCARB2 mutation in progressive myoclonus epilepsy indicated by reduced β-glucocerebrosidase activity.  
+Action myoclonus renal failure (AMRF) syndrome is a rare form of progressive myoclonus epilepsy with renal dysfunction related to mutations in the SCARB2 gene. 
+This gene is involved in lysosomal mannose-6-phosphate-independent trafficking of β-glucocerebrosidase (GC), an enzyme deficient in Gaucher disease. 
+We report a family with myoclonic epilepsy, ataxia and skeletal muscle atrophy but without cognitive impairment or overt renal disease. 
+A novel SCARB2 mutation  was indicated by a striking discrepancy between lymphocyte and fibroblast GC activity in the proband evaluated for possible Gaucher disease. 
+Our findings expand the genetic and phenotypic diversity of AMRF and suggest that low GC activity may present an important biochemical clue to the diagnosis of AMRF. 
+Replacement therapy for inherited enzyme deficiency--macrophage-targeted glucocerebrosidase for Gaucher's disease.  
+Comment in     N Engl J Med. 
+1991 Dec 19;325(25):1809-11. 
+    N Engl J Med. 
+1993 May 27;328(21):1564; author reply 1567-8. 
+The role of saposin C in Gaucher disease.  
+Saposin C is one of four homologous proteins derived from sequential cleavage of  the saposin precursor protein, prosaposin. 
+It is an essential activator for glucocerebrosidase, the enzyme deficient in Gaucher disease. 
+Gaucher disease is a rare autosomal recessive lysosomal storage disorder caused by mutations in the GBA gene that exhibits vast phenotypic heterogeneity, despite its designation as  a "simple" Mendelian disorder. 
+The observed phenotypic variability has led to a search for disease modifiers that can alter the Gaucher phenotype. 
+The PSAP gene  encoding saposin C is a prime candidate modifier for Gaucher disease. 
+In humans,  saposin C deficiency due to mutations in PSAP results in a Gaucher-like phenotype, despite normal in vitro glucocerebrosidase activity. 
+Saposin C deficiency has also been shown to modify phenotype in one mouse model of Gaucher  disease. 
+The role of saposin C as an activator required for normal glucocerebrosidase function, and the consequences of saposin C deficiency are described, and are being explored as potential modifying factors in patients with Gaucher disease. 
+Diurnal cortisol profile in Williams syndrome in novel and familiar settings.  
+Williams syndrome (WS) is a neurodevelopmental genetic disorder associated with high rates of anxiety and social issues. 
+We examined diurnal cortisol, a biomarker of the stress response, in adults with WS in novel and familiar settings, and compared these profiles to typically developing (TD) adults. 
+WS and TD participants had similar profiles in a familiar setting, while participants with WS had elevated cortisol late in the day in the novel setting when social demands were higher. 
+The cortisol awakening response in WS was associated with parent-reported levels of somatic complaints and social difficulties. 
+Results suggest that adults with WS have a typical diurnal cortisol profile that may be sensitive to social and activity transitions throughout the day. 
+Successful treatment of a morbidly obese and growth-retarded adolescent with Williams-Beuren Syndrome by combining the medication of growth hormone and sibutramine.  
+A 16-year-old male adolescent diagnosed to have the Williams-Beuren syndrome was  referred to our obesity outpatient clinic, due to his morbid obesity (body mass index 39.2 kilograms per square metre) and gluttony. 
+After several unsuccessful dietary treatments, we started therapy with sibutramine. 
+As growth hormone (GH) deficiency was diagnosed by an additional GH-stimulation test, we commenced with  a GH-treatment. 
+This well-tolerated combination therapy led to a remarkable weight loss of 10 kg and a growth-rate acceleration of 3.7 cm/year. 
+Nine months after stopping the treatment with sibutramine, a partial weight gain was noticed. 
+This case report justifies further research work on a combination therapy with sibutramine and GH for similar cases. 
+Growth hormone treatment in a child with Williams-Beuren syndrome: a case report.  
+Growth retardation is a consistent finding in Williams-Beuren syndrome. 
+The cause of short stature in this syndrome is unknown. 
+Endocrine studies have failed to reveal abnormalities in the growth hormone-insulin-like growth factor I axis. 
+We  report a boy with confirmed Williams-Beuren syndrome, who was found to have classical growth hormone deficiency and responded well to growth hormone therapy.CONCLUSION: Although growth hormone deficiency is not likely to be a common cause of short stature in Williams-Beuren syndrome, we nevertheless recommend evaluation of the growth hormone-insulin-like growth factor I axis in all cases. 
+Growth hormone deficiency in a child with Williams-Beuren syndrome. The response  to growth hormone therapy.  
+Pre- and postnatal growth retardation of unknown pathogenesis is a common clinical feature in patients with Williams-Beuren syndrome (WBS). 
+However, growth hormone deficiency (GHD) has not been considered a major cause of growth retardation. 
+There is only one patient in the literature with confirmed GHD who responded well to human growth hormone (hGH) therapy. 
+We report a female infant with confirmed WBS who, through provocative testing, was found to have GHD and who responded satisfactorily to hGH therapy. 
+Height SDS was -4.2 at the age of 12 months when hGH was initiated and increased to -0.8 at the age of 4.25 years. 
+The pathogenesis of GHD in our patient is unclear. 
+Nevertheless, the elevated levels  of prolactin and the response of hGH to growth hormone releasing hormone (GHRH) administration are indicative of a hypothalamic rather than pituitary defect. 
+In  conclusion, GH deficiency might contribute to the growth failure in a number of patients with WBS and in such cases hGH therapy will most likely improve final height. 
+Thyroid function and morphology in patients affected by Williams syndrome.  
+OBJECTIVE: To evaluate the prevalence of abnormalities of thyroid function and morphology in a cohort of patients with Williams syndrome (WS). 
+METHODS: Serum concentrations of free-T3, free-T4, TSH, thyroperoxidase antibodies (TPOA) and thyroglobulin antibodies (TgA), as well as ultrasonographic data, of 20 patients with WS (12 females and eight males), aged 1.7-34.9 years, were evaluated. 
+RESULTS: Three cases (15%) of subclinical hypothyroidism were identified. 
+Overt hypothyroidism was diagnosed in two cases (10%). 
+Thyroid antibodies were negative in all patients. 
+Fourteen patients (70%) showed thyroid hypoplasia involving the  entire gland. 
+In these patients, the left thyroid lobe appeared usually, but not  significantly, reduced compared with the right thyroid lobe. 
+One patient (5%) showed thyroid hemiagenesis. 
+Only five patients (25%) showed a thyroid with normal volume, and of these five, one patient showed marked thyroid hypoplasia of the left lobe. 
+In all WS patients with diagnosis of subclinical or overt hypothyroidism, thyroid hypoplasia was detected. 
+No cases of subclinical or overt hypothyroidism were found in WS with normal thyroid volume. 
+CONCLUSIONS: This study confirms the presence of alterations of thyroid function  in WS and also suggests the frequent occurrence of abnormalities of thyroid morphology in these patients. 
+Patients with WS should be monitored for thyroid function and a thyroid ultrasound screening should be considered, especially in those patients with changes in thyroid function. 
+Oxytocin and vasopressin are dysregulated in Williams Syndrome, a genetic disorder affecting social behavior.  
+The molecular and neural mechanisms regulating human social-emotional behaviors are fundamentally important but largely unknown; unraveling these requires a genetic systems neuroscience analysis of human models. 
+Williams Syndrome (WS), a  condition caused by deletion of ~28 genes, is associated with a gregarious personality, strong drive to approach strangers, difficult peer interactions, and attraction to music. 
+WS provides a unique opportunity to identify endogenous human gene-behavior mechanisms. 
+Social neuropeptides including oxytocin (OT) and  arginine vasopressin (AVP) regulate reproductive and social behaviors in mammals, and we reasoned that these might mediate the features of WS. 
+Here we established  blood levels of OT and AVP in WS and controls at baseline, and at multiple timepoints following a positive emotional intervention (music), and a negative physical stressor (cold). 
+We also related these levels to standardized indices of social behavior. 
+Results revealed significantly higher median levels of OT in WS  versus controls at baseline, with a less marked increase in AVP. 
+Further, in WS,  OT and AVP increased in response to music and to cold, with greater variability and an amplified peak release compared to controls. 
+In WS, baseline OT but not AVP, was correlated positively with approach, but negatively with adaptive social behaviors. 
+These results indicate that WS deleted genes perturb hypothalamic-pituitary release not only of OT but also of AVP, implicating more complex neuropeptide circuitry for WS features and providing evidence for their roles in endogenous regulation of human social behavior. 
+The data suggest a possible biological basis for amygdalar involvement, for increased anxiety, and for the paradox of increased approach but poor social relationships in WS. 
+They also offer insight for translating genetic and neuroendocrine knowledge into treatments for disorders of social behavior. 
+High prevalence of diabetes and pre-diabetes in adults with Williams syndrome.  
+A standard oral glucose tolerance test (OGTT) was administered to 28 adults with  Williams syndrome (WS). 
+Three quarters of the WS subjects showed abnormal glucose curves, meeting diagnostic criteria for either diabetes or the pre-diabetic state of impaired glucose tolerance. 
+Fasting mean glucose and median insulin levels did not differ significantly in the total WS cohort versus age-gender-BMI matched controls, though the glucose area under the curve was greater in the WS subjects. 
+HbA1c levels were not as reliable as the OGTT in diagnosing the presence of diabetes. 
+Given the high prevalence of impaired glucose regulation, adults with WS should be screened for diabetes, and when present should be treated in accordance with standard medical practice. 
+Hemizygosity for a gene mapping to the Williams syndrome chromosome region (WSCR) is likely the major factor responsible for the high frequency of diabetes in WS. 
+Syntaxin-1A is a prime candidate gene based on its location in the WSCR, its role in insulin release, and the presence  of abnormal glucose metabolism in mouse models with aberrantly expressed Stx-1a. 
+Thyroid anomalies in Williams syndrome: investigation of 95 patients.  
+Thyroid involvement in Williams syndrome (WS) was recently reported in two small  groups of patients, both showing an increased prevalence of elevation of TSH serum concentration; in one of the two reports, 70% of the patients demonstrated  a hypoplasia of thyroid gland as well. 
+In our institution, we currently follow a  large population of WS patients who periodically undergo a multispecialist clinical evaluation that includes ultrasound evaluation of the thyroid gland, and levels of FT3, FT4, TSH, and anti-thyroid antibodies. 
+Here, we report on the prevalence of thyroid structural and functional anomalies, in a population of 95  WS patients, half of them followed for more than 5 years. 
+Our study confirms the  increased incidence of both elevated TSH serum values (37.9% in our sample) and thyroid gland hypoplasia (74.7%). 
+Moreover, we demonstrated that TSH elevation declines with age. 
+For this reason, we suggest that a complete thyroid evaluation be performed in every patient with WS, and that this medical complication should  be periodically searched for in follow-up visits. 
+New case of thyroid dysgenesis and clinical signs of hypothyroidism in Williams syndrome.  
+The authors report a female presenting with congenital heart defects, liver hemangiomas, and facial dysmorphisms admitted to hospital at 3 months of age because of feeding difficulties and poor growth. 
+She had hypotonia and large tongue, "coarse" face, and umbilical hernia in presence of complex congenital cardiovascular malformations. 
+In spite of normal neonatal screening we performed  serum levels of thyroid hormones. 
+Thyrotropin level was very high (>50 microU/ml; normal value 0.2-4 microU/ml), while serum free T(3) (FT3) and free T(4) (FT4) levels were normal (FT3 3.6 pg/ml, normal value 2.8-5.6 pg/ml; FT4 11.6 pg/ml, normal value 6.6-14 pg/ml); antithyroid autoantibodies were absent. 
+Thyroid scintigraphy with sodium 99m Tc pertechnetate showed a small ectopic thyroid located in sublingual position, so treatment with L-thyroxine 37.5 microg/24 hr was started with rapid improvement of the clinical picture. 
+At 17 months of age the patient developed the complete characteristic phenotype of Williams syndrome  (WS); the clinical diagnosis was proven by fluorescent in situ hybridization (FISH) analysis which showed hemizygous deletion of the elastin gene on chromosome 7. 
+Recently a case of thyroid hemiagenesis in a child with WS has been reported; our patient underscores the association of hypothyroidism and WS. 
+Moreover, our case shows that clinical manifestations of hypothyroidism may be present and the treatment may be necessary as it is in isolated congenital hypothyroidism. 
+Exclusion of calcitonin as a candidate gene for the basic defect in a family with autosomal dominant supravalvular aortic stenosis.  
+Supravalvular aortic stenosis (SVAS) may occur as an isolated autosomal dominant  trait or as a feature of Williams syndrome. 
+It has been suggested that a defect in calcitonin function may play a role in Williams syndrome. 
+We have excluded calcitonin as a candidate gene for SVAS using a gene specific probe. 
+Thyroid morphology and subclinical hypothyroidism in children and adolescents with Williams syndrome.  
+OBJECTIVE: To verify the prevalence of morpho-volumetric and functional thyroid abnormalities in young patients with Williams syndrome (WS). 
+STUDY DESIGN: Ninety-two patients with WS (49 boys and 43 girls, 0.2-17.2 years of age) underwent evaluation of thyroid function by means of thyroid-stimulating  hormone (TSH), fT3, and fT4 measurement. 
+Thyroid ultrasonography was performed in 37 patients. 
+Thyroid antibodies (thyroid peroxidase and thyroglobulin) were measured in all patients with abnormal thyroid function tests. 
+RESULTS: None of our patients had overt hypothyroidism; 29 patients (31.5%) had subclinical hypothyroidism. 
+Thyroid antibodies were absent in all patients. 
+The prevalence of patients with subclinical hypothyroidism was significantly higher in the younger patients. 
+Ultrasonography revealed morphological or volumetric abnormalities of the thyroid gland in 67.5% of patients; these abnormalities were more frequently observed in the older children. 
+CONCLUSIONS: Subclinical hypothyroidism is a frequent but stable finding in young children with WS. 
+The great majority of patients with WS >10 years, either with normal or hypoplastic thyroid, have normal thyroid function. 
+Therefore, we suggest yearly monitoring of thyroid function and sonographic studies at least once in patients with WS. 
+Treatment should be reserved for the patients with overt hypothyroidism or for those whose thyroid function shows signs of progressive deterioration. 
+Characterization of the calcitonin/CGRP gene in Williams syndrome.  
+We have investigated the possibility of mutations in the calcitonin/calcitonin gene related peptide (CGRP) gene in children with Williams syndrome. 
+Involvement  of the calcitonin/CGRP gene in Williams syndrome is postulated on the basis that  Williams syndrome children often have infantile hypercalcemia and deficient expression of calcitonin, a hormone that lowers serum calcium levels. 
+To test the hypothesis that mutations in the calcitonin/CGRP gene might be responsible for the reduced calcitonin levels, we examined the calcitonin/CGRP gene structure in  Williams syndrome children. 
+Analysis of white blood cell DNA by Southern blot hybridizations in 5 individuals did not show any detectable large deletions or rearrangements in the calcitonin/CGRP gene locus. 
+The possibility of small deletions or point mutations within the exon encoding the mature calcitonin hormone is unlikely based on ribonuclease protection assays with patient DNA amplified by the polymerase chain reaction (PCR) technique. 
+These findings suggest that the calcitonin deficiency might be due either to mutations elsewhere in the gene or to defects in the cellular machinery needed for calcitonin synthesis and/or secretion. 
+Imparied calcitonin secretion in patients with Williams syndrome.  
+Thyroid hypoplasia as a cause of congenital hypothyroidism in Williams syndrome.  
+In the Williams-Beuren syndrome (WBS), disorders of the thyroid function and morphology have been reported and programs of thyroid screening and surveillance  are recommended. 
+However, the frequency of biochemical thyroid assessment, particularly in the first year of life, is being debated. 
+In this report we describe an infant with WBS and congenital hypothyroidism, due to an important thyroid hypoplasia. 
+The patient, a 1-month-old female, negative at primary neonatal thyroid screening, was referred to our hospital for dyspnea. 
+Thyroid function tests showed a raised TSH (42 mIU/l; normal range 0.5-4 mIU/l) with a low FT(4) concentration (10.21 pmol/l; normal range: 10.29-24.45 pmol/l). 
+Ultrasound examination of the neck showed a significant thyroid hypoplasia, whereas (99m)Tc-pertechnetate thyroid scintigraphy evidenced a thyroid gland in normal position, with reduced shape and overall weak fixation. 
+Therefore, treatment with L-thyroxinewas started. 
+Thyroid hypoplasia is a frequent characteristic of WBS and abnormalities of thyroid function are common in patients with this feature. 
+Therefore, the possibility of congenital hypothyroidism should always be taken into consideration too and, even if congenital hypothyroidism neonatal screening is negative, thyroid (morphology and function) evaluation should be regularly assessed when the diagnosis is made and, thereafter, every year in the first years of life. 
+Thyroid hemiagenesis and elevated thyrotropin levels in a child with Williams syndrome.  
+A girl with Williams syndrome (WS) presented with elevated thyrotropin (TSH) levels (7.0 microU/ml), normal free thyroid hormone concentrations, and absent antithyroid autoantibodies. 
+Thyroid ultrasonography and scintigraphy showed hemiagenesis of the left lobe and no evidence of ectopic tissue. 
+TSH response to  thyrotropin-releasing hormone (TRH) injection (200 microg/mq, i.v.) was exaggerated and prolonged, suggesting subclinical hypothyroidism. 
+The biological  activity of circulating TSH was slightly below the normal range [TSH bioactivity  (B) to immunoreactivity (I) ratio (TSH B/I) = 0.4, normal: 0.6-2.2]. 
+These abnormalities are similar to those seen in patients with hypothalamic hypothyroidism. 
+Thyroid function is not a recognized manifestation of WS and is not routinely investigated. 
+However, abnormalities of the hypothalamic-pituitary-thyroid (HPT) axis and thyroid dysgenesis have been found  in other WS cases. 
+Genes mapping at 7q11.23, contiguous to the chromosomal region deleted in most WS patients, may be involved in the development of the thyroid gland, contributing to the complex phenotype of WS. 
+Williams syndrome associated with chronic renal failure and various endocrinological abnormalities.  
+A 31-year-old man who had been under regular hemodialysis for 6 months was diagnosed as Williams syndrome (WS) by fluorescence in situ hybridization (FISH)  chromosomal analysis. 
+The association of WS and chronic renal failure (CRF) is only rarely encountered. 
+Endocrinological examinations revealed hypergonadotropic hypogonadism. 
+Prolonged and exaggerated responses of adrenocorticotropin (ACTH) to insulin-induced hypoglycemia and corticotropin releasing hormone (CRH) were also noted. 
+While most of the endocrinological abnormalities observed in this patient could be attributed to altered endocrine circumstances in CRF, some findings stand in contrast. 
+Furthermore, the testicular biopsy specimen showed severe hypospermatogenesis. 
+Endocrine disorders observed in this patient may be at least in part, responsible for various clinical features underlying WS. 
+Intermittent hypoxia alters gut microbiota diversity in a mouse model of sleep apnoea.  
+We assessed whether intermittent hypoxia, which emulates one of the hallmarks of  obstructive sleep apnoea (OSA), leads to altered faecal microbiome in a murine model. 
+In vivo partial pressure of oxygen was measured in colonic faeces during intermittent hypoxia in four anesthetised mice. 
+10 mice were subjected to a pattern of chronic intermittent hypoxia (20 s at 5% O2 and 40 s at room air for 6 h·day(-1)) for 6 weeks and 10 mice served as normoxic controls. 
+Faecal samples  were obtained and microbiome composition was determined by 16S rRNA pyrosequencing and bioinformatic analysis by Quantitative Insights into Microbial Ecology. 
+Intermittent hypoxia exposures translated into hypoxia/re-oxygenation patterns in the faeces proximal to the bowel epithelium (<200 μm). 
+A significant  effect of intermittent hypoxia on global microbial community structure was found. 
+Intermittent hypoxia increased the α-diversity (Shannon index, p<0.05) and induced a change in the gut microbiota (ANOSIM analysis of β-diversity, p<0.05). 
+ Specifically, intermittent hypoxia-exposed mice showed a higher abundance of Firmicutes and a smaller abundance of Bacteroidetes and Proteobacteria phyla than controls. 
+Faecal microbiota composition and diversity are altered as a result of  intermittent hypoxia realistically mimicking OSA, suggesting the possibility that physiological interplays between host and gut microbiota could be deregulated in  OSA. 
+Composition and energy harvesting capacity of the gut microbiota: relationship to diet, obesity and time in mouse models.  
+Comment in     Gut. 
+2010 Dec;59(12):1589-90. 
+Metagenomic analysis of the pygmy loris fecal microbiome reveals unique functional capacity related to metabolism of aromatic compounds.  
+The animal gastrointestinal tract contains a complex community of microbes, whose composition ultimately reflects the co-evolution of microorganisms with their animal host. 
+An analysis of 78,619 pyrosequencing reads generated from pygmy loris fecal DNA extracts was performed to help better understand the microbial diversity and functional capacity of the pygmy loris gut microbiome. 
+The taxonomic analysis of the metagenomic reads indicated that pygmy loris fecal microbiomes were dominated by Bacteroidetes and Proteobacteria phyla. 
+The hierarchical clustering of several gastrointestinal metagenomes demonstrated the  similarities of the microbial community structures of pygmy loris and mouse gut systems despite their differences in functional capacity. 
+The comparative analysis of function classification revealed that the metagenome of the pygmy loris was characterized by an overrepresentation of those sequences involved in aromatic compound metabolism compared with humans and other animals. 
+The key enzymes related to the benzoate degradation pathway were identified based on the  Kyoto Encyclopedia of Genes and Genomes pathway assignment. 
+These results would contribute to the limited body of primate metagenome studies and provide a framework for comparative metagenomic analysis between human and non-human primates, as well as a comparative understanding of the evolution of humans and their microbiome. 
+However, future studies on the metagenome sequencing of pygmy loris and other prosimians regarding the effects of age, genetics, and environment on the composition and activity of the metagenomes are required. 
+An efficient RNA extraction method for estimating gut microbial diversity by polymerase chain reaction.  
