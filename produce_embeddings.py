@@ -102,6 +102,8 @@ except:
 df = pd.read_csv(df_path)
 batches = produce_batches(df['text'].tolist(), batch_size)
 
+print('producing embeddings...')
+
 # sequential version of the imap_unordered, useful for debugging
 # results = []
 # for n, b in batches:
@@ -124,6 +126,6 @@ time= default_timer() - start
 hours = time // 3600
 mins = (time - hours * 3600) // 60
 secs = time - hours * 3600 - mins * 60
-print('Total processing time: {}{}{}'.format(hours, mins, secs)
+print('Total processing time: {:0>2}:{:0>2}:{:.1f}'.format(int(hours), int(mins), int(secs)))
 print('Total records in  df["text"]: {}'.format(df['text'].size))
 print('Total embeddings produced: {}'.format(total_embeddings))
