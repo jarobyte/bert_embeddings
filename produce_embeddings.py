@@ -119,6 +119,11 @@ for b, a in arrays:
 
 for i in range(5):    
     print()
-print('Total processing time: {:.1f} sec'.format(default_timer() - start))
+
+time= default_timer() - start 
+hours = time // 3600
+mins = (time - hours * 3600) // 60
+secs = time - hours * 3600 - mins * 60
+print('Total processing time: {}{}{}'.format(hours, mins, secs)
 print('Total records in  df["text"]: {}'.format(df['text'].size))
 print('Total embeddings produced: {}'.format(total_embeddings))
