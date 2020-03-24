@@ -28,7 +28,7 @@ def extract_cls_embeddings(text_list,
     with open('{}/{}/{}.txt'.format(data_folder, tmp_folder, tmp_file_name), 'w+') as file:
         for l in text_list:
             file.write(l)
-            file.write('\n')
+            file.write('|||\n')
              
     process = subprocess.run(["python", 
                                "bert_resources/bert/extract_features.py", 
@@ -100,7 +100,8 @@ except:
     print('there was an error while creating the folders')
     
 df = pd.read_csv(df_path)
-batches = produce_batches(df['text'].tolist(), batch_size)
+text_list = df['text'].str.replace(r'\n', '').tolist()
+batches = produce_batches(text_list, batch_size)
 
 print('producing embeddings...')
 
