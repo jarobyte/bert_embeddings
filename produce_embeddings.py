@@ -16,9 +16,8 @@ def extract_cls_embeddings(text_list,
                            tmp_file_name = 'tmp', 
                            tmp_folder = 'tmp', 
                            out_folder = 'json',
-                           bert_folder = 'bert_resources',
-                           bert_models_folder = 'bert_models',
-                           bert_model = 'uncased_L-2_H-128_A-2'):     
+                           scripts_folder = 'bert/',
+                           model_folder = 'models/uncased_L-2_H-128_A-2/'):     
 
     """
     Warning: this function may produce more embeddings than elements in text_list 
@@ -31,18 +30,12 @@ def extract_cls_embeddings(text_list,
             file.write('|||\n')
              
     process = subprocess.run(["python", 
-                               "bert_resources/bert/extract_features.py", 
+                               "{}extract_features.py".format(scripts_folder), 
                                "--input_file={}/{}/{}.txt".format(data_folder, tmp_folder, tmp_file_name),
                                "--output_file={}/{}/{}.jsonl".format(data_folder, out_folder, tmp_file_name),
-                               "--vocab_file={}/{}/{}/vocab.txt".format(bert_folder, 
-                                                                                     bert_models_folder, 
-                                                                                     bert_model),
-                               "--bert_config_file={}/{}/{}/bert_config.json".format(bert_folder, 
-                                                                                     bert_models_folder, 
-                                                                                     bert_model),
-                               "--init_checkpoint={}/{}/{}/bert_model.ckpt".format(bert_folder, 
-                                                                                     bert_models_folder, 
-                                                                                     bert_model),
+                               "--vocab_file={}vocab.txt".format(model_folder),
+                               "--bert_config_file={}bert_config.json".format(model_folder),
+                               "--init_checkpoint={}bert_model.ckpt".format(model_folder),
                                "--layers=-1",
                                "--max_seq_length=128",
                                "--batch_size=8"])
@@ -66,7 +59,11 @@ def produce_batches(data, batch_size):
     return output
 
 def extract_emb(x):
-    return (x[0], extract_cls_embeddings(x[1], tmp_file_name = x[0], data_folder = output_folder))
+    return (x[0], extract_cls_embeddings(x[1], 
+                                         tmp_file_name = x[0], 
+                                         data_folder = output_folder, 
+                                         scripts_folder = args.scripts_folder, 
+                                         model_folder = args.model_folder))
 
 
 
@@ -75,13 +72,15 @@ start = default_timer()
 parser = argparse.ArgumentParser()
 parser.add_argument('path')
 parser.add_argument('batch_size', type = int)
+parser.add_argument('--scripts-folder', required = False, default = 'bert/')
+parser.add_argument('--model-folder', required = False, default = 'models/uncased_L-2_H-128_A-2/')
 args = parser.parse_args()
-
 batch_size = args.batch_size
 
 df_path = args.path
 folder, file_name = re.match(r'(^.*)/(.*)\.', df_path).groups()
-output_folder = '{}/{}_bert'.format(folder, file_name)
+print(re.findall(r'(/)(.*?)(/$)', str(args.model_folder))[0][1])
+output_folder = '{}/{}({})'.format(folder, file_name, re.sub(r'\W', r'_', re.findall(r'(/)(.*?)(/$)', str(args.model_folder))[0][1]))
 
 print('removing folders...')
 try:
