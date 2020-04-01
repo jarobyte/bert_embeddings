@@ -79,8 +79,7 @@ batch_size = args.batch_size
 
 df_path = args.path
 folder, file_name = re.match(r'(^.*)/(.*)\.', df_path).groups()
-print(re.findall(r'(/)(.*?)(/$)', str(args.model_folder))[0][1])
-output_folder = '{}/{}({})'.format(folder, file_name, re.sub(r'\W', r'_', re.findall(r'(/)(.*?)(/$)', str(args.model_folder))[0][1]))
+output_folder = '{}/{}__{}'.format(folder, file_name, re.sub(r'\W', r'_', re.findall(r'(/)(.*?)(/$)', str(args.model_folder))[0][1]))
 
 print('removing folders...')
 try:
